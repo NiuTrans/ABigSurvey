@@ -724,7 +724,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 7. **Sentiment Analysis of Czech Texts: An Algorithmic Survey.** ICAART 2019 [paper](https://arxiv.org/abs/1901.02780)
 
-    *Erion ?ano, Ond?ej Bojar*
+    *Erion Cano, Ondrej Bojar*
 
 8. **Sentiment Analysis of Twitter Data: A Survey of Techniques.** arXiv 2016 [paper](https://arxiv.org/abs/1601.06971)
 
@@ -740,7 +740,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 11. **Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1902.00753)
 
-    *Erion ?ano, Maurizio Morisio*
+    *Erion Cano, Maurizio Morisio*
 
 #### [Speech and Multimodality](#content)
 
@@ -766,7 +766,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 6. **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.** IJCAI 2017 [paper](https://arxiv.org/abs/1601.03896)
 
-    *Raffaella Bernardi, Ruket ?akici, Desmond Elliott, Aykut Erdem, Erkut Erdem, Nazli Ikizler-Cinbis, Frank Keller, Adrian Muscat, Barbara Plank*
+    *Raffaella Bernardi, Ruket Cakici, Desmond Elliott, Aykut Erdem, Erkut Erdem, Nazli Ikizler-Cinbis, Frank Keller, Adrian Muscat, Barbara Plank*
 
 7. **Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems.** arXiv 2019 [paper](https://arxiv.org/abs/1903.12394)
 
@@ -774,7 +774,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 8. **Multimodal Machine Learning: A Survey and Taxonomy.** IEEE 2019 [paper](https://arxiv.org/abs/1705.09406)
 
-    *Tadas Baltru?aitis, Chaitanya Ahuja, Louis-Philippe Morency*
+    *Tadas Baltrusaitis, Chaitanya Ahuja, Louis-Philippe Morency*
 
 9. **Speech and Language Processing.** Stanford University 2019 [paper](http://web.stanford.edu/~jurafsky/slp3/)
 
@@ -834,7 +834,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Text Classification](#content)
 
-1. **A Survey of Na?ve Bayes Machine Learning approach in Text Document Classification.** IJCSIS 2010 [paper](https://arxiv.org/abs/1003.1795)
+1. **A Survey of Naive Bayes Machine Learning approach in Text Document Classification.** IJCSIS 2010 [paper](https://arxiv.org/abs/1003.1795)
 
     *K. A. Vidhya, G. Aghila*
 
@@ -864,7 +864,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 3. **A Survey on Latent Tree Models and Applications.** Journal of Artificial Intelligence Research 2013 [paper](https://arxiv.org/abs/1402.0577)
 
-    *Rapha?l Mourad, Christine Sinoquet, Nevin L. Zhang, Tengfei Liu, Philippe Leray*
+    *Raphael Mourad, Christine Sinoquet, Nevin L. Zhang, Tengfei Liu, Philippe Leray*
 
 4. **An Attentive Survey of Attention Models.** arXiv 2019 [paper](https://arxiv.org/abs/1904.02874)
 
@@ -910,7 +910,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 4. **Benchmark and Survey of Automated Machine Learning Frameworks.** arXiv 2020 [paper](https://arxiv.org/abs/1904.12054)
 
-    *Marc-André Z?ller, Marco F. Huber*
+    *Marc-André Zoller, Marco F. Huber*
 
 5. **Neural Architecture Search: A Survey.** Journal of Machine Learning Research 2019 [paper](https://arxiv.org/abs/1808.05377)
 
@@ -1062,7 +1062,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 6. **A Survey of Reinforcement Learning Informed by Natural Language.** IJCAI 2019 [paper](https://arxiv.org/abs/1906.03926)
 
-    *Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob N. Foerster, Jacob Andreas, Edward Grefenstette, Shimon Whiteson, Tim Rockt?schel*
+    *Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob N. Foerster, Jacob Andreas, Edward Grefenstette, Shimon Whiteson, Tim Rocktaschel*
 
 7. **A Survey of Reinforcement Learning Techniques: Strategies, Recent Development, and Future Directions.** arXiv 2020 [paper](https://arxiv.org/abs/2001.06921)
 
@@ -1220,7 +1220,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 26. **Multi-Objective Multi-Agent Decision Making: A Utility-based Analysis and Survey.** Autonomous Agents and Multi-Agent Systems 2020 [paper](https://link.springer.com/content/pdf/10.1007/s10458-019-09433-x.pdf)
 
-    *Roxana R?dulescu, Patrick Mannion, Diederik M. Roijers, Ann Nowé*
+    *Roxana Radulescu, Patrick Mannion, Diederik M. Roijers, Ann Nowé*
 
 27. **Narrative Science Systems: A Review.** International Journal of Research in Computer Science 2015 [paper](https://arxiv.org/abs/1510.04420)
 
@@ -1232,7 +1232,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 29. **Relational inductive biases, deep learning, and graph networks.** arXiv 2018 [paper](http://arxiv.org/abs/1806.01261)
 
-    *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinícius Flores Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, ?aglar Gül?ehre, H. Francis Song, Andrew J. Ballard, Justin Gilmer, George E. Dahl, Ashish Vaswani, Kelsey R. Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matthew Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu*
+    *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinícius Flores Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gül?ehre, H. Francis Song, Andrew J. Ballard, Justin Gilmer, George E. Dahl, Ashish Vaswani, Kelsey R. Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matthew Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu*
 
 30. **Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey.** JMLR 2019 [paper](https://arxiv.org/abs/1905.11485)
 
@@ -1268,7 +1268,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 38. **Unsupervised Cross-Lingual Representation Learning.** ACL 2019 [paper](https://www.aclweb.org/anthology/P19-4007.pdf)
 
-    *Sebastian Ruder, Anders S?gaard, Ivan Vulic*
+    *Sebastian Ruder, Anders Sogaard, Ivan Vulic*
 
 39. **Verification for Machine Learning, Autonomy, and Neural Networks Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.01989)
 
