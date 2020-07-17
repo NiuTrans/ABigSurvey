@@ -1627,7 +1627,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 ## Team Members
 
-Ziyang Wang, Nuo Xu, Bei Li, Yinqiao Li, Tong Xiao, and Jingbo Zhu
+Ziyang Wang, Nuo Xu, Bei Li, Yinqiao Li, Quan Du, Tong Xiao, and Jingbo Zhu
 
 Please feel free to contact us if you have any questions (wangziyang [at] stumail.neu.edu.cn or libei_neu [at] outlook.com).
 
