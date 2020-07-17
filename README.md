@@ -41,7 +41,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#classification-clustering-and-regression">Classification,Clustering,Regression</a>
     + <a href="#curriculum-learning">Curriculum Learning</a>
     + <a href="#data-augmentation">Data Augmentation</a>
-    + <a href="#deep-learning-(General)">Deep Learning (General)</a>
+    + <a href="#deep-learning-(general)">Deep Learning (General)</a>
     + <a href="#deep-reinforcement-learning">Deep Reinforcement Learning</a>
     + <a href="#federated-learning">Federated Learning</a>
     + <a href="#few-shot-and-zero-shot-learning">Few-Shot and Zero-Shot Learning</a>
