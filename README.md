@@ -1,8 +1,8 @@
  # A Survey of Surveys (NLP & ML)
 
-*1. Natural Language Processing Lab., School of Computer Science and Engineering, Northeastern University*
+*Natural Language Processing Lab., School of Computer Science and Engineering, Northeastern University*
 
-*2. NiuTrans Research*
+*NiuTrans Research*
 
 In this document, we survey hundreds of survey papers on Natural Language  Processing (NLP) and Machine Learning (ML). We categorize these papers into popular topics and do simple counting for some interesting problems. In addition, we show the list of the papers with urls (358 papers). 
 
@@ -1629,7 +1629,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 Ziyang Wang, Nuo Xu, Bei Li, Yinqiao Li, Tong Xiao, and Jingbo Zhu
 
-Please feel free to contact us (wangziyang [at] stumail.neu.edu.cn or libei_neu [at] outlook.com) if you have any questions.
+Please feel free to contact us if you have any questions (wangziyang [at] stumail.neu.edu.cn or libei_neu [at] outlook.com).
 
 We would like to thank the people who contributed to this project. They are
 
