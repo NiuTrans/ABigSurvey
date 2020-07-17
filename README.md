@@ -69,11 +69,11 @@ We show the number of paper in each area in Figures 1-2.
 
 <p align="center"><img src="https://i.loli.net/2020/07/17/25EpP9HDeWgrtTu.png"  width="70%" height="70%" /></p>
 
-<p align="center">Figure 1: # of papers each NLP area.</p>
+<p align="center">Figure 1: # of papers in each NLP area.</p>
 
 <p align="center"><img src="https://i.loli.net/2020/07/17/CcAO9HSs5TUjVqL.png" width="70%" height="70%" /></p>
 
-<p align="center">Figure 2:  # of papers each ML area..</p>
+<p align="center">Figure 2:  # of papers in each ML area..</p>
 
 Also, we plot paper number as a function of publication year (see Figure 3).
 
@@ -1631,6 +1631,6 @@ Ziyang Wang, Nuo Xu, Bei Li, Yinqiao Li, Tong Xiao, and Jingbo Zhu
 
 Please feel free to contact us if you have any questions (wangziyang [at] stumail.neu.edu.cn or libei_neu [at] outlook.com).
 
-We would like to thank the people who contributed to this project. They are
+We would like to thank the people who have contributed to this project. They are
 
 Xin Zeng, Laohu Wang, Chenglong Wang, Xiaoqian Liu, Xuanjun Zhou, Jingnan Zhang, Yongyu Mu, Zefan Zhou, Yanhong Jiang, Xinyang Zhu, Xingyu Liu, Dong Bi, Ping Xu, Zijian Li, Fengning Tian, Hui Liu, Kai Feng, Yuhao Zhang, Chi Hu, Di Yang, Lei Zheng, Hexuan Chen, Zeyang Wang, Tengbo Liu, Xia Meng, Weiqiao Shan, Shuhan Zhou, Tao Zhou, Runzhe Cao, Yingfeng Luo, Binghao Wei, Wandi Xu, Yan Zhang, Yichao Wang, Mengyu Ma, Zihao Liu
