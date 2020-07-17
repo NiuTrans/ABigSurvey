@@ -41,7 +41,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#classification-clustering-and-regression">Classification,Clustering,Regression</a>
     + <a href="#curriculum-learning">Curriculum Learning</a>
     + <a href="#data-augmentation">Data Augmentation</a>
-    + <a href="#deep-learning-general-methods">Deep Learning - General Methods</a>
+    + <a href="#deep-learning---general-methods">Deep Learning - General Methods</a>
     + <a href="#deep-reinforcement-learning">Deep Reinforcement Learning</a>
     + <a href="#federated-learning">Federated Learning</a>
     + <a href="#few-shot-and-zero-shot-learning">Few-Shot and Zero-Shot Learning</a>
@@ -1520,117 +1520,4 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Steven C.H. Hoi, Doyen Sahoo, Jing Lu, Peilin Zhao*
 
-3. **Preference-based Online Learning with Dueling Bandits: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1807.11398)
-
-    *Robert Busa-Fekete, Eyke Hüllermeier, Adil El Mesaoudi-Paul*
-
-#### [Optimization](#content)
-
-1. **A Survey of Optimization Methods from a Machine Learning Perspective.** arXiv 2019 [paper](https://arxiv.org/abs/1906.06821)
-
-    *Shiliang Sun, Zehui Cao, Han Zhu, Jing Zhao*
-
-2. **A Systematic and Meta-analysis Survey of Whale Optimization Algorithm.** Comput. Intell. Neurosci. 2019 [paper](https://arxiv.org/abs/1903.08763)
-
-    *Hardi M. Mohammed, Shahla U. Umar, Tarik A. Rashid*
-
-3. **An overview of gradient descent optimization algorithms.** arXiv 2017 [paper](https://arxiv.org/abs/1609.04747)
-
-    *Sebastian Ruder*
-
-4. **Convex Optimization Overview.** IEEE 2008 [paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.6470)
-
-    *Nikos Komodakis*
-
-5. **Gradient Boosting Machine: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1908.06951)
-
-    *Zhiyuan He, Danchen Lin, Thomas Lau, Mike Wu*
-
-6. **Optimization for deep learning: theory and algorithms.** arXiv 2019 [paper](https://arxiv.org/abs/1912.08957)
-
-    *Ruoyu Sun*
-
-7. **Optimization Models for Machine Learning: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1901.05331)
-
-    *Claudio Gambella, Bissan Ghaddar, Joe Naoum-Sawaya*
-
-8. **Particle Swarm Optimization: A survey of historical and recent developments with hybridization perspectives.** Machine Learning and Knowledge Extraction 2019 [paper](https://arxiv.org/abs/1804.05319)
-
-    *Saptarshi Sengupta, Sanchita Basak, Richard Alan Peters II*
-
-#### [Semi-Supervised and Unsupervised Learning](#content)
-
-1. **A brief introduction to weakly supervised learning.** arXiv 2018 [paper](https://cs.nju.edu.cn/_upload/tpl/01/0b/267/template267/zhouzh.files/publication/nsr18.pdf)
-
-    *Zhihua Zhou*
-
-2. **A Survey on Semi-Supervised Learning Techniques.** arXiv 2014 [paper](https://arxiv.org/abs/1402.4645)
-
-    *V. Jothi Prakash, Dr. L.M. Nithya*
-
-3. **Improvability Through Semi-Supervised Learning: A Survey of Theoretical Results.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09574)
-
-    *Alexander Mey, Marco Loog*
-
-4. **Learning from positive and unlabeled data: a survey.** Machine Learning 2020 [paper](https://arxiv.org/abs/1811.04820)
-
-    *Jessa Bekker, Jesse Davis*
-
-#### [Transfer Learning](#content)
-
-1. **A Comprehensive Survey on Transfer Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1911.02685)
-
-    *Fuzhen Zhuang, Zhiyuan Qi, Keyu Duan, Dongbo Xi, Yongchun Zhu, Hengshu Zhu, Hui Xiong, Qing He*
-
-2. **A Survey of Unsupervised Deep Domain Adaptation.** arXiv 2020 [paper](https://arxiv.org/abs/1812.02849)
-
-    *Garrett Wilson, Diane J. Cook*
-
-3. **A Survey on Deep Transfer Learning.** ICANN 2018 [paper](https://arxiv.org/abs/1808.01974)
-
-    *Chuanqi Tan, Fuchun Sun, Tao Kong, Wenchang Zhang, Chao Yang, Chunfang Liu*
-
-4. **A survey on domain adaptation theory: learning bounds and theoretical guarantees.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11829)
-
-    *Ievgen Redko, Emilie Morvant, Amaury Habrard, Marc Sebban, Younès Bennani*
-
-5. **Evolution of transfer learning in natural language processing.** arXiv 2019 [paper](https://arxiv.org/abs/1910.07370)
-
-    *Aditya Malte, Pratik Ratadiya*
-
-6. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** arXiv 2019 [paper](https://arxiv.org/pdf/1910.10683.pdf)
-
-    *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu*
-
-7. **Neural Unsupervised Domain Adaptation in NLP---A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.00632)
-
-    *Alan Ramponi, Barbara Plank*
-
-8. **Transfer Adaptation Learning: A Decade Survey.** arXiv 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf)
-
-    *Lei Zhang*
-
-#### [Trustworthy Machine Learning](#content)
-
-1. **A Survey on Bias and Fairness in Machine Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09635)
-
-    *Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, Aram Galstyan*
-
-2. **Differential Privacy and Machine Learning: a Survey and Review.** arXiv 2014 [paper](https://arxiv.org/abs/1412.7584)
-
-    *Zhanglong Ji, Zachary C. Lipton, Charles Elkan*
-
-3. **Tutorial: Safe and Reliable Machine Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1904.07204)
-
-    *Suchi Saria, Adarsh Subbaswamy*
-
-
-## Team Members
-
-Ziyang Wang, Nuo Xu, Bei Li, Yinqiao Li, Quan Du, Tong Xiao, and Jingbo Zhu
-
-Please feel free to contact us if you have any questions (wangziyang [at] stumail.neu.edu.cn or libei_neu [at] outlook.com).
-
-We would like to thank the people who have contributed to this project. They are
-
-Xin Zeng, Laohu Wang, Chenglong Wang, Xiaoqian Liu, Xuanjun Zhou, Jingnan Zhang, Yongyu Mu, Zefan Zhou, Yanhong Jiang, Xinyang Zhu, Xingyu Liu, Dong Bi, Ping Xu, Zijian Li, Fengning Tian, Hui Liu, Kai Feng, Yuhao Zhang, Chi Hu, Di Yang, Lei Zheng, Hexuan Chen, Zeyang Wang, Tengbo Liu, Xia Meng, Weiqiao Shan, Shuhan Zhou, Tao Zhou, Runzhe Cao, Yingfeng Luo, Binghao Wei, Wandi Xu, Yan Zhang, Yichao Wang, Mengyu Ma, Zihao Liu
+3. **Preference-based Online Learning
