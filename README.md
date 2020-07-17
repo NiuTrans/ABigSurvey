@@ -156,7 +156,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Kun Jing, Jungang Xu*
 
-4. **Neural Text Generation: Past, Present and Beyond.** CoRR 2018 [paper](https://arxiv.org/pdf/1803.07133.pdf)
+4. **Neural Text Generation: Past, Present and Beyond.** arXiv 2018 [paper](https://arxiv.org/pdf/1803.07133.pdf)
 
     *Sidi Lu, Yaoming Zhu, Weinan Zhang, Jun Wang, Yong Yu*
 
@@ -168,7 +168,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan*
 
-7. **Recent Advances in SQL Query Generation: A Survey.** CoRR 2020 [paper](https://arxiv.org/abs/2005.07667)
+7. **Recent Advances in SQL Query Generation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.07667)
 
     *Jovan Kalajdjieski, Martina Toshevska, Frosina Stojanovska*
 
@@ -178,7 +178,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Information Extraction](#content)
 
-1. **A Survey of Deep Learning Methods for Relation Extraction.** CoRR 2017 [paper](https://arxiv.org/abs/1705.03645)
+1. **A Survey of Deep Learning Methods for Relation Extraction.** arXiv 2017 [paper](https://arxiv.org/abs/1705.03645)
 
     *Shantanu Kumar*
 
@@ -186,7 +186,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Wei Xiang, Bang Wang*
 
-3. **A Survey of Neural Network Techniques for Feature Extraction from Text.** CoRR 2017 [paper](https://arxiv.org/abs/1704.08531)
+3. **A Survey of Neural Network Techniques for Feature Extraction from Text.** arXiv 2017 [paper](https://arxiv.org/abs/1704.08531)
 
     *Vineet John*
 
@@ -194,11 +194,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Christina Niklaus, Matthias Cetto, André Freitas, Siegfried Handschuh*
 
-5. **A Survey on Temporal Reasoning for Temporal Information Extraction from Text (Extended Abstract).** CoRR 2019 [paper](https://arxiv.org/abs/2005.06527)
+5. **A Survey on Temporal Reasoning for Temporal Information Extraction from Text (Extended Abstract).** arXiv 2019 [paper](https://arxiv.org/abs/2005.06527)
 
     *Artuur Leeuwenberg, Marie-Francine Moens*
 
-6. **Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey.** CoRR 2016 [paper](https://arxiv.org/abs/1605.07895)
+6. **Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey.** arXiv 2016 [paper](https://arxiv.org/abs/1605.07895)
 
     *Nabiha Asghar*
 
@@ -208,13 +208,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 8. **Keyphrase Generation: A Multi-Aspect Survey.** FRUCT 2019 [paper](https://arxiv.org/abs/1910.05059)
 
-    *Erion Çano, Ondřej Bojar*
+    *Erion ?ano, Ond?ej Bojar*
 
 9. **More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.** arXiv 2020 [paper](https://arxiv.org/abs/2004.03186)
 
     *Xu Han, Tianyu Gao, Yankai Lin, Hao Peng, Yaoliang Yang, Chaojun Xiao, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou:*
 
-10. **Relation Extraction : A Survey.** CoRR 2017 [paper](https://arxiv.org/abs/1712.05191)
+10. **Relation Extraction : A Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1712.05191)
 
     *Sachin Pawar, Girish K. Palshikar, Pushpak Bhattacharyya*
 
@@ -224,7 +224,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Information Retrieval and Text Mining](#content)
 
-1. **A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques.** CoRR 2017 [paper](https://arxiv.org/abs/1707.02919)
+1. **A Brief Survey of Text Mining: Classification, Clustering and Extraction Techniques.** arXiv 2017 [paper](https://arxiv.org/abs/1707.02919)
 
     *Mehdi Allahyari, Seyed Amin Pouriyeh, Mehdi Assefi, Saied Safaei, Elizabeth D. Trippe, Juan B. Gutierrez, Krys Kochut*
 
@@ -264,7 +264,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang*
 
-2. **A Survey on Knowledge Graphs: Representation, Acquisition and Applications.** CoRR 2020 [paper](https://arxiv.org/abs/2002.00388)
+2. **A Survey on Knowledge Graphs: Representation, Acquisition and Applications.** arXiv 2020 [paper](https://arxiv.org/abs/2002.00388)
 
     *Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, Philip S. Yu:*
 
@@ -276,7 +276,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Quan Wang, Zhendong Mao, Bin Wang, Li Guo*
 
-5. **Knowledge Graphs.** CoRR 2020 [paper](https://arxiv.org/abs/2003.02320)
+5. **Knowledge Graphs.** arXiv 2020 [paper](https://arxiv.org/abs/2003.02320)
 
     *Aidan Hogan, Eva Blomqvist, Michael Cochez, Claudia d'Amato, Gerard de Melo, Claudio Gutierrez, José Emilio Labra Gayo, Sabrina Kirrane, Sebastian Neumaier, Axel Polleres, Roberto Navigli, Axel-Cyrille Ngonga Ngomo, Sabbir M. Rashid, Anisa Rula, Lukas Schmelzeisen, Juan F. Sequeda, Steffen Staab, Antoine Zimmermann*
 
@@ -304,7 +304,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 1. **A comprehensive survey of mostly textual document segmentation algorithms since 2008.** Pattern Recognition 2017 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320316303399)
 
-    *Sébastien Eskenazi, Petra Gomez-Krämer, Jean-Marc Ogier*
+    *Sébastien Eskenazi, Petra Gomez-Kr?mer, Jean-Marc Ogier*
 
 2. **A Primer on Neural Network Models for Natural Language Processing.** arXiv 2015 [paper](https://arxiv.org/abs/1510.00726)
 
@@ -314,7 +314,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Sebastian Ruder, Ivan Vulic, Anders Sogaard*
 
-4. **A Survey of Neural Networks and Formal Languages.** CoRR 2020 [paper](https://arxiv.org/abs/2006.01338)
+4. **A Survey of Neural Networks and Formal Languages.** arXiv 2020 [paper](https://arxiv.org/abs/2006.01338)
 
     *Joshua Ackerman, George Cybenko*
 
@@ -460,15 +460,15 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [NER](#content)
 
-1. **A survey of named entity recognition and classification.** Lingvisticæ Investigationes 2007 [paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
+1. **A survey of named entity recognition and classification.** Lingvistic? Investigationes 2007 [paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
 
     *David Nadeau, Satoshi Sekine*
 
-2. **A Survey of Named Entity Recognition in Assamese and other Indian Languages.** CoRR 2014 [paper](https://arxiv.org/abs/1407.2918)
+2. **A Survey of Named Entity Recognition in Assamese and other Indian Languages.** arXiv 2014 [paper](https://arxiv.org/abs/1407.2918)
 
     *Gitimoni Talukdar, Pranjal Protim Borah, Arup Baruah*
 
-3. **A Survey on Deep Learning for Named Entity Recognition.** CoRR 2018 [paper](https://arxiv.org/abs/1812.09449)
+3. **A Survey on Deep Learning for Named Entity Recognition.** arXiv 2018 [paper](https://arxiv.org/abs/1812.09449)
 
     *Jing Li, Aixin Sun, Jianglei Han, Chenliang Li*
 
@@ -480,13 +480,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Jie Yang, Shuailong Liang, Yue Zhang*
 
-6. **Neural Entity Linking: A Survey of Models based on Deep Learning.** CoRR 2020 [paper](https://arxiv.org/abs/2006.00575)
+6. **Neural Entity Linking: A Survey of Models based on Deep Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2006.00575)
 
-    *Özge Sevgili, Artem Shelmanov, Mikhail Arkhipov, Alexander Panchenko, Chris Biemann*
+    *?zge Sevgili, Artem Shelmanov, Mikhail Arkhipov, Alexander Panchenko, Chris Biemann*
 
 #### [NLP Applications](#content)
 
-1. **A Comprehensive Survey of Grammar Error Correction.** arXiv 2020 [paper](https://arxiv.org/abs/2005.06600)
+1. **A Comprehensive Survey of Grammar Error arXivection.** arXiv 2020 [paper](https://arxiv.org/abs/2005.06600)
 
     *Yu Wang, Yuelin Wang, Jie Liu, Zhuo Liu*
 
@@ -518,7 +518,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Xinyi Zhou, Reza Zafarani*
 
-9. **Image Captioning based on Deep Learning Methods: A Survey.** CoRR 2019 [paper](https://arxiv.org/abs/1905.08110)
+9. **Image Captioning based on Deep Learning Methods: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1905.08110)
 
     *Yiyu Wang, Jungang Xu, Yingfei Sun, Ben He*
 
@@ -586,7 +586,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Xin Zhang, An Yang, Sujian Li, Yizhong Wang*
 
-4. **Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond.** CoRR 2020 [paper](https://arxiv.org/abs/2005.06249)
+4. **Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond.** arXiv 2020 [paper](https://arxiv.org/abs/2005.06249)
 
     *Zhuosheng Zhang, Hai Zhao, Rui Wang*
 
@@ -600,7 +600,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Zeynep Batmaz, Ali Yurekli, Alper Bilge, Cihan Kaleli:*
 
-2. **A Survey on Knowledge Graph-Based Recommender Systems.** CoRR 2020 [paper](https://arxiv.org/abs/2003.00911)
+2. **A Survey on Knowledge Graph-Based Recommender Systems.** arXiv 2020 [paper](https://arxiv.org/abs/2003.00911)
 
     *Qingyu Guo, Fuzhen Zhuang, Chuan Qin, Hengshu Zhu, Xing Xie, Hui Xiong, Qing He*
 
@@ -664,7 +664,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 8. **Survey on Evaluation Methods for Dialogue Systems.** arXiv 2019 [paper](https://arxiv.org/abs/1905.04071)
 
-    *Jan Deriu, Álvaro Rodrigo, Arantxa Otegi, Guillermo Echegoyen, Sophie Rosset, Eneko Agirre, Mark Cieliebak:*
+    *Jan Deriu, álvaro Rodrigo, Arantxa Otegi, Guillermo Echegoyen, Sophie Rosset, Eneko Agirre, Mark Cieliebak:*
 
 9. **Survey on Publicly Available Sinhala Natural Language Processing Tools and Research.** arXiv 2019 [paper](https://arxiv.org/abs/1906.02358)
 
@@ -674,7 +674,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 1. **Diachronic word embeddings and semantic shifts: a survey.** COLING 2018 [paper](https://arxiv.org/abs/1806.03537)
 
-    *Andrey Kutuzov, Lilja Øvrelid, Terrence Szymanski, Erik Velldal*
+    *Andrey Kutuzov, Lilja ?vrelid, Terrence Szymanski, Erik Velldal*
 
 2. **Evolution of Semantic Similarity -- A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.13820)
 
@@ -682,7 +682,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 3. **Semantic search on text and knowledge bases.** Foundations and trends in information retrieval 2016 [paper](https://www.researchgate.net/profile/Hannah_Bast/publication/304364705_Semantic_Search_on_Text_and_Knowledge_Bases/links/594a4734aca2723195de48df/Semantic-Search-on-Text-and-Knowledge-Bases.pdf)
 
-    *Hannah Bast ,  Björn Buchhold,  Elmar Haussmann*
+    *Hannah Bast ,  Bj?rn Buchhold,  Elmar Haussmann*
 
 4. **Semantics, Modelling, and the Problem of Representation of Meaning -- a Brief Survey of Recent Literature.** arXiv 2014 [paper](https://arxiv.org/abs/1402.7265)
 
@@ -724,7 +724,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 7. **Sentiment Analysis of Czech Texts: An Algorithmic Survey.** ICAART 2019 [paper](https://arxiv.org/abs/1901.02780)
 
-    *Erion Çano, Ondřej Bojar*
+    *Erion ?ano, Ond?ej Bojar*
 
 8. **Sentiment Analysis of Twitter Data: A Survey of Techniques.** arXiv 2016 [paper](https://arxiv.org/abs/1601.06971)
 
@@ -740,7 +740,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 11. **Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1902.00753)
 
-    *Erion Çano, Maurizio Morisio*
+    *Erion ?ano, Maurizio Morisio*
 
 #### [Speech and Multimodality](#content)
 
@@ -748,7 +748,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Kaiye Wang*
 
-2. **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis.** CoRR 2019 [paper](https://arxiv.org/abs/1910.09399)
+2. **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis.** arXiv 2019 [paper](https://arxiv.org/abs/1910.09399)
 
     *Jorge Agnese, Jonathan Herrera, Haicheng Tao, Xingquan Zhu*
 
@@ -766,7 +766,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 6. **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.** IJCAI 2017 [paper](https://arxiv.org/abs/1601.03896)
 
-    *Raffaella Bernardi, Ruket Çakici, Desmond Elliott, Aykut Erdem, Erkut Erdem, Nazli Ikizler-Cinbis, Frank Keller, Adrian Muscat, Barbara Plank*
+    *Raffaella Bernardi, Ruket ?akici, Desmond Elliott, Aykut Erdem, Erkut Erdem, Nazli Ikizler-Cinbis, Frank Keller, Adrian Muscat, Barbara Plank*
 
 7. **Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems.** arXiv 2019 [paper](https://arxiv.org/abs/1903.12394)
 
@@ -774,7 +774,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 8. **Multimodal Machine Learning: A Survey and Taxonomy.** IEEE 2019 [paper](https://arxiv.org/abs/1705.09406)
 
-    *Tadas Baltrušaitis, Chaitanya Ahuja, Louis-Philippe Morency*
+    *Tadas Baltru?aitis, Chaitanya Ahuja, Louis-Philippe Morency*
 
 9. **Speech and Language Processing.** Stanford University 2019 [paper](http://web.stanford.edu/~jurafsky/slp3/)
 
@@ -790,11 +790,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Hui Lin, Vincent Ng*
 
-3. **Automated text summarisation and evidence-based medicine: A survey of two domains.** CoRR 2017 [paper](https://arxiv.org/abs/1706.08162)
+3. **Automated text summarisation and evidence-based medicine: A survey of two domains.** arXiv 2017 [paper](https://arxiv.org/abs/1706.08162)
 
     *Abeed Sarker, Diego Mollá Aliod, Cécile Paris*
 
-4. **Automatic Keyword Extraction for Text Summarization: A Survey.** CoRR 2017 [paper](https://arxiv.org/abs/1704.03242)
+4. **Automatic Keyword Extraction for Text Summarization: A Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1704.03242)
 
     *Santosh Kumar Bharti, Korra Sathya Babu*
 
@@ -820,7 +820,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Nikolaos Stylianou, Ioannis Vlahavas*
 
-2. **A survey of cross-lingual features for zero-shot cross-lingual semantic parsing.** CoRR 2019 [paper](https://arxiv.org/abs/1908.10461)
+2. **A survey of cross-lingual features for zero-shot cross-lingual semantic parsing.** arXiv 2019 [paper](https://arxiv.org/abs/1908.10461)
 
     *Jingfeng Yang, Federico Fancellu, Bonnie L. Webber*
 
@@ -828,13 +828,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Aishwarya Kamath, Rajarshi Das*
 
-4. **The Gap of Semantic Parsing: A Survey on Automatic Math Word Problem Solvers.** CoRR 2018 [paper](https://arxiv.org/abs/1808.07290)
+4. **The Gap of Semantic Parsing: A Survey on Automatic Math Word Problem Solvers.** arXiv 2018 [paper](https://arxiv.org/abs/1808.07290)
 
     *Dongxiang Zhang, Lei Wang, Nuo Xu, Bing Tian Dai, Heng Tao Shen*
 
 #### [Text Classification](#content)
 
-1. **A Survey of Naïve Bayes Machine Learning approach in Text Document Classification.** IJCSIS 2010 [paper](https://arxiv.org/abs/1003.1795)
+1. **A Survey of Na?ve Bayes Machine Learning approach in Text Document Classification.** IJCSIS 2010 [paper](https://arxiv.org/abs/1003.1795)
 
     *K. A. Vidhya, G. Aghila*
 
@@ -846,7 +846,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Shervin Minaee, Nal Kalchbrenner, Erik Cambria, Narjes Nikzad, Meysam Chenaghlu, Jianfeng Gao*
 
-4. **Text Classification Algorithms: A Survey.** CoRR 2019 [paper](https://arxiv.org/abs/1904.08067)
+4. **Text Classification Algorithms: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1904.08067)
 
     *Kamran Kowsari, Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura E. Barnes, Donald E. Brown*
 
@@ -864,7 +864,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 3. **A Survey on Latent Tree Models and Applications.** Journal of Artificial Intelligence Research 2013 [paper](https://arxiv.org/abs/1402.0577)
 
-    *Raphaël Mourad, Christine Sinoquet, Nevin L. Zhang, Tengfei Liu, Philippe Leray*
+    *Rapha?l Mourad, Christine Sinoquet, Nevin L. Zhang, Tengfei Liu, Philippe Leray*
 
 4. **An Attentive Survey of Attention Models.** arXiv 2019 [paper](https://arxiv.org/abs/1904.02874)
 
@@ -910,7 +910,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 4. **Benchmark and Survey of Automated Machine Learning Frameworks.** arXiv 2020 [paper](https://arxiv.org/abs/1904.12054)
 
-    *Marc-André Zöller, Marco F. Huber*
+    *Marc-André Z?ller, Marco F. Huber*
 
 5. **Neural Architecture Search: A Survey.** Journal of Machine Learning Research 2019 [paper](https://arxiv.org/abs/1808.05377)
 
@@ -932,7 +932,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Classification Clustering and Regression](#content)
 
-1. **A Survey of Classification Techniques in the Area of Big Data.** CoRR 2015 [paper](https://arxiv.org/abs/1503.07477)
+1. **A Survey of Classification Techniques in the Area of Big Data.** arXiv 2015 [paper](https://arxiv.org/abs/1503.07477)
 
     *Praful Koturwar, Sheetal Girase, Debajyoti Mukhopadhyay*
 
@@ -940,7 +940,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Laura P. Swiler, Mamikon Gulian, Ari Frankel, Cosmin Safta, John D. Jakeman*
 
-3. **A Survey on Multi-View Clustering.** CoRR 2017 [paper](https://arxiv.org/abs/1712.06246)
+3. **A Survey on Multi-View Clustering.** arXiv 2017 [paper](https://arxiv.org/abs/1712.06246)
 
     *Guoqing Chao, Shiliang Sun, Jinbo Bi*
 
@@ -974,7 +974,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Deep Learning](#content)
 
-1. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** CoRR 2017 [paper](https://arxiv.org/abs/1705.06963)
+1. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** arXiv 2017 [paper](https://arxiv.org/abs/1705.06963)
 
     *Catherine D. Schuman, Thomas E. Potok, Robert M. Patton, J. Douglas Birdwell, Mark E. Dean, Garrett S. Rose, James S. Plank*
 
@@ -1022,7 +1022,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohldickstein*
 
-13. **Survey of reasoning using Neural networks.** CoRR 2017 [paper](https://arxiv.org/abs/1702.06186)
+13. **Survey of reasoning using Neural networks.** arXiv 2017 [paper](https://arxiv.org/abs/1702.06186)
 
     *Amit Sahu*
 
@@ -1052,7 +1052,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Reazul Hasan Russel*
 
-4. **A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress.** CoRR 2018 [paper](https://arxiv.org/abs/1806.06877)
+4. **A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress.** arXiv 2018 [paper](https://arxiv.org/abs/1806.06877)
 
     *Saurabh Arora, Prashant Doshi*
 
@@ -1062,7 +1062,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 6. **A Survey of Reinforcement Learning Informed by Natural Language.** IJCAI 2019 [paper](https://arxiv.org/abs/1906.03926)
 
-    *Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob N. Foerster, Jacob Andreas, Edward Grefenstette, Shimon Whiteson, Tim Rocktäschel*
+    *Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob N. Foerster, Jacob Andreas, Edward Grefenstette, Shimon Whiteson, Tim Rockt?schel*
 
 7. **A Survey of Reinforcement Learning Techniques: Strategies, Recent Development, and Future Directions.** arXiv 2020 [paper](https://arxiv.org/abs/2001.06921)
 
@@ -1092,7 +1092,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 2. **Advances and Open Problems in Federated Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1912.04977)
 
-    *Peter Kairouz, H Brendan Mcmahan, Brendan Avent, Aurelien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G L Doliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary A Garrett, Adria Gascon, Badih Ghazi, Phillip B Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrede Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Ozgur, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramer, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X Yu, Han Yu, Sen Zhao*
+    *Peter Kairouz, H Brendan Mcmahan, Brendan Avent, Aurelien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G L Doliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary A Garrett, Adria Gascon, Badih Ghazi, Phillip B Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecny, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrede Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Ozgur, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramer, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X Yu, Han Yu, Sen Zhao*
 
 3. **Threats to Federated Learning: A Survey.** CoRL 2019 2020 [paper](https://arxiv.org/abs/2003.02133)
 
@@ -1122,7 +1122,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *C.O.S. Sorzano, J. Vargas, A. Pascual Montano*
 
-2. **A Survey of Predictive Modelling under Imbalanced Distributions.** CoRR 2015 [paper](https://arxiv.org/abs/1505.01658)
+2. **A Survey of Predictive Modelling under Imbalanced Distributions.** arXiv 2015 [paper](https://arxiv.org/abs/1505.01658)
 
     *Paula Branco, Luis Torgo, Rita Ribeiro*
 
@@ -1130,7 +1130,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Leonid Datta*
 
-4. **A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective.** CoRR 2018 [paper](https://arxiv.org/abs/1811.03402)
+4. **A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective.** arXiv 2018 [paper](https://arxiv.org/abs/1811.03402)
 
     *Yuji Roh, Geon Heo, Steven Euijong Whang*
 
@@ -1146,7 +1146,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Donna Xu, Yaxin Shi, Ivor W. Tsang, Yew-Soon Ong, Chen Gong, Xiaobo Shen*
 
-8. **A Survey on Resilient Machine Learning.** CoRR 2017 [paper](https://arxiv.org/abs/1707.03184)
+8. **A Survey on Resilient Machine Learning.** arXiv 2017 [paper](https://arxiv.org/abs/1707.03184)
 
     *Atul Kumar, Sameep Mehta*
 
@@ -1178,7 +1178,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Varun Ojha, Ajith Abraham, Vaclav Snasel*
 
-16. **Hierarchical Mixtures-of-Experts for Exponential Family Regression Models with Generalized Linear Mean Functions: A Survey of Approximation and Consistency Results.** CoRR 2013 [paper](https://arxiv.org/abs/1301.7390)
+16. **Hierarchical Mixtures-of-Experts for Exponential Family Regression Models with Generalized Linear Mean Functions: A Survey of Approximation and Consistency Results.** arXiv 2013 [paper](https://arxiv.org/abs/1301.7390)
 
     *Wenxin Jiang, Martin A. Tanner*
 
@@ -1210,7 +1210,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Jie M. Zhang, Mark Harman, Lei Ma, Yang Liu*
 
-24. **Machine Learning with World Knowledge: The Position and Survey.** CoRR 2017 [paper](https://arxiv.org/abs/1705.02908)
+24. **Machine Learning with World Knowledge: The Position and Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1705.02908)
 
     *Yangqiu Song, Dan Roth*
 
@@ -1220,7 +1220,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 26. **Multi-Objective Multi-Agent Decision Making: A Utility-based Analysis and Survey.** Autonomous Agents and Multi-Agent Systems 2020 [paper](https://link.springer.com/content/pdf/10.1007/s10458-019-09433-x.pdf)
 
-    *Roxana Rădulescu, Patrick Mannion, Diederik M. Roijers, Ann Nowé*
+    *Roxana R?dulescu, Patrick Mannion, Diederik M. Roijers, Ann Nowé*
 
 27. **Narrative Science Systems: A Review.** International Journal of Research in Computer Science 2015 [paper](https://arxiv.org/abs/1510.04420)
 
@@ -1230,9 +1230,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Daokun Zhang, Jie Yin, Xingquan Zhu, Chengqi Zhang*
 
-29. **Relational inductive biases, deep learning, and graph networks.** CoRR 2018 [paper](http://arxiv.org/abs/1806.01261)
+29. **Relational inductive biases, deep learning, and graph networks.** arXiv 2018 [paper](http://arxiv.org/abs/1806.01261)
 
-    *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinícius Flores Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Çaglar Gülçehre, H. Francis Song, Andrew J. Ballard, Justin Gilmer, George E. Dahl, Ashish Vaswani, Kelsey R. Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matthew Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu*
+    *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinícius Flores Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, ?aglar Gül?ehre, H. Francis Song, Andrew J. Ballard, Justin Gilmer, George E. Dahl, Ashish Vaswani, Kelsey R. Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matthew Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu*
 
 30. **Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey.** JMLR 2019 [paper](https://arxiv.org/abs/1905.11485)
 
@@ -1246,7 +1246,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Yang Zhou*
 
-33. **Survey on Feature Selection.** CoRR 2015 [paper](https://arxiv.org/abs/1510.02892)
+33. **Survey on Feature Selection.** arXiv 2015 [paper](https://arxiv.org/abs/1510.02892)
 
     *Tarek Amr Abdallah, Beatriz de La Iglesia*
 
@@ -1258,19 +1258,19 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Shilin Zhu*
 
-36. **The Benefits of Population Diversity in Evolutionary Algorithms: A Survey of Rigorous Runtime Analyses.** CoRR 2018 [paper](https://arxiv.org/abs/1801.10087)
+36. **The Benefits of Population Diversity in Evolutionary Algorithms: A Survey of Rigorous Runtime Analyses.** arXiv 2018 [paper](https://arxiv.org/abs/1801.10087)
 
     *Dirk Sudholt*
 
-37. **Tutorial on Variational Autoencoders.** CoRR 2016 [paper](https://arxiv.org/pdf/1606.05908.pdf)
+37. **Tutorial on Variational Autoencoders.** arXiv 2016 [paper](https://arxiv.org/pdf/1606.05908.pdf)
 
     *Carl Doersch*
 
 38. **Unsupervised Cross-Lingual Representation Learning.** ACL 2019 [paper](https://www.aclweb.org/anthology/P19-4007.pdf)
 
-    *Sebastian Ruder, Anders Søgaard, Ivan Vulic*
+    *Sebastian Ruder, Anders S?gaard, Ivan Vulic*
 
-39. **Verification for Machine Learning, Autonomy, and Neural Networks Survey.** CoRR 2018 [paper](https://arxiv.org/abs/1810.01989)
+39. **Verification for Machine Learning, Autonomy, and Neural Networks Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.01989)
 
     *Weiming Xiang, Patrick Musau, Ayana A. Wild, Diego Manzanas Lopez, Nathaniel Hamilton, Xiaodong Yang, Joel Rosenfeld, Taylor T. Johnson*
 
@@ -1310,11 +1310,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*
 
-2. **A Survey on The Expressive Power of Graph Neural Networks.** CoRR 2020 [paper](https://arxiv.org/abs/2003.04078)
+2. **A Survey on The Expressive Power of Graph Neural Networks.** arXiv 2020 [paper](https://arxiv.org/abs/2003.04078)
 
     *Ryoma Sato*
 
-3. **Adversarial Attack and Defense on Graph Data: A Survey.** CoRR 2018 [paper](https://arxiv.org/abs/1812.10528)
+3. **Adversarial Attack and Defense on Graph Data: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1812.10528)
 
     *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li*
 
@@ -1334,7 +1334,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Luis C. Lamb, Artur Garcez, Marco Gori, Marcelo Prates, Pedro Avelar, Moshe Vardi*
 
-8. **Graph Neural Networks: A Review of Methods and Applications.** CoRR 2018 [paper](https://arxiv.org/abs/1812.08434)
+8. **Graph Neural Networks: A Review of Methods and Applications.** arXiv 2018 [paper](https://arxiv.org/abs/1812.08434)
 
     *Maosong Sun, Zhengyan Zhang, Ganqu Cui, Cheng Yang, Jie Zhou, Zhiyuan Liu*
 
@@ -1342,7 +1342,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Zhiyuan Liu, Jie Zhou*
 
-10. **Tackling Graphical NLP problems with Graph Recurrent Networks.** CoRR 2019 [paper](https://arxiv.org/abs/1907.06142)
+10. **Tackling Graphical NLP problems with Graph Recurrent Networks.** arXiv 2019 [paper](https://arxiv.org/abs/1907.06142)
 
     *Linfeng Song*
 
@@ -1368,7 +1368,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Erika Puiutta, Eric M. S. P. Veith*
 
-6. **Foundations of Explainable Knowledge-Enabled Systems.** Knowledge Graphs for eXplainable Artificial Intelligence: Foundations, Applications and Challenges/CoRR 2020 [paper](https://arxiv.org/abs/2003.07520)
+6. **Foundations of Explainable Knowledge-Enabled Systems.** Knowledge Graphs for eXplainable Artificial Intelligence: Foundations, Applications and Challenges/arXiv 2020 [paper](https://arxiv.org/abs/2003.07520)
 
     *Shruthi Chari*
 
@@ -1380,7 +1380,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach*
 
-9. **Survey & Experiment: Towards the Learning Accuracy.** CoRR 2010 [paper](https://arxiv.org/abs/1012.4051)
+9. **Survey & Experiment: Towards the Learning Accuracy.** arXiv 2010 [paper](https://arxiv.org/abs/1012.4051)
 
     *Zeyuan Allen Zhu*
 
@@ -1406,7 +1406,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Timothy M. Hospedales, Antreas Antoniou, Paul Micaelli, Amos J. Storkey*
 
-3. **Meta-Learning: A Survey.** CoRR 2018 [paper](https://arxiv.org/abs/1810.03548)
+3. **Meta-Learning: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.03548)
 
     *Joaquin Vanschoren*
 
@@ -1454,7 +1454,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Andrii Shalaginov, Sergii Banin, Ali Dehghantanha, Katrin Franke*
 
-9. **Machine Learning for Survival Analysis: A Survey.** CoRR 2017 [paper](https://arxiv.org/abs/1708.04649)
+9. **Machine Learning for Survival Analysis: A Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1708.04649)
 
     *Ping Wang, Yan Li, Chandan K. Reddy*
 
@@ -1468,7 +1468,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Yu Cheng, Duo Wang, Pan Zhou, Tao Zhang*
 
-2. **A Survey on Methods and Theories of Quantized Neural Networks.** CoRR 2018 [paper](https://arxiv.org/abs/1808.04752)
+2. **A Survey on Methods and Theories of Quantized Neural Networks.** arXiv 2018 [paper](https://arxiv.org/abs/1808.04752)
 
     *Yunhui Guo*
 
@@ -1490,11 +1490,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Kimhan Thung, Chong Yaw Wee*
 
-2. **A Survey on Multi-Task Learning.** CoRR 2017 [paper](https://arxiv.org/abs/1707.08114)
+2. **A Survey on Multi-Task Learning.** arXiv 2017 [paper](https://arxiv.org/abs/1707.08114)
 
     *Yu Zhang, Qiang Yang*
 
-3. **A Survey on Multi-view Learning.** CoRR 2013 [paper](https://arxiv.org/abs/1304.5634)
+3. **A Survey on Multi-view Learning.** arXiv 2013 [paper](https://arxiv.org/abs/1304.5634)
 
     *Chang Xu, Dacheng Tao, Chao Xu*
 
@@ -1516,11 +1516,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *H. Brendan McMahan*
 
-2. **Online Learning: A Comprehensive Survey.** CoRR 2018 [paper](https://arxiv.org/abs/1802.02871)
+2. **Online Learning: A Comprehensive Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1802.02871)
 
     *Steven C.H. Hoi, Doyen Sahoo, Jing Lu, Peilin Zhao*
 
-3. **Preference-based Online Learning with Dueling Bandits: A Survey.** CoRR 2018 [paper](https://arxiv.org/abs/1807.11398)
+3. **Preference-based Online Learning with Dueling Bandits: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1807.11398)
 
     *Robert Busa-Fekete, Eyke Hüllermeier, Adil El Mesaoudi-Paul*
 
@@ -1564,7 +1564,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Zhihua Zhou*
 
-2. **A Survey on Semi-Supervised Learning Techniques.** CoRR 2014 [paper](https://arxiv.org/abs/1402.4645)
+2. **A Survey on Semi-Supervised Learning Techniques.** arXiv 2014 [paper](https://arxiv.org/abs/1402.4645)
 
     *V. Jothi Prakash, Dr. L.M. Nithya*
 
@@ -1598,7 +1598,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Aditya Malte, Pratik Ratadiya*
 
-6. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** CoRR 2019 [paper](https://arxiv.org/pdf/1910.10683.pdf)
+6. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** arXiv 2019 [paper](https://arxiv.org/pdf/1910.10683.pdf)
 
     *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu*
 
@@ -1606,7 +1606,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Alan Ramponi, Barbara Plank*
 
-8. **Transfer Adaptation Learning: A Decade Survey.** CoRR 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf)
+8. **Transfer Adaptation Learning: A Decade Survey.** arXiv 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf)
 
     *Lei Zhang*
 
@@ -1616,11 +1616,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, Aram Galstyan*
 
-2. **Differential Privacy and Machine Learning: a Survey and Review.** CoRR 2014 [paper](https://arxiv.org/abs/1412.7584)
+2. **Differential Privacy and Machine Learning: a Survey and Review.** arXiv 2014 [paper](https://arxiv.org/abs/1412.7584)
 
     *Zhanglong Ji, Zachary C. Lipton, Charles Elkan*
 
-3. **Tutorial: Safe and Reliable Machine Learning.** CoRR 2019 [paper](https://arxiv.org/abs/1904.07204)
+3. **Tutorial: Safe and Reliable Machine Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1904.07204)
 
     *Suchi Saria, Adarsh Subbaswamy*
 
