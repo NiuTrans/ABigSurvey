@@ -41,7 +41,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#classification-clustering-and-regression">Classification,Clustering,Regression</a>
     + <a href="#curriculum-learning">Curriculum Learning</a>
     + <a href="#data-augmentation">Data Augmentation</a>
-    + <a href="#deep-learning">Deep Learning (General)</a>
+    + <a href="#deep-learning-general-methods">Deep Learning - General Methods</a>
     + <a href="#deep-reinforcement-learning">Deep Reinforcement Learning</a>
     + <a href="#federated-learning">Federated Learning</a>
     + <a href="#few-shot-and-zero-shot-learning">Few-Shot and Zero-Shot Learning</a>
@@ -972,7 +972,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Qingsong Wen, Liang Sun, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu*
 
-#### [Deep Learning](#content)
+#### [Deep Learning - General Methods](#content)
 
 1. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** arXiv 2017 [paper](https://arxiv.org/abs/1705.06963)
 
