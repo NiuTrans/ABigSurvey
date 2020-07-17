@@ -208,7 +208,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 8. **Keyphrase Generation: A Multi-Aspect Survey.** FRUCT 2019 [paper](https://arxiv.org/abs/1910.05059)
 
-    *Erion ?ano, Ond?ej Bojar*
+    *Erion Cano, Ondrej Bojar*
 
 9. **More Data, More Relations, More Context and More Openness: A Review and Outlook for Relation Extraction.** arXiv 2020 [paper](https://arxiv.org/abs/2004.03186)
 
@@ -304,7 +304,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 1. **A comprehensive survey of mostly textual document segmentation algorithms since 2008.** Pattern Recognition 2017 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320316303399)
 
-    *Sébastien Eskenazi, Petra Gomez-Kr?mer, Jean-Marc Ogier*
+    *Sébastien Eskenazi, Petra Gomez-Kramer, Jean-Marc Ogier*
 
 2. **A Primer on Neural Network Models for Natural Language Processing.** arXiv 2015 [paper](https://arxiv.org/abs/1510.00726)
 
@@ -460,7 +460,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [NER](#content)
 
-1. **A survey of named entity recognition and classification.** Lingvistic? Investigationes 2007 [paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
+1. **A survey of named entity recognition and classification.** Lingvistic Investigationes 2007 [paper](https://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
 
     *David Nadeau, Satoshi Sekine*
 
@@ -482,7 +482,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 6. **Neural Entity Linking: A Survey of Models based on Deep Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2006.00575)
 
-    *?zge Sevgili, Artem Shelmanov, Mikhail Arkhipov, Alexander Panchenko, Chris Biemann*
+    *Ozge Sevgili, Artem Shelmanov, Mikhail Arkhipov, Alexander Panchenko, Chris Biemann*
 
 #### [NLP Applications](#content)
 
@@ -674,7 +674,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 1. **Diachronic word embeddings and semantic shifts: a survey.** COLING 2018 [paper](https://arxiv.org/abs/1806.03537)
 
-    *Andrey Kutuzov, Lilja ?vrelid, Terrence Szymanski, Erik Velldal*
+    *Andrey Kutuzov, Lilja Ovrelid, Terrence Szymanski, Erik Velldal*
 
 2. **Evolution of Semantic Similarity -- A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.13820)
 
@@ -682,7 +682,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 3. **Semantic search on text and knowledge bases.** Foundations and trends in information retrieval 2016 [paper](https://www.researchgate.net/profile/Hannah_Bast/publication/304364705_Semantic_Search_on_Text_and_Knowledge_Bases/links/594a4734aca2723195de48df/Semantic-Search-on-Text-and-Knowledge-Bases.pdf)
 
-    *Hannah Bast ,  Bj?rn Buchhold,  Elmar Haussmann*
+    *Hannah Bast ,  Bjorn Buchhold,  Elmar Haussmann*
 
 4. **Semantics, Modelling, and the Problem of Representation of Meaning -- a Brief Survey of Recent Literature.** arXiv 2014 [paper](https://arxiv.org/abs/1402.7265)
 
