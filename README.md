@@ -175,6 +175,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 8. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation.** Journal of Artificial Intelligence Research 2018 [paper](https://arxiv.org/abs/1703.09902)
 
     *Albert Gatt,Emiel Krahmer*
+    
+9. **Evaluation of Text Generation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.14799) 
+
+    *Asli Celikyilmaz, Elizabeth Clark, Jianfeng Gao*
 
 #### [Information Extraction](#content)
 
