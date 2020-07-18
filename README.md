@@ -175,6 +175,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 8. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation.** Journal of Artificial Intelligence Research 2018 [paper](https://arxiv.org/abs/1703.09902)
 
     *Albert Gatt,Emiel Krahmer*
+    
+9. **Evaluation of Text Generation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.14799) 
+
+    *Asli Celikyilmaz, Elizabeth Clark, Jianfeng Gao*
 
 #### [Information Extraction](#content)
 
@@ -1609,6 +1613,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 8. **Transfer Adaptation Learning: A Decade Survey.** arXiv 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf)
 
     *Lei Zhang*
+
+9. **A Survey on Transfer Learning in Natural Language Processing.** arXiv 2020 [paper](https://arxiv.org/abs/2007.04239)
+
+    *Zaid Alyafeai, Maged Saeed AlShaibani, Irfan Ahmad*
 
 #### [Trustworthy Machine Learning](#content)
 
