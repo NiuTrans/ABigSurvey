@@ -1610,6 +1610,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Lei Zhang*
 
+9. **A Survey on Transfer Learning in Natural Language Processing.** arXiv 2020 [paper](https://arxiv.org/abs/2007.04239)
+
+    *Zaid Alyafeai, Maged Saeed AlShaibani, Irfan Ahmad*
+
 #### [Trustworthy Machine Learning](#content)
 
 1. **A Survey on Bias and Fairness in Machine Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09635)
