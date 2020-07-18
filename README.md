@@ -522,7 +522,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Yiyu Wang, Jungang Xu, Yingfei Sun, Ben He*
 
-10. **SECNLP: A Survey of Embeddings in Clinical Natural Language Processing.** J. Biomed. Informatics 2019 [paper](https://arxiv.org/abs/1903.01039)
+10. **SECNLP: A Survey of Embeddings in Clinical Natural Language Processing.** J. Biomed. Informatics 2019 [paper](https://www.sciencedirect.com/science/article/pii/S1532046419302436)
 
     *Kalyan KS, S Sangeetha*
 
