@@ -1,6 +1,6 @@
  # A Survey of Surveys (NLP & ML)
 
-In this document, we survey hundreds of survey papers on Natural Language  Processing (NLP) and Machine Learning (ML). We categorize these papers into popular topics and do simple counting for some interesting problems. In addition, we show the list of the papers with urls (360 papers). 
+In this document, we survey hundreds of survey papers on Natural Language  Processing (NLP) and Machine Learning (ML). We categorize these papers into popular topics and do simple counting for some interesting problems. In addition, we show the list of the papers with urls (361 papers). 
 
 ## Categorization
 
@@ -1409,6 +1409,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 3. **Meta-Learning: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.03548)
 
     *Joaquin Vanschoren*
+    
+4. **Meta-learning for Few-shot Natural Language Processing: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.09604)
+
+    *Wenpeng Yin*
 
 #### [Metric Learning](#content)
 
