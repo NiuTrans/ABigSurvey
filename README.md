@@ -1412,7 +1412,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Metric Learning](#content)
 
-1. **A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Experiments.** arXiv 2018 [paper](https://arxiv.org/abs/1812.05944)
+1. **A Survey on Metric Learning for Feature Vectors and Structured Data.** arXiv 2013 [paper](https://arxiv.org/abs/1306.6709)
+
+     *Aurélien Bellet, Amaury Habrard, Marc Sebban*
+
+2. **A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Experiments.** arXiv 2018 [paper](https://arxiv.org/abs/1812.05944)
 
     *Juan Luis Suarez, Salvador Garcia, Francisco Herrera*
 
