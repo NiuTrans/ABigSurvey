@@ -864,9 +864,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 3. **A Survey on Latent Tree Models and Applications.** Journal of Artificial Intelligence Research 2013 [paper](https://arxiv.org/abs/1402.0577)
 
-    *Raphael Mourad, Christine Sinoquet, Nevin L. Zhang, Tengfei Liu, Philippe Leray*
+    *Raphaël Mourad, Christine Sinoquet, Nevin L. Zhang, Tengfei Liu, Philippe Leray*
 
-4. **An Attentive Survey of Attention Models.** arXiv 2019 [paper](https://arxiv.org/abs/1904.02874)
+4. **An Attentive Survey of Attention Models.** IJCAI 2019 [paper](https://arxiv.org/abs/1904.02874)
 
     *Sneha Chaudhari, Gungor Polatkan, Rohan Ramanath, Varun Mithal*
 
@@ -878,13 +878,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Claudio Gallicchio, Alessio Micheli*
 
-7. **Recent Advances in Convolutional Neural Networks.** Pattern Recognition 2018 [paper](https://arxiv.org/abs/1512.07108v3)
+7. **Recent Advances in Convolutional Neural Networks.** Computer ence 2018 [paper](https://arxiv.org/abs/1512.07108v3)
 
     *Jiuxiang Gu, Zhenhua Wang, Jason Kuen, Lianyang Ma, Amir Shahroudy, Bing Shuai, Ting Liu, Xingxing Wang, Gang Wang, Jianfei Cai, Tsuhan Chen*
 
-8. **Sum-product networks: A survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.01167)
+8. **Sum-product networks: A survey.** IEEE 2020 [paper](https://arxiv.org/abs/2004.01167)
 
-    *Iago París, Raquel Sánchez-Cauce, Francisco Javier Díez*
+    *Iago Paris, Raquel Sanchez-Cauce, Francisco Javier Díez*
 
 9. **Survey on the attention based RNN model and its applications in computer vision.** arXiv 2016 [paper](https://arxiv.org/abs/1601.06823)
 
@@ -904,13 +904,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Martin Wistuba, Ambrish Rawat, Tejaswini Pedapati*
 
-3. **AutoML: A Survey of the State-of-the-Art.** arXiv 2019 [paper](https://arxiv.org/abs/1908.00709)
+3. **AutoML: A Survey of the State-of-the-Art.** Knowledge Based Systems 2019 [paper](https://arxiv.org/abs/1908.00709)
 
     *Xin He, Kaiyong Zhao, Xiaowen Chu*
 
-4. **Benchmark and Survey of Automated Machine Learning Frameworks.** arXiv 2020 [paper](https://arxiv.org/abs/1904.12054)
+4. **Benchmark and Survey of Automated Machine Learning Frameworks.** Journal of Artificial Intelligence Research 2020 [paper](https://arxiv.org/abs/1904.12054)
 
-    *Marc-André Zoller, Marco F. Huber*
+    *Marc-Andre Zoller, Marco F. Huber*
 
 5. **Neural Architecture Search: A Survey.** Journal of Machine Learning Research 2019 [paper](https://arxiv.org/abs/1808.05377)
 
@@ -944,7 +944,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Guoqing Chao, Shiliang Sun, Jinbo Bi*
 
-4. **Deep learning for time series classification: a review.** arXiv 2019 [paper](https://arxiv.org/abs/1809.04356)
+4. **Deep learning for time series classification: a review.** Data Mining & Knowledge Discovery 2019 [paper](https://arxiv.org/abs/1809.04356)
 
     *Hassan Ismail Fawaz, Germain Forestier, Jonathan Weber, Lhassane Idoumghar, Pierre-Alain Muller*
 
@@ -954,9 +954,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Curriculum Learning](#content)
 
-1. **Automatic Curriculum Learning For Deep RL: A Short Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2003.04664)
+1. **Automatic Curriculum Learning For Deep RL: A Short Survey.** IJCAI 2020 [paper](https://arxiv.org/abs/2003.04664)
 
-    *Rémy Portelas, Cédric Colas, Lilian Weng, Katja Hofmann, Pierre-Yves Oudeyer*
+    *Remy Portelas, Cedric Colas, Lilian Weng, Katja Hofmann, Pierre-Yves Oudeyer*
 
 2. **Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2003.04960)
 
@@ -972,7 +972,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Qingsong Wen, Liang Sun, Xiaomin Song, Jingkun Gao, Xue Wang, Huan Xu*
 
-#### [Deep Learning - General Methods](#content)
+#### [Deep Learning](#content)
 
 1. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** arXiv 2017 [paper](https://arxiv.org/abs/1705.06963)
 
@@ -990,7 +990,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Xiaofei Wang, Yiwen Han, Victor C.M. Leung, Dusit Niyato, Xueqiang Yan, Xu Chen*
 
-5. **Deep learning.** nature 2015 [paper](https://www.nature.com/articles/nature14539)
+5. **Deep learning.** Nature 2015 [paper](https://www.nature.com/articles/nature14539)
 
     *Yann LeCun*
 
@@ -1002,7 +1002,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Guan-Horng Liu, Evangelos A. Theodorou*
 
-8. **Geometric Deep Learning: Going beyond Euclidean data.** IEEE 2016 [paper](https://arxiv.org/abs/1611.08097)
+8. **Geometric Deep Learning: Going beyond Euclidean data.** IEEE 2017 [paper](https://arxiv.org/abs/1611.08097)
 
     *Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst*
 
@@ -1018,7 +1018,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Alex Labach, Hojjat Salehinejad, Shahrokh Valaee*
 
-12. **Survey of Expressivity in Deep Neural Networks.** arXiv 2016 [paper](https://arxiv.org/abs/1611.08083)
+12. **Survey of Expressivity in Deep Neural Networks.** NIPS 2016 [paper](https://arxiv.org/abs/1611.08083)
 
     *Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohldickstein*
 
@@ -1040,7 +1040,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Deep Reinforcement Learning](#content)
 
-1. **A Brief Survey of Deep Reinforcement Learning.** arXiv 2017 [paper](https://arxiv.org/abs/1708.05866)
+1. **A Brief Survey of Deep Reinforcement Learning.** IEEE 2017 [paper](https://arxiv.org/abs/1708.05866)
 
     *Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil A Bharath*
 
@@ -1062,7 +1062,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 6. **A Survey of Reinforcement Learning Informed by Natural Language.** IJCAI 2019 [paper](https://arxiv.org/abs/1906.03926)
 
-    *Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob N. Foerster, Jacob Andreas, Edward Grefenstette, Shimon Whiteson, Tim Rocktaschel*
+    *Jelena Luketina, Nantas Nardelli, Gregory Farquhar, Jakob N. Foerster, Jacob Andreas, Edward Grefenstette, Shimon Whiteson, Tim Rocktäschel*
 
 7. **A Survey of Reinforcement Learning Techniques: Strategies, Recent Development, and Future Directions.** arXiv 2020 [paper](https://arxiv.org/abs/2001.06921)
 
@@ -1072,7 +1072,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Aubret, Arthur, Matignon, Laetitia, Hassas, Salima*
 
-9. **A Survey on Reproducibility by Evaluating Deep Reinforcement Learning Algorithms on Real-World Robots.** arXiv 2019 [paper](https://arxiv.org/abs/1909.03772)
+9. **A Survey on Reproducibility by Evaluating Deep Reinforcement Learning Algorithms on Real-World Robots.** Conference on Robot Learning 2019 [paper](https://arxiv.org/abs/1909.03772)
 
     *Nicolai A. Lynnerup, Laura Nolling, Rasmus Hasle, John Hallam*
 
@@ -1086,15 +1086,15 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Federated Learning](#content)
 
-1. **A Survey towards Federated Semi-supervised Learning.** FRUCT 2020 [paper](https://arxiv.org/abs/2002.11545v1)
+1. **A Survey towards Federated Semi-supervised Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2002.11545v1)
 
     *Yilun Jin, Xiguang Wei, Yang Liu, Qiang Yang*
 
 2. **Advances and Open Problems in Federated Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1912.04977)
 
-    *Peter Kairouz, H Brendan Mcmahan, Brendan Avent, Aurelien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G L Doliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary A Garrett, Adria Gascon, Badih Ghazi, Phillip B Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecny, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrede Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Ozgur, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramer, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X Yu, Han Yu, Sen Zhao*
+    *Peter Kairouz, H Brendan Mcmahan, Brendan Avent, Aurelien Bellet, Mehdi Bennis, Arjun Nitin Bhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G L Doliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary A Garrett, Adria Gascon, Badih Ghazi, Phillip B Gibbons, Marco Gruteser, Zaid Harchaoui, Chaoyang He, Lie He, Zhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail Khodak, Jakub Konecný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrede Lepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Ozgur, Rasmus Pagh, Mariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramer, Praneeth Vepakomma, Jianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X Yu, Han Yu, Sen Zhao*
 
-3. **Threats to Federated Learning: A Survey.** CoRL 2019 2020 [paper](https://arxiv.org/abs/2003.02133)
+3. **Threats to Federated Learning: A Survey.** Conference on Robot Learning 2020 [paper](https://arxiv.org/abs/2003.02133)
 
     *Lingjuan Lyu, Han Yu, Qiang Yang*
 
@@ -1104,7 +1104,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Few-Shot and Zero-Shot Learning](#content)
 
-1. **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** ACM 2019 [paper](https://dl.acm.org/doi/10.1145/3293318)
+1. **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** ACM Transactions on Intelligent Systems and Technology 2019 [paper](https://dl.acm.org/doi/10.1145/3293318)
 
     *Wei Wang,Vincent W. Zheng,Han Yu,Chunyan Miao*
 
@@ -1112,7 +1112,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Yaqing Wang, Quanming Yao*
 
-3. **Generalizing from a Few Examples: A Survey on Few-Shot Learning.** ACM 2019 [paper](https://arxiv.org/abs/1904.05046)
+3. **Generalizing from a Few Examples: A Survey on Few-Shot Learning.** ACM Computing Surveys 2019 [paper](https://arxiv.org/abs/1904.05046)
 
     *Yaqing Wang, Quanming Yao, James Kwok, Lionel M. Ni*
 
@@ -1130,7 +1130,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Leonid Datta*
 
-4. **A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective.** arXiv 2018 [paper](https://arxiv.org/abs/1811.03402)
+4. **A Survey on Data Collection for Machine Learning: a Big Data -- AI Integration Perspective.** IEEE 2018 [paper](https://arxiv.org/abs/1811.03402)
 
     *Yuji Roh, Geon Heo, Steven Euijong Whang*
 
@@ -1138,7 +1138,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Renato Cordeiro de Amorim*
 
-6. **A Survey on Graph Kernels.** Applied Network Science 2020 [paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0195-3)
+6. **A Survey on Graph Kernels.** Applied Network ence 2020 [paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0195-3)
 
     *Nils M. Kriege, Fredrik D. Johansson, Christopher Morris*
 
@@ -1166,7 +1166,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Pranshu Gupta*
 
-13. **Deep Tree Transductions - A Short Survey.** INNSBDDL 2019 [paper](https://arxiv.org/abs/1902.01737)
+13. **Deep Tree Transductions - A Short Survey.** INNS Big Data and Deep Learning 2019 [paper](https://arxiv.org/abs/1902.01737)
 
     *Davide Bacciu, Antonio Bruno*
 
@@ -1178,7 +1178,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Varun Ojha, Ajith Abraham, Vaclav Snasel*
 
-16. **Hierarchical Mixtures-of-Experts for Exponential Family Regression Models with Generalized Linear Mean Functions: A Survey of Approximation and Consistency Results.** arXiv 2013 [paper](https://arxiv.org/abs/1301.7390)
+16. **Hierarchical Mixtures-of-Experts for Exponential Family Regression Models with Generalized Linear Mean Functions: A Survey of Approximation and Consistency Results.** Uncertainty in Artificial Intelligence 2013 [paper](https://arxiv.org/abs/1301.7390)
 
     *Wenxin Jiang, Martin A. Tanner*
 
@@ -1194,7 +1194,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Mital Kinderkhedia*
 
-20. **Machine Learning at the Network Edge: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/1908.00080)
+20. **Machine Learning at the Network Edge: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1908.00080)
 
     *M.G. Sarwar Murshed, Christopher Murphy, Daqing Hou, Nazar Khan, Ganesh Ananthanarayanan, Faraz Hussain*
 
@@ -1202,11 +1202,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Xingjian Shi, Dit-Yan Yeung*
 
-22. **Machine Learning in Network Centrality Measures: Tutorial and Outlook.** Association for Computing Machinery 2018 [paper](https://dl.acm.org/doi/10.1145/3237192)
+22. **Machine Learning in Network Centrality Measures: Tutorial and Outlook.** ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/10.1145/3237192)
 
     *Felipe Grando, Lisandro Zambenedetti Granville, Luís C. Lamb*
 
-23. **Machine Learning Testing: Survey, Landscapes and Horizons.** arXiv 2019 [paper](https://arxiv.org/abs/1906.10742v1)
+23. **Machine Learning Testing: Survey, Landscapes and Horizons.** IEEE 2019 [paper](https://arxiv.org/abs/1906.10742v1)
 
     *Jie M. Zhang, Mark Harman, Lei Ma, Yang Liu*
 
@@ -1218,11 +1218,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Hamidou Tembine, Raúl Tempone, Pedro Vilanova*
 
-26. **Multi-Objective Multi-Agent Decision Making: A Utility-based Analysis and Survey.** Autonomous Agents and Multi-Agent Systems 2020 [paper](https://link.springer.com/content/pdf/10.1007/s10458-019-09433-x.pdf)
+26. **Multi-Objective Multi-Agent Decision Making: A Utility-based Analysis and Survey.** Autonomous Agents and Multi Agent Systems 2020 [paper](https://link.springer.com/content/pdf/10.1007/s10458-019-09433-x.pdf)
 
-    *Roxana Radulescu, Patrick Mannion, Diederik M. Roijers, Ann Nowé*
+    *Roxana Rădulescu, Patrick Mannion, Diederik M. Roijers, Ann Nowé*
 
-27. **Narrative Science Systems: A Review.** International Journal of Research in Computer Science 2015 [paper](https://arxiv.org/abs/1510.04420)
+27. **Narrative Science Systems: A Review.** Computer ence 2015 [paper](https://arxiv.org/abs/1510.04420)
 
     *Paramjot Kaur Sarao, Puneet Mittal, Rupinder Kaur*
 
@@ -1232,7 +1232,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 29. **Relational inductive biases, deep learning, and graph networks.** arXiv 2018 [paper](http://arxiv.org/abs/1806.01261)
 
-    *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinícius Flores Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gül?ehre, H. Francis Song, Andrew J. Ballard, Justin Gilmer, George E. Dahl, Ashish Vaswani, Kelsey R. Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matthew Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu*
+    *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinicius Flores Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gülçehre, H. Francis Song, Andrew J. Ballard, Justin Gilmer, George E. Dahl, Ashish Vaswani, Kelsey R. Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matthew Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu*
 
 30. **Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey.** JMLR 2019 [paper](https://arxiv.org/abs/1905.11485)
 
@@ -1242,11 +1242,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Lev Reyzin*
 
-32. **Structure Learning of Probabilistic Graphical Models: A Comprehensive Survey.** arXiv 2011 [paper](https://arxiv.org/abs/1111.6925)
+32. **Structure Learning of Probabilistic Graphical Models: A Comprehensive Survey.** Eprint Arxiv 2011 [paper](https://arxiv.org/abs/1111.6925)
 
     *Yang Zhou*
 
-33. **Survey on Feature Selection.** arXiv 2015 [paper](https://arxiv.org/abs/1510.02892)
+33. **Survey on Feature Selection.** Computer ence 2015 [paper](https://arxiv.org/abs/1510.02892)
 
     *Tarek Amr Abdallah, Beatriz de La Iglesia*
 
@@ -1258,7 +1258,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Shilin Zhu*
 
-36. **The Benefits of Population Diversity in Evolutionary Algorithms: A Survey of Rigorous Runtime Analyses.** arXiv 2018 [paper](https://arxiv.org/abs/1801.10087)
+36. **The Benefits of Population Diversity in Evolutionary Algorithms: A Survey of Rigorous Runtime Analyses.** Theory of Evolutionary Computation 2018 [paper](https://arxiv.org/abs/1801.10087)
 
     *Dirk Sudholt*
 
@@ -1268,7 +1268,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 38. **Unsupervised Cross-Lingual Representation Learning.** ACL 2019 [paper](https://www.aclweb.org/anthology/P19-4007.pdf)
 
-    *Sebastian Ruder, Anders Sogaard, Ivan Vulic*
+    *Sebastian Ruder, Anders Søgaard, Ivan Vulic*
 
 39. **Verification for Machine Learning, Autonomy, and Neural Networks Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.01989)
 
@@ -1300,10 +1300,6 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Maciej Wiatrak, Stefano V. Albrecht, Andrew Nystrom*
 
-7. **Stabilizing Generative Adversarial Networks: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1910.00927)
-
-    *Maciej Wiatrak, Stefano V. Albrecht, Andrew Nystrom*
-
 #### [Graph Neural Networks](#content)
 
 1. **A Comprehensive Survey on Graph Neural Networks.** IEEE 2019 [paper](https://arxiv.org/abs/1901.00596)
@@ -1326,7 +1322,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Joakim Skarding, Bogdan Gabrys, Katarzyna Musial*
 
-6. **Graph embedding techniques, applications, and performance: A survey.** Knowledge Based Systems 2017 [paper](https://arxiv.org/abs/1705.02801)
+6. **Graph embedding techniques, applications, and performance: A survey.** Knowledge Based Systems 2018 [paper](https://arxiv.org/abs/1705.02801)
 
     *Palash Goyal, Emilio Ferrara*
 
@@ -1348,13 +1344,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Interpretability and Analysis](#content)
 
-1. **A Survey Of Methods For Explaining Black Box Models.** ACM 2018 [paper](https://dl.acm.org/doi/10.1145/3236009)
+1. **A Survey Of Methods For Explaining Black Box Models.** ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/10.1145/3236009)
 
     *Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, Dino Pedreschi*
 
-2. **A Survey of Safety and Trustworthiness of Deep Neural Networks: Verification, Testing, Adversarial Attack and Defence, and Interpretability.** arXiv 2018 [paper](https://arxiv.org/abs/1812.08342)
+2. **A Survey of Safety and Trustworthiness of Deep Neural Networks: Verification, Testing, Adversarial Attack and Defence, and Interpretability.** Computer ence 2018 [paper](https://arxiv.org/abs/1812.08342)
 
-    *Xiaowei Huang*
+    *Xiaowei Huang, Daniel Kroening, Wenjie Ruan, James Sharp, Youcheng Sun, Emese Thamo, Min Wu, Xinping Yi*
 
 3. **Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation.** Sigkdd Explorations 2020 [paper](https://arxiv.org/abs/2003.03934)
 
@@ -1372,7 +1368,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Shruthi Chari*
 
-7. **How Generative Adversarial Networks and Their Variants Work: An Overview.** ACM 2017 [paper](https://arxiv.org/abs/1711.05914)
+7. **How Generative Adversarial Networks and Their Variants Work: An Overview.** IEEE 2017 [paper](https://arxiv.org/abs/1711.05914)
 
     *Yongjun Hong, Uiwon Hwang, Jaeyoon Yoo, Sungroh Yoon*
 
@@ -1388,11 +1384,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Anh Nguyen, Jason Yosinski, Jeff Clune*
 
-11. **Visual interpretability for deep learning: a survey.** Journal of Zhejiang University Science C 2018 [paper](https://arxiv.org/abs/1802.00614)
+11. **Visual interpretability for deep learning: a survey.** Frontiers of Information Technology & Electronic Engineering 2018 [paper](https://arxiv.org/abs/1802.00614)
 
     *Quanshi Zhang, Songchun Zhu*
 
-12. **Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons.** CEC 2019 [paper](https://arxiv.org/abs/1903.01768)
+12. **Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons.** arXiv 2019 [paper](https://arxiv.org/abs/1903.01768)
 
     *Huiru Gao, Haifeng Nie, Ke Li*
 
@@ -1409,20 +1405,16 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 3. **Meta-Learning: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.03548)
 
     *Joaquin Vanschoren*
-    
+
 4. **Meta-learning for Few-shot Natural Language Processing: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.09604)
 
     *Wenpeng Yin*
 
 #### [Metric Learning](#content)
 
-1. **A Survey on Metric Learning for Feature Vectors and Structured Data.** arXiv 2013 [paper](https://arxiv.org/abs/1306.6709)
+1. **A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Experiments.** arXiv 2018 [paper](https://arxiv.org/abs/1812.05944)
 
-    *Aurélien Bellet, Amaury Habrard, Marc Sebban*
-
-2. **A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Experiments.** arXiv 2018 [paper](https://arxiv.org/abs/1812.05944)
-
-    *Juan Luis Suárez, Salvador García, Francisco Herrera*
+    *Juan Luis Suarez, Salvador Garcia, Francisco Herrera*
 
 #### [ML Applications](#content)
 
@@ -1462,13 +1454,13 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Ping Wang, Yan Li, Chandan K. Reddy*
 
-10. **The Creation and Detection of Deepfakes: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11138v1)
+10. **The Creation and Detection of Deepfakes:A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11138v1)
 
     *Yisroel Mirsky, Wenke Lee*
 
 #### [Model Compression and Acceleration](#content)
 
-1. **A Survey of Model Compression and Acceleration for Deep Neural Networks.** arXiv 2017 [paper](https://arxiv.org/abs/1710.09282)
+1. **A Survey of Model Compression and Acceleration for Deep Neural Networks.** IEEE 2017 [paper](https://arxiv.org/abs/1710.09282)
 
     *Yu Cheng, Duo Wang, Pan Zhou, Tao Zhang*
 
@@ -1478,7 +1470,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 3. **An Overview of Neural Network Compression.** arXiv 2020 [paper](https://arxiv.org/abs/2006.03669)
 
-    *J O Neill*
+    *James O' Neill*
 
 4. **Knowledge Distillation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05525)
 
@@ -1498,7 +1490,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Yu Zhang, Qiang Yang*
 
-3. **A Survey on Multi-view Learning.** arXiv 2013 [paper](https://arxiv.org/abs/1304.5634)
+3. **A Survey on Multi-view Learning.** Computer ence 2013 [paper](https://arxiv.org/abs/1304.5634)
 
     *Chang Xu, Dacheng Tao, Chao Xu*
 
@@ -1530,11 +1522,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Optimization](#content)
 
-1. **A Survey of Optimization Methods from a Machine Learning Perspective.** arXiv 2019 [paper](https://arxiv.org/abs/1906.06821)
+1. **A Survey of Optimization Methods from a Machine Learning Perspective.** IEEE 2019 [paper](https://arxiv.org/abs/1906.06821)
 
     *Shiliang Sun, Zehui Cao, Han Zhu, Jing Zhao*
 
-2. **A Systematic and Meta-analysis Survey of Whale Optimization Algorithm.** Comput. Intell. Neurosci. 2019 [paper](https://arxiv.org/abs/1903.08763)
+2. **A Systematic and Meta-analysis Survey of Whale Optimization Algorithm.** Computational Intelligence and Neuroscience 2019 [paper](https://arxiv.org/abs/1903.08763)
 
     *Hardi M. Mohammed, Shahla U. Umar, Tarik A. Rashid*
 
@@ -1558,17 +1550,17 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Claudio Gambella, Bissan Ghaddar, Joe Naoum-Sawaya*
 
-8. **Particle Swarm Optimization: A survey of historical and recent developments with hybridization perspectives.** Machine Learning and Knowledge Extraction 2019 [paper](https://arxiv.org/abs/1804.05319)
+8. **Particle Swarm Optimization: A survey of historical and recent developments with hybridization perspectives.** Machine Learning & Knowledge Extraction 2019 [paper](https://arxiv.org/abs/1804.05319)
 
     *Saptarshi Sengupta, Sanchita Basak, Richard Alan Peters II*
 
 #### [Semi-Supervised and Unsupervised Learning](#content)
 
-1. **A brief introduction to weakly supervised learning.** arXiv 2018 [paper](https://cs.nju.edu.cn/_upload/tpl/01/0b/267/template267/zhouzh.files/publication/nsr18.pdf)
+1. **A brief introduction to weakly supervised learning.** National Science Review 2018 [paper](https://cs.nju.edu.cn/_upload/tpl/01/0b/267/template267/zhouzh.files/publication/nsr18.pdf)
 
     *Zhihua Zhou*
 
-2. **A Survey on Semi-Supervised Learning Techniques.** arXiv 2014 [paper](https://arxiv.org/abs/1402.4645)
+2. **A Survey on Semi-Supervised Learning Techniques.** International Journal of Computer Trends & Technology 2014 [paper](https://arxiv.org/abs/1402.4645)
 
     *V. Jothi Prakash, Dr. L.M. Nithya*
 
@@ -1590,7 +1582,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Garrett Wilson, Diane J. Cook*
 
-3. **A Survey on Deep Transfer Learning.** ICANN 2018 [paper](https://arxiv.org/abs/1808.01974)
+3. **A Survey on Deep Transfer Learning.** International Conference on Artificial Neural Networks 2018 [paper](https://arxiv.org/abs/1808.01974)
 
     *Chuanqi Tan, Fuchun Sun, Tao Kong, Wenchang Zhang, Chao Yang, Chunfang Liu*
 
@@ -1606,17 +1598,17 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu*
 
-7. **Neural Unsupervised Domain Adaptation in NLP---A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.00632)
+7. **Neural Unsupervised Domain Adaptation in NLP - A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.00632)
 
     *Alan Ramponi, Barbara Plank*
 
-8. **Transfer Adaptation Learning: A Decade Survey.** arXiv 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf)
-
-    *Lei Zhang*
-
-9. **A Survey on Transfer Learning in Natural Language Processing.** arXiv 2020 [paper](https://arxiv.org/abs/2007.04239)
+8. **A Survey on Transfer Learning in Natural Language Processing.** arXiv 2020 [paper](https://arxiv.org/abs/2007.04239)
 
     *Zaid Alyafeai, Maged Saeed AlShaibani, Irfan Ahmad*
+
+9. **Transfer Adaptation Learning: A Decade Survey.** arXiv 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf)
+
+    *Lei Zhang*
 
 #### [Trustworthy Machine Learning](#content)
 
@@ -1624,11 +1616,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, Aram Galstyan*
 
-2. **Differential Privacy and Machine Learning: a Survey and Review.** arXiv 2014 [paper](https://arxiv.org/abs/1412.7584)
+2. **Differential Privacy and Machine Learning: a Survey and Review.** Eprint Arxiv 2014 [paper](https://arxiv.org/abs/1412.7584)
 
     *Zhanglong Ji, Zachary C. Lipton, Charles Elkan*
 
-3. **Tutorial: Safe and Reliable Machine Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1904.07204)
+3. **Tutorial: Safe and Reliable Machine Learning.** ACM 2019 [paper](https://arxiv.org/abs/1904.07204)
 
     *Suchi Saria, Adarsh Subbaswamy*
 
