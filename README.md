@@ -699,7 +699,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 7. **The Knowledge Acquisition Bottleneck Problem in Multilingual Word Sense Disambiguation** Proceedings of the 29th International Joint Conference on Artificial Intelligence
 (IJCAI) [paper](https://www.ijcai.org/Proceedings/2020/687)
 
-*Tommaso Pasini*
+    *Tommaso Pasini*
 
 #### [Sentiment Analysis and Stylistic Analysis and Argument Mining](#content)
 
