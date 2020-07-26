@@ -696,6 +696,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Alok Ranjan Pal, Diganta Saha*
 
+7. **The Knowledge Acquisition Bottleneck Problem in Multilingual Word Sense Disambiguation** Proceedings of the 29th International Joint Conference on Artificial Intelligence
+(IJCAI) [paper](https://www.ijcai.org/Proceedings/2020/687)
+
+*Tommaso Pasini*
+
 #### [Sentiment Analysis and Stylistic Analysis and Argument Mining](#content)
 
 1. **A Comprehensive Survey on Aspect Based Sentiment Analysis.** arXiv 2020 [paper](https://arxiv.org/abs/2006.04611)
