@@ -1,8 +1,0 @@
-```
-@article{liu2020survey,
-  title={A Survey on Contextual Embeddings},
-  author={Liu, Qi and Kusner, Matt J and Blunsom, Phil},
-  journal={arXiv preprint arXiv:2003.07278},
-  year={2020}
-}
-```

@@ -1,8 +1,0 @@
-```
-@article{dai2020survey,
-  title={A Survey on Dialog Management: Recent Advances and Challenges},
-  author={Dai, Yinpei and Yu, Huihua and Jiang, Yixuan and Tang, Chengguang and Li, Yongbin and Sun, Jian},
-  journal={arXiv preprint arXiv:2005.02233},
-  year={2020}
-}
-```

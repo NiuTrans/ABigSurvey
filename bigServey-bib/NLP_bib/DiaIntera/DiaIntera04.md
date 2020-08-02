@@ -1,8 +1,0 @@
-```
-@article{ma2020survey,
-  title={A Survey of Document Grounded Dialogue Systems (DGDS)},
-  author={Ma, Longxuan and Zhang, Wei-Nan and Li, Mingda and Liu, Ting},
-  journal={arXiv preprint arXiv:2004.13818},
-  year={2020}
-}
-```
