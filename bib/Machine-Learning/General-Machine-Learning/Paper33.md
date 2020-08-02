@@ -1,16 +1,16 @@
 ```
-@article{Abdallah2015Survey,
-  author    = {Tarek Amr Abdallah and
-               Beatriz de la Iglesia},
-  title     = {Survey on Feature Selection},
+@article{Zhou2011Structure,
+  author    = {Yang Zhou},
+  title     = {Structure Learning of Probabilistic Graphical Models: {A} Comprehensive
+               Survey},
   journal   = {CoRR},
-  volume    = {abs/1510.02892},
-  year      = {2015},
-  url       = {http://arxiv.org/abs/1510.02892},
+  volume    = {abs/1111.6925},
+  year      = {2011},
+  url       = {http://arxiv.org/abs/1111.6925},
   archivePrefix = {arXiv},
-  eprint    = {1510.02892},
-  timestamp = {Mon, 13 Aug 2018 16:47:04 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/AbdallahI15.bib},
+  eprint    = {1111.6925},
+  timestamp = {Mon, 13 Aug 2018 16:49:16 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1111-6925.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

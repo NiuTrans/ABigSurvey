@@ -1,6 +1,6 @@
  # A Survey of Surveys (NLP & ML)
 
-In this document, we survey hundreds of survey papers on Natural Language  Processing (NLP) and Machine Learning (ML). We categorize these papers into popular topics and do simple counting for some interesting problems. In addition, we show the list of the papers with urls (361 papers). 
+In this document, we survey hundreds of survey papers on Natural Language  Processing (NLP) and Machine Learning (ML). We categorize these papers into popular topics and do simple counting for some interesting problems. In addition, we show the list of the papers with urls (363 papers). 
 
 ## Categorization
 
@@ -1120,6 +1120,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Yaqing Wang, Quanming Yao, James Kwok, Lionel M. Ni*
 
+4. **Learning from Few Samples: A Survey.** arXiv 2020 [paper](https://export.arxiv.org/abs/2007.15484) [bib](/bib/Machine-Learning/Few-Shot-and-Zero-Shot-Learning/Paper04.md)
+
+    *Nihar Bendre, Hugo Terashima Marin, Peyman Najafirad*
+
 #### [General Machine Learning](#content)
 
 1. **A survey of dimensionality reduction techniques.** arXiv 2014 [paper](https://arxiv.org/abs/1403.2877) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper01.md)
@@ -1242,39 +1246,43 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, Pascal Poupart*
 
-31. **Statistical Queries and Statistical Algorithms: Foundations and Applications.** arXiv 2020 [paper](https://arxiv.org/abs/2004.00557) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper31.md)
+31. **Self-supervised Learning: Generative or Contrastive.** arXiv 2020 [paper](https://arxiv.org/abs/2006.08218) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper31.md)
+
+    *Xiao Liu, Fanjin Zhang, Zhenyu Hou, Zhaoyu Wang, Li Mian, Jing Zhang, Jie Tang*
+
+32. **Statistical Queries and Statistical Algorithms: Foundations and Applications.** arXiv 2020 [paper](https://arxiv.org/abs/2004.00557) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper32.md)
 
     *Lev Reyzin*
 
-32. **Structure Learning of Probabilistic Graphical Models: A Comprehensive Survey.** Eprint Arxiv 2011 [paper](https://arxiv.org/abs/1111.6925) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper32.md)
+33. **Structure Learning of Probabilistic Graphical Models: A Comprehensive Survey.** Eprint Arxiv 2011 [paper](https://arxiv.org/abs/1111.6925) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper33.md)
 
     *Yang Zhou*
 
-33. **Survey on Feature Selection.** Computer ence 2015 [paper](https://arxiv.org/abs/1510.02892) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper33.md)
+34. **Survey on Feature Selection.** Computer ence 2015 [paper](https://arxiv.org/abs/1510.02892) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper34.md)
 
     *Tarek Amr Abdallah, Beatriz de La Iglesia*
 
-34. **Survey on Five Tribes of Machine Learning and the Main Algorithms.** Software Guide 2019 [paper](http://en.cnki.com.cn/Article_en/CJFDTotal-RJDK201907003.htm) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper34.md)
+35. **Survey on Five Tribes of Machine Learning and the Main Algorithms.** Software Guide 2019 [paper](http://en.cnki.com.cn/Article_en/CJFDTotal-RJDK201907003.htm) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper35.md)
 
     *LI Xu-ran, DING Xiao-hong*
 
-35. **Survey: Machine Learning in Production Rendering.** arXiv 2020 [paper](https://arxiv.org/abs/2005.12518v1) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper35.md)
+36. **Survey: Machine Learning in Production Rendering.** arXiv 2020 [paper](https://arxiv.org/abs/2005.12518v1) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper36.md)
 
     *Shilin Zhu*
 
-36. **The Benefits of Population Diversity in Evolutionary Algorithms: A Survey of Rigorous Runtime Analyses.** Theory of Evolutionary Computation 2018 [paper](https://arxiv.org/abs/1801.10087) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper36.md)
+37. **The Benefits of Population Diversity in Evolutionary Algorithms: A Survey of Rigorous Runtime Analyses.** Theory of Evolutionary Computation 2018 [paper](https://arxiv.org/abs/1801.10087) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper37.md)
 
     *Dirk Sudholt*
 
-37. **Tutorial on Variational Autoencoders.** arXiv 2016 [paper](https://arxiv.org/pdf/1606.05908.pdf) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper37.md)
+38. **Tutorial on Variational Autoencoders.** arXiv 2016 [paper](https://arxiv.org/pdf/1606.05908.pdf) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper38.md)
 
     *Carl Doersch*
 
-38. **Unsupervised Cross-Lingual Representation Learning.** ACL 2019 [paper](https://www.aclweb.org/anthology/P19-4007.pdf) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper38.md)
+39. **Unsupervised Cross-Lingual Representation Learning.** ACL 2019 [paper](https://www.aclweb.org/anthology/P19-4007.pdf) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper39.md)
 
     *Sebastian Ruder, Anders Søgaard, Ivan Vulic*
 
-39. **Verification for Machine Learning, Autonomy, and Neural Networks Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.01989) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper39.md)
+40. **Verification for Machine Learning, Autonomy, and Neural Networks Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.01989) [bib](/bib/Machine-Learning/General-Machine-Learning/Paper40.md)
 
     *Weiming Xiang, Patrick Musau, Ayana A. Wild, Diego Manzanas Lopez, Nathaniel Hamilton, Xiaodong Yang, Joel Rosenfeld, Taylor T. Johnson*
 

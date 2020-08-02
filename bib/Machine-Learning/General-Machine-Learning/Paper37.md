@@ -1,15 +1,16 @@
 ```
-@article{Doersch2016Tutorial,
-  author    = {Carl Doersch},
-  title     = {Tutorial on Variational Autoencoders},
+@article{Sudholt2018The,
+  author    = {Dirk Sudholt},
+  title     = {The Benefits of Population Diversity in Evolutionary Algorithms: {A}
+               Survey of Rigorous Runtime Analyses},
   journal   = {CoRR},
-  volume    = {abs/1606.05908},
-  year      = {2016},
-  url       = {http://arxiv.org/abs/1606.05908},
+  volume    = {abs/1801.10087},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1801.10087},
   archivePrefix = {arXiv},
-  eprint    = {1606.05908},
-  timestamp = {Mon, 13 Aug 2018 16:46:39 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/Doersch16.bib},
+  eprint    = {1801.10087},
+  timestamp = {Mon, 13 Aug 2018 16:48:33 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1801-10087.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

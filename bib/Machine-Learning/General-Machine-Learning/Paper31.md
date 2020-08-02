@@ -1,15 +1,21 @@
 ```
-@article{Reyzin2020Statistical,
-  author    = {Lev Reyzin},
-  title     = {Statistical Queries and Statistical Algorithms: Foundations and Applications},
+@article{Liu2020Self,
+  author    = {Xiao Liu and
+               Fanjin Zhang and
+               Zhenyu Hou and
+               Zhaoyu Wang and
+               Li Mian and
+               Jing Zhang and
+               Jie Tang},
+  title     = {Self-supervised Learning: Generative or Contrastive},
   journal   = {CoRR},
-  volume    = {abs/2004.00557},
+  volume    = {abs/2006.08218},
   year      = {2020},
-  url       = {https://arxiv.org/abs/2004.00557},
+  url       = {https://arxiv.org/abs/2006.08218},
   archivePrefix = {arXiv},
-  eprint    = {2004.00557},
-  timestamp = {Wed, 08 Apr 2020 17:08:25 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-00557.bib},
+  eprint    = {2006.08218},
+  timestamp = {Wed, 17 Jun 2020 14:28:54 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2006-08218.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

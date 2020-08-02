@@ -1,22 +1,21 @@
 ```
-@article{Xiang2018Verification,
-  author    = {Weiming Xiang and
-               Patrick Musau and
-               Ayana A. Wild and
-               Diego Manzanas Lopez and
-               Nathaniel Hamilton and
-               Xiaodong Yang and
-               Joel A. Rosenfeld and
-               Taylor T. Johnson},
-  title     = {Verification for Machine Learning, Autonomy, and Neural Networks Survey},
-  journal   = {CoRR},
-  volume    = {abs/1810.01989},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1810.01989},
-  archivePrefix = {arXiv},
-  eprint    = {1810.01989},
-  timestamp = {Tue, 30 Oct 2018 10:49:09 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1810-01989.bib},
+@inproceedings{Ruder2019Preslav,
+  author    = {Sebastian Ruder and
+               Anders S{\o}gaard and
+               Ivan Vulic},
+  editor    = {Preslav Nakov and
+               Alexis Palmer},
+  title     = {Unsupervised Cross-Lingual Representation Learning},
+  booktitle = {Proceedings of the 57th Conference of the Association for Computational
+               Linguistics: Tutorial Abstracts, {ACL} 2019, Florence, Italy, July
+               28, 2019, Volume 4: Tutorial Abstracts},
+  pages     = {31--38},
+  publisher = {Association for Computational Linguistics},
+  year      = {2019},
+  url       = {https://doi.org/10.18653/v1/p19-4007},
+  doi       = {10.18653/v1/p19-4007},
+  timestamp = {Tue, 28 Jan 2020 10:27:58 +0100},
+  biburl    = {https://dblp.org/rec/conf/acl/RuderSV19.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
