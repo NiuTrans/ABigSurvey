@@ -1,0 +1,12 @@
+```
+@article{wu2018survey,
+  title={A survey of techniques for constructing Chinese knowledge graphs and their applications},
+  author={Wu, Tianxing and Qi, Guilin and Li, Cheng and Wang, Meng},
+  journal={Sustainability},
+  volume={10},
+  number={9},
+  pages={3245},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
