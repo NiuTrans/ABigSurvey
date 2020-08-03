@@ -1406,237 +1406,237 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 #### [Meta Learning](#content)
 
-1. **A Comprehensive Overview and Survey of Recent Advances in Meta-Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11149) [bib](/bib/Meta-Learning/Paper01.md)
+1. **A Comprehensive Overview and Survey of Recent Advances in Meta-Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11149) [bib](/bib/Machine-Learning/Meta-Learning/Paper01.md)
 
     *Huimin Peng*
 
-2. **Meta-Learning in Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.05439) [bib](/bib/Meta-Learning/Paper02.md)
+2. **Meta-Learning in Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.05439) [bib](/bib/Machine-Learning/Meta-Learning/Paper02.md)
 
     *Timothy M. Hospedales, Antreas Antoniou, Paul Micaelli, Amos J. Storkey*
 
-3. **Meta-Learning: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.03548) [bib](/bib/Meta-Learning/Paper03.md)
+3. **Meta-Learning: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1810.03548) [bib](/bib/Machine-Learning/Meta-Learning/Paper03.md)
 
     *Joaquin Vanschoren*
 
-4. **Meta-learning for Few-shot Natural Language Processing: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.09604) [bib](/bib/Meta-Learning/Paper04.md)
+4. **Meta-learning for Few-shot Natural Language Processing: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.09604) [bib](/bib/Machine-Learning/Meta-Learning/Paper04.md)
 
     *Wenpeng Yin*
 
 #### [Metric Learning](#content)
 
-1. **A Survey on Metric Learning for Feature Vectors and Structured Data.** arXiv 2013 [paper](https://arxiv.org/abs/1306.6709) [bib](/bib/Metric-Learning/Paper01.md)
+1. **A Survey on Metric Learning for Feature Vectors and Structured Data.** arXiv 2013 [paper](https://arxiv.org/abs/1306.6709) [bib](/bib/Machine-Learning/Metric-Learning/Paper01.md)
 
     *Aurelien Bellet, Amaury Habrard, Marc Sebban*
 
-2. **A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Experiments.** arXiv 2018 [paper](https://arxiv.org/abs/1812.05944) [bib](/bib/Metric-Learning/Paper02.md)
+2. **A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Experiments.** arXiv 2018 [paper](https://arxiv.org/abs/1812.05944) [bib](/bib/Machine-Learning/Metric-Learning/Paper02.md)
 
     *Juan Luis Suarez, Salvador Garcia, Francisco Herrera*
 
 #### [ML Applications](#content)
 
-1. **A Survey of Adaptive Resonance Theory Neural Network Models for Engineering Applications.** Neural Networks 2019 [paper](https://arxiv.org/abs/1905.11437) [bib](/bib/ML-Applications/Paper01.md)
+1. **A Survey of Adaptive Resonance Theory Neural Network Models for Engineering Applications.** Neural Networks 2019 [paper](https://arxiv.org/abs/1905.11437) [bib](/bib/Machine-Learning/ML-Applications/Paper01.md)
 
     *Leonardo Enzo Brito da Silva, Islam Elnabarawy, Donald C. Wunsch II*
 
-2. **A Survey of Machine Learning Methods and Challenges for Windows Malware Classification.** arXiv 2020 [paper](https://arxiv.org/abs/2006.09271) [bib](/bib/ML-Applications/Paper02.md)
+2. **A Survey of Machine Learning Methods and Challenges for Windows Malware Classification.** arXiv 2020 [paper](https://arxiv.org/abs/2006.09271) [bib](/bib/Machine-Learning/ML-Applications/Paper02.md)
 
     *Edward Raff, Charles Nicholas*
 
-3. **A survey on deep hashing for image retrieval.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05627) [bib](/bib/ML-Applications/Paper03.md)
+3. **A survey on deep hashing for image retrieval.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05627) [bib](/bib/Machine-Learning/ML-Applications/Paper03.md)
 
     *Xiaopeng Zhang*
 
-4. **A Survey on Deep Learning based Brain-Computer Interface: Recent Advances and New Frontiers.** arXiv 2019 [paper](https://arxiv.org/abs/1905.04149v1) [bib](/bib/ML-Applications/Paper04.md)
+4. **A Survey on Deep Learning based Brain-Computer Interface: Recent Advances and New Frontiers.** arXiv 2019 [paper](https://arxiv.org/abs/1905.04149v1) [bib](/bib/Machine-Learning/ML-Applications/Paper04.md)
 
     *Xiang Zhang, Lina Yao, Xianzhi Wang, Jessica J M Monaghan, David Mcalpine, Yu Zhang*
 
-5. **A Survey on Deep Learning in Medical Image Analysis.** Medical Image Analysis 2017 [paper](https://arxiv.org/abs/1702.05747) [bib](/bib/ML-Applications/Paper05.md)
+5. **A Survey on Deep Learning in Medical Image Analysis.** Medical Image Analysis 2017 [paper](https://arxiv.org/abs/1702.05747) [bib](/bib/Machine-Learning/ML-Applications/Paper05.md)
 
     *Geert J S Litjens, Thijs Kooi, Babak Ehteshami Bejnordi, Arnaud A A Setio, Francesco Ciompi, Mohsen Ghafoorian, Jeroen A W M Van Der Laak, Bram Van Ginneken, Clara I Sanchez*
 
-6. **Artificial Neural Networks-Based Machine Learning for Wireless Networks: A Tutorial.** IEEE 2019 [paper](https://ieeexplore.ieee.org/document/8755300) [bib](/bib/ML-Applications/Paper06.md)
+6. **Artificial Neural Networks-Based Machine Learning for Wireless Networks: A Tutorial.** IEEE 2019 [paper](https://ieeexplore.ieee.org/document/8755300) [bib](/bib/Machine-Learning/ML-Applications/Paper06.md)
 
     *Mingzhe Chen, Ursula Challita, Walid Saad, Changchuan Yin, Mérouane Debbah*
 
-7. **How Developers Iterate on Machine Learning Workflows -- A Survey of the Applied Machine Learning Literature.** arXiv 2018 [paper](https://arxiv.org/abs/1803.10311) [bib](/bib/ML-Applications/Paper07.md)
+7. **How Developers Iterate on Machine Learning Workflows -- A Survey of the Applied Machine Learning Literature.** arXiv 2018 [paper](https://arxiv.org/abs/1803.10311) [bib](/bib/Machine-Learning/ML-Applications/Paper07.md)
 
     *Doris Xin, Litian Ma, Shuchen Song, Aditya G. Parameswaran*
 
-8. **Machine Learning Aided Static Malware Analysis: A Survey and Tutorial.** arXiv 2018 [paper](https://arxiv.org/abs/1808.01201) [bib](/bib/ML-Applications/Paper08.md)
+8. **Machine Learning Aided Static Malware Analysis: A Survey and Tutorial.** arXiv 2018 [paper](https://arxiv.org/abs/1808.01201) [bib](/bib/Machine-Learning/ML-Applications/Paper08.md)
 
     *Andrii Shalaginov, Sergii Banin, Ali Dehghantanha, Katrin Franke*
 
-9. **Machine Learning for Survival Analysis: A Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1708.04649) [bib](/bib/ML-Applications/Paper09.md)
+9. **Machine Learning for Survival Analysis: A Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1708.04649) [bib](/bib/Machine-Learning/ML-Applications/Paper09.md)
 
     *Ping Wang, Yan Li, Chandan K. Reddy*
 
-10. **The Creation and Detection of Deepfakes:A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11138v1) [bib](/bib/ML-Applications/Paper10.md)
+10. **The Creation and Detection of Deepfakes:A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11138v1) [bib](/bib/Machine-Learning/ML-Applications/Paper10.md)
 
     *Yisroel Mirsky, Wenke Lee*
 
 #### [Model Compression and Acceleration](#content)
 
-1. **A Survey of Model Compression and Acceleration for Deep Neural Networks.** IEEE 2017 [paper](https://arxiv.org/abs/1710.09282) [bib](/bib/Model-Compression-and-Acceleration/Paper01.md)
+1. **A Survey of Model Compression and Acceleration for Deep Neural Networks.** IEEE 2017 [paper](https://arxiv.org/abs/1710.09282) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Paper01.md)
 
     *Yu Cheng, Duo Wang, Pan Zhou, Tao Zhang*
 
-2. **A Survey on Methods and Theories of Quantized Neural Networks.** arXiv 2018 [paper](https://arxiv.org/abs/1808.04752) [bib](/bib/Model-Compression-and-Acceleration/Paper02.md)
+2. **A Survey on Methods and Theories of Quantized Neural Networks.** arXiv 2018 [paper](https://arxiv.org/abs/1808.04752) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Paper02.md)
 
     *Yunhui Guo*
 
-3. **An Overview of Neural Network Compression.** arXiv 2020 [paper](https://arxiv.org/abs/2006.03669) [bib](/bib/Model-Compression-and-Acceleration/Paper03.md)
+3. **An Overview of Neural Network Compression.** arXiv 2020 [paper](https://arxiv.org/abs/2006.03669) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Paper03.md)
 
     *James O' Neill*
 
-4. **Knowledge Distillation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05525) [bib](/bib/Model-Compression-and-Acceleration/Paper04.md)
+4. **Knowledge Distillation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05525) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Paper04.md)
 
     *Jianping Gou, Baosheng Yu, Stephen John Maybank, Dacheng Tao*
 
-5. **Pruning Algorithms to Accelerate Convolutional Neural Networks for Edge Applications: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.04275) [bib](/bib/Model-Compression-and-Acceleration/Paper05.md)
+5. **Pruning Algorithms to Accelerate Convolutional Neural Networks for Edge Applications: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.04275) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Paper05.md)
 
     *Jiayi Liu, Samarth Tripathi, Unmesh Kurup, Mohak Shah*
 
 #### [Multi-Task and Multi-View Learning](#content)
 
-1. **A Brief Review on Multi-Task Learning.** Multimedia Tools and Applications 2018 [paper](https://www.researchgate.net/publication/326903979_A_brief_review_on_multi-task_learning) [bib](/bib/Multi-Task-and-Multi-View-Learning/Paper01.md)
+1. **A Brief Review on Multi-Task Learning.** Multimedia Tools and Applications 2018 [paper](https://www.researchgate.net/publication/326903979_A_brief_review_on_multi-task_learning) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Paper01.md)
 
     *Kimhan Thung, Chong Yaw Wee*
 
-2. **A Survey on Multi-Task Learning.** arXiv 2017 [paper](https://arxiv.org/abs/1707.08114) [bib](/bib/Multi-Task-and-Multi-View-Learning/Paper02.md)
+2. **A Survey on Multi-Task Learning.** arXiv 2017 [paper](https://arxiv.org/abs/1707.08114) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Paper02.md)
 
     *Yu Zhang, Qiang Yang*
 
-3. **A Survey on Multi-view Learning.** Computer ence 2013 [paper](https://arxiv.org/abs/1304.5634) [bib](/bib/Multi-Task-and-Multi-View-Learning/Paper03.md)
+3. **A Survey on Multi-view Learning.** Computer ence 2013 [paper](https://arxiv.org/abs/1304.5634) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Paper03.md)
 
     *Chang Xu, Dacheng Tao, Chao Xu*
 
-4. **An overview of multi-task learning.** National Science Review 2018 [paper](https://academic.oup.com/nsr/article/5/1/30/4101432) [bib](/bib/Multi-Task-and-Multi-View-Learning/Paper04.md)
+4. **An overview of multi-task learning.** National Science Review 2018 [paper](https://academic.oup.com/nsr/article/5/1/30/4101432) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Paper04.md)
 
     *Yu Zhang, Qiang Yang*
 
-5. **An Overview of Multi-Task Learning in Deep Neural Networks.** arXiv 2017 [paper](https://arxiv.org/abs/1706.05098) [bib](/bib/Multi-Task-and-Multi-View-Learning/Paper05.md)
+5. **An Overview of Multi-Task Learning in Deep Neural Networks.** arXiv 2017 [paper](https://arxiv.org/abs/1706.05098) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Paper05.md)
 
     *Sebastian Ruder*
 
-6. **Revisiting Multi-Task Learning in the Deep Learning Era.** arXiv 2020 [paper](https://arxiv.org/abs/2004.13379) [bib](/bib/Multi-Task-and-Multi-View-Learning/Paper06.md)
+6. **Revisiting Multi-Task Learning in the Deep Learning Era.** arXiv 2020 [paper](https://arxiv.org/abs/2004.13379) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Paper06.md)
 
     *Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Dengxin Dai, Luc Van Gool*
 
 #### [Online Learning](#content)
 
-1. **A Survey of Algorithms and Analysis for Adaptive Online Learning.** Journal of Machine Learning Research 2017 [paper](https://arxiv.org/abs/1403.3465) [bib](/bib/Online-Learning/Paper01.md)
+1. **A Survey of Algorithms and Analysis for Adaptive Online Learning.** Journal of Machine Learning Research 2017 [paper](https://arxiv.org/abs/1403.3465) [bib](/bib/Machine-Learning/Online-Learning/Paper01.md)
 
     *H. Brendan McMahan*
 
-2. **Online Learning: A Comprehensive Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1802.02871) [bib](/bib/Online-Learning/Paper02.md)
+2. **Online Learning: A Comprehensive Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1802.02871) [bib](/bib/Machine-Learning/Online-Learning/Paper02.md)
 
     *Steven C.H. Hoi, Doyen Sahoo, Jing Lu, Peilin Zhao*
 
-3. **Preference-based Online Learning with Dueling Bandits: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1807.11398) [bib](/bib/Online-Learning/Paper03.md)
+3. **Preference-based Online Learning with Dueling Bandits: A Survey.** arXiv 2018 [paper](https://arxiv.org/abs/1807.11398) [bib](/bib/Machine-Learning/Online-Learning/Paper03.md)
 
     *Robert Busa-Fekete, Eyke Hüllermeier, Adil El Mesaoudi-Paul*
 
 #### [Optimization](#content)
 
-1. **A Survey of Optimization Methods from a Machine Learning Perspective.** IEEE 2019 [paper](https://arxiv.org/abs/1906.06821) [bib](/bib/Optimization/Paper01.md)
+1. **A Survey of Optimization Methods from a Machine Learning Perspective.** IEEE 2019 [paper](https://arxiv.org/abs/1906.06821) [bib](/bib/Machine-Learning/Optimization/Paper01.md)
 
     *Shiliang Sun, Zehui Cao, Han Zhu, Jing Zhao*
 
-2. **A Systematic and Meta-analysis Survey of Whale Optimization Algorithm.** Computational Intelligence and Neuroscience 2019 [paper](https://arxiv.org/abs/1903.08763) [bib](/bib/Optimization/Paper02.md)
+2. **A Systematic and Meta-analysis Survey of Whale Optimization Algorithm.** Computational Intelligence and Neuroscience 2019 [paper](https://arxiv.org/abs/1903.08763) [bib](/bib/Machine-Learning/Optimization/Paper02.md)
 
     *Hardi M. Mohammed, Shahla U. Umar, Tarik A. Rashid*
 
-3. **An overview of gradient descent optimization algorithms.** arXiv 2017 [paper](https://arxiv.org/abs/1609.04747) [bib](/bib/Optimization/Paper03.md)
+3. **An overview of gradient descent optimization algorithms.** arXiv 2017 [paper](https://arxiv.org/abs/1609.04747) [bib](/bib/Machine-Learning/Optimization/Paper03.md)
 
     *Sebastian Ruder*
 
-4. **Convex Optimization Overview.** IEEE 2008 [paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.6470) [bib](/bib/Optimization/Paper04.md)
+4. **Convex Optimization Overview.** IEEE 2008 [paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.142.6470) [bib](/bib/Machine-Learning/Optimization/Paper04.md)
 
     *Nikos Komodakis*
 
-5. **Gradient Boosting Machine: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1908.06951) [bib](/bib/Optimization/Paper05.md)
+5. **Gradient Boosting Machine: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1908.06951) [bib](/bib/Machine-Learning/Optimization/Paper05.md)
 
     *Zhiyuan He, Danchen Lin, Thomas Lau, Mike Wu*
 
-6. **Optimization for deep learning: theory and algorithms.** arXiv 2019 [paper](https://arxiv.org/abs/1912.08957) [bib](/bib/Optimization/Paper06.md)
+6. **Optimization for deep learning: theory and algorithms.** arXiv 2019 [paper](https://arxiv.org/abs/1912.08957) [bib](/bib/Machine-Learning/Optimization/Paper06.md)
 
     *Ruoyu Sun*
 
-7. **Optimization Models for Machine Learning: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1901.05331) [bib](/bib/Optimization/Paper07.md)
+7. **Optimization Models for Machine Learning: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1901.05331) [bib](/bib/Machine-Learning/Optimization/Paper07.md)
 
     *Claudio Gambella, Bissan Ghaddar, Joe Naoum-Sawaya*
 
-8. **Particle Swarm Optimization: A survey of historical and recent developments with hybridization perspectives.** Machine Learning & Knowledge Extraction 2019 [paper](https://arxiv.org/abs/1804.05319) [bib](/bib/Optimization/Paper08.md)
+8. **Particle Swarm Optimization: A survey of historical and recent developments with hybridization perspectives.** Machine Learning & Knowledge Extraction 2019 [paper](https://arxiv.org/abs/1804.05319) [bib](/bib/Machine-Learning/Optimization/Paper08.md)
 
     *Saptarshi Sengupta, Sanchita Basak, Richard Alan Peters II*
 
 #### [Semi-Supervised and Unsupervised Learning](#content)
 
-1. **A brief introduction to weakly supervised learning.** National Science Review 2018 [paper](https://cs.nju.edu.cn/_upload/tpl/01/0b/267/template267/zhouzh.files/publication/nsr18.pdf) [bib](/bib/Semi-Supervised-and-Unsupervised-Learning/Paper01.md)
+1. **A brief introduction to weakly supervised learning.** National Science Review 2018 [paper](https://cs.nju.edu.cn/_upload/tpl/01/0b/267/template267/zhouzh.files/publication/nsr18.pdf) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Paper01.md)
 
     *Zhihua Zhou*
 
-2. **A Survey on Semi-Supervised Learning Techniques.** International Journal of Computer Trends & Technology 2014 [paper](https://arxiv.org/abs/1402.4645) [bib](/bib/Semi-Supervised-and-Unsupervised-Learning/Paper02.md)
+2. **A Survey on Semi-Supervised Learning Techniques.** International Journal of Computer Trends & Technology 2014 [paper](https://arxiv.org/abs/1402.4645) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Paper02.md)
 
     *V. Jothi Prakash, Dr. L.M. Nithya*
 
-3. **Improvability Through Semi-Supervised Learning: A Survey of Theoretical Results.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09574) [bib](/bib/Semi-Supervised-and-Unsupervised-Learning/Paper03.md)
+3. **Improvability Through Semi-Supervised Learning: A Survey of Theoretical Results.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09574) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Paper03.md)
 
     *Alexander Mey, Marco Loog*
 
-4. **Learning from positive and unlabeled data: a survey.** Machine Learning 2020 [paper](https://arxiv.org/abs/1811.04820) [bib](/bib/Semi-Supervised-and-Unsupervised-Learning/Paper04.md)
+4. **Learning from positive and unlabeled data: a survey.** Machine Learning 2020 [paper](https://arxiv.org/abs/1811.04820) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Paper04.md)
 
     *Jessa Bekker, Jesse Davis*
 
 #### [Transfer Learning](#content)
 
-1. **A Comprehensive Survey on Transfer Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1911.02685) [bib](/bib/Transfer-Learning/Paper01.md)
+1. **A Comprehensive Survey on Transfer Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1911.02685) [bib](/bib/Machine-Learning/Transfer-Learning/Paper01.md)
 
     *Fuzhen Zhuang, Zhiyuan Qi, Keyu Duan, Dongbo Xi, Yongchun Zhu, Hengshu Zhu, Hui Xiong, Qing He*
 
-2. **A Survey of Unsupervised Deep Domain Adaptation.** arXiv 2020 [paper](https://arxiv.org/abs/1812.02849) [bib](/bib/Transfer-Learning/Paper02.md)
+2. **A Survey of Unsupervised Deep Domain Adaptation.** arXiv 2020 [paper](https://arxiv.org/abs/1812.02849) [bib](/bib/Machine-Learning/Transfer-Learning/Paper02.md)
 
     *Garrett Wilson, Diane J. Cook*
 
-3. **A Survey on Deep Transfer Learning.** International Conference on Artificial Neural Networks 2018 [paper](https://arxiv.org/abs/1808.01974) [bib](/bib/Transfer-Learning/Paper03.md)
+3. **A Survey on Deep Transfer Learning.** International Conference on Artificial Neural Networks 2018 [paper](https://arxiv.org/abs/1808.01974) [bib](/bib/Machine-Learning/Transfer-Learning/Paper03.md)
 
     *Chuanqi Tan, Fuchun Sun, Tao Kong, Wenchang Zhang, Chao Yang, Chunfang Liu*
 
-4. **A survey on domain adaptation theory: learning bounds and theoretical guarantees.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11829) [bib](/bib/Transfer-Learning/Paper04.md)
+4. **A survey on domain adaptation theory: learning bounds and theoretical guarantees.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11829) [bib](/bib/Machine-Learning/Transfer-Learning/Paper04.md)
 
     *Ievgen Redko, Emilie Morvant, Amaury Habrard, Marc Sebban, Younès Bennani*
 
-5. **Evolution of transfer learning in natural language processing.** arXiv 2019 [paper](https://arxiv.org/abs/1910.07370) [bib](/bib/Transfer-Learning/Paper05.md)
+5. **Evolution of transfer learning in natural language processing.** arXiv 2019 [paper](https://arxiv.org/abs/1910.07370) [bib](/bib/Machine-Learning/Transfer-Learning/Paper05.md)
 
     *Aditya Malte, Pratik Ratadiya*
 
-6. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** arXiv 2019 [paper](https://arxiv.org/pdf/1910.10683.pdf) [bib](/bib/Transfer-Learning/Paper06.md)
+6. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.** arXiv 2019 [paper](https://arxiv.org/pdf/1910.10683.pdf) [bib](/bib/Machine-Learning/Transfer-Learning/Paper06.md)
 
     *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu*
 
-7. **Neural Unsupervised Domain Adaptation in NLP - A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.00632) [bib](/bib/Transfer-Learning/Paper07.md)
+7. **Neural Unsupervised Domain Adaptation in NLP - A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.00632) [bib](/bib/Machine-Learning/Transfer-Learning/Paper07.md)
 
     *Alan Ramponi, Barbara Plank*
 
-8. **A Survey on Transfer Learning in Natural Language Processing.** arXiv 2020 [paper](https://arxiv.org/abs/2007.04239) [bib](/bib/Transfer-Learning/Paper08.md)
+8. **A Survey on Transfer Learning in Natural Language Processing.** arXiv 2020 [paper](https://arxiv.org/abs/2007.04239) [bib](/bib/Machine-Learning/Transfer-Learning/Paper08.md)
 
     *Zaid Alyafeai, Maged Saeed AlShaibani, Irfan Ahmad*
 
-9. **Transfer Adaptation Learning: A Decade Survey.** arXiv 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf) [bib](/bib/Transfer-Learning/Paper09.md)
+9. **Transfer Adaptation Learning: A Decade Survey.** arXiv 2019 [paper](https://arxiv.org/pdf/1903.04687.pdf) [bib](/bib/Machine-Learning/Transfer-Learning/Paper09.md)
 
     *Lei Zhang*
 
 #### [Trustworthy Machine Learning](#content)
 
-1. **A Survey on Bias and Fairness in Machine Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09635) [bib](/bib/Trustworthy-Machine-Learning/Paper01.md)
+1. **A Survey on Bias and Fairness in Machine Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09635) [bib](/bib/Machine-Learning/Trustworthy-Machine-Learning/Paper01.md)
 
     *Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, Aram Galstyan*
 
-2. **Differential Privacy and Machine Learning: a Survey and Review.** Eprint Arxiv 2014 [paper](https://arxiv.org/abs/1412.7584) [bib](/bib/Trustworthy-Machine-Learning/Paper02.md)
+2. **Differential Privacy and Machine Learning: a Survey and Review.** Eprint Arxiv 2014 [paper](https://arxiv.org/abs/1412.7584) [bib](/bib/Machine-Learning/Trustworthy-Machine-Learning/Paper02.md)
 
     *Zhanglong Ji, Zachary C. Lipton, Charles Elkan*
 
-3. **Tutorial: Safe and Reliable Machine Learning.** ACM 2019 [paper](https://arxiv.org/abs/1904.07204) [bib](/bib/my-tasks/Trustworthy-Machine-Learning/Paper03.md)
+3. **Tutorial: Safe and Reliable Machine Learning.** ACM 2019 [paper](https://arxiv.org/abs/1904.07204) [bib](/bib/Machine-Learning/Trustworthy-Machine-Learning/Paper03.md)
 
     *Suchi Saria, Adarsh Subbaswamy*
 
