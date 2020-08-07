@@ -1,18 +1,18 @@
 ```
-@article{Khan2017Cross,
-  author    = {Muhammad Murad Khan and
-               Roliana Ibrahim and
-               Imran Ghani},
-  title     = {Cross Domain Recommender Systems: {A} Systematic Literature Review},
-  journal   = {{ACM} Comput. Surv.},
-  volume    = {50},
-  number    = {3},
-  pages     = {36:1--36:34},
-  year      = {2017},
-  url       = {https://doi.org/10.1145/3073565},
-  doi       = {10.1145/3073565},
-  timestamp = {Tue, 06 Nov 2018 12:50:49 +0100},
-  biburl    = {https://dblp.org/rec/journals/csur/KhanIG17.bib},
+@article{Deldjoo2020Adversarial,
+  author    = {Yashar Deldjoo and
+               Tommaso Di Noia and
+               Felice Antonio Merra},
+  title     = {Adversarial Machine Learning in Recommender Systems: State of the
+               art and Challenges},
+  journal   = {CoRR},
+  volume    = {abs/2005.10322},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2005.10322},
+  archivePrefix = {arXiv},
+  eprint    = {2005.10322},
+  timestamp = {Fri, 22 May 2020 16:21:28 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2005-10322.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

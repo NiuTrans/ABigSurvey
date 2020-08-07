@@ -1,9 +1,11 @@
 ```
-@article{torfi2020natural,
-  title={Natural Language Processing Advancements By Deep Learning: A Survey},
-  author={Torfi, Amirsina and Shirvani, Rouzbeh A and Keneshloo, Yaser and Tavvaf, Nader and Fox, Edward A},
-  journal={arXiv preprint arXiv:2003.01200},
-  year={2020}
+@article{camacho2018word,
+  title={From word to sense embeddings: A survey on vector representations of meaning},
+  author={Camacho-Collados, Jose and Pilehvar, Mohammad Taher},
+  journal={Journal of Artificial Intelligence Research},
+  volume={63},
+  pages={743--788},
+  year={2018}
 }
 ```
 

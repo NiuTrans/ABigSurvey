@@ -1,18 +1,18 @@
 ```
-@article{Zhang2019Machine,
-  author    = {Xin Zhang and
-               An Yang and
-               Sujian Li and
-               Yizhong Wang},
-  title     = {Machine Reading Comprehension: a Literature Review},
+@article{Qiu2019A,
+  author    = {Boyu Qiu and
+               Xu Chen and
+               Jungang Xu and
+               Yingfei Sun},
+  title     = {A Survey on Neural Machine Reading Comprehension},
   journal   = {CoRR},
-  volume    = {abs/1907.01686},
+  volume    = {abs/1906.03824},
   year      = {2019},
-  url       = {http://arxiv.org/abs/1907.01686},
+  url       = {http://arxiv.org/abs/1906.03824},
   archivePrefix = {arXiv},
-  eprint    = {1907.01686},
-  timestamp = {Mon, 08 Jul 2019 14:12:33 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1907-01686.bib},
+  eprint    = {1906.03824},
+  timestamp = {Fri, 14 Jun 2019 09:38:24 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1906-03824.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

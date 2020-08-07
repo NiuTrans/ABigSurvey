@@ -1,9 +1,8 @@
 ```
-@article{qiang2020short,
-  title={Short text topic modeling techniques, applications, and performance: a survey},
-  author={Qiang, Jipeng and Qian, Zhenyu and Li, Yun and Yuan, Yunhao and Wu, Xindong},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2020},
-  publisher={IEEE}
+@article{pawar2017relation,
+  title={Relation extraction: A survey},
+  author={Pawar, Sachin and Palshikar, Girish K and Bhattacharyya, Pushpak},
+  journal={arXiv preprint arXiv:1712.05191},
+  year={2017}
 }
 ```

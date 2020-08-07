@@ -1,15 +1,18 @@
 ```
-@article{Vanschoren2018Meta-Learning,
-  author    = {Joaquin Vanschoren},
-  title     = {Meta-Learning: {A} Survey},
+@article{Hospedales2020Meta-Learning,
+  author    = {Timothy M. Hospedales and
+               Antreas Antoniou and
+               Paul Micaelli and
+               Amos J. Storkey},
+  title     = {Meta-Learning in Neural Networks: {A} Survey},
   journal   = {CoRR},
-  volume    = {abs/1810.03548},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1810.03548},
+  volume    = {abs/2004.05439},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.05439},
   archivePrefix = {arXiv},
-  eprint    = {1810.03548},
-  timestamp = {Tue, 30 Oct 2018 10:49:09 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1810-03548.bib},
+  eprint    = {2004.05439},
+  timestamp = {Tue, 14 Apr 2020 16:40:34 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-05439.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

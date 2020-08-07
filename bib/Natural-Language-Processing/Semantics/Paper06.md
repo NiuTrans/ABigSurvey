@@ -1,16 +1,17 @@
 ```
-@article{Pal2015Word,
-  author    = {Alok Ranjan Pal and
-               Diganta Saha},
-  title     = {Word sense disambiguation: a survey},
+@article{Tahmasebi2018Survey,
+  author    = {Nina Tahmasebi and
+               Lars Borin and
+               Adam Jatowt},
+  title     = {Survey of Computational Approaches to Diachronic Conceptual Change},
   journal   = {CoRR},
-  volume    = {abs/1508.01346},
-  year      = {2015},
-  url       = {http://arxiv.org/abs/1508.01346},
+  volume    = {abs/1811.06278},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1811.06278},
   archivePrefix = {arXiv},
-  eprint    = {1508.01346},
-  timestamp = {Mon, 13 Aug 2018 16:46:43 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/PalS15.bib},
+  eprint    = {1811.06278},
+  timestamp = {Sun, 25 Nov 2018 18:57:12 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1811-06278.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

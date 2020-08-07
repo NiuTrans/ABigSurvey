@@ -1,8 +1,8 @@
 ```
-@article{pan2019recent,
-  title={Recent advances in neural question generation},
-  author={Pan, Liangming and Lei, Wenqiang and Chua, Tat-Seng and Kan, Min-Yen},
-  journal={arXiv preprint arXiv:1905.08949},
-  year={2019}
+@article{qiu2020pre,
+  title={Pre-trained models for natural language processing: A survey},
+  author={Qiu, Xipeng and Sun, Tianxiang and Xu, Yige and Shao, Yunfan and Dai, Ning and Huang, Xuanjing},
+  journal={Invited Review of Science China Technological Sciences},
+  year={2020}
 }
 ```

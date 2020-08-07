@@ -1,16 +1,17 @@
 ```
-@article{Malinowski2016Tutorial,
-  author    = {Mateusz Malinowski and
-               Mario Fritz},
-  title     = {Tutorial on Answering Questions about Images with Deep Learning},
+@article{Abbasiyantaeb2020Text-based,
+  author    = {Zahra Abbasiyantaeb and
+               Saeedeh Momtazi},
+  title     = {Text-based Question Answering from Information Retrieval and Deep
+               Neural Network Perspectives: {A} Survey},
   journal   = {CoRR},
-  volume    = {abs/1610.01076},
-  year      = {2016},
-  url       = {http://arxiv.org/abs/1610.01076},
+  volume    = {abs/2002.06612},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2002.06612},
   archivePrefix = {arXiv},
-  eprint    = {1610.01076},
-  timestamp = {Mon, 13 Aug 2018 16:48:24 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/MalinowskiF16.bib},
+  eprint    = {2002.06612},
+  timestamp = {Mon, 02 Mar 2020 16:46:06 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2002-06612.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

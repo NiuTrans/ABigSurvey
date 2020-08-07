@@ -1,13 +1,9 @@
 ```
-@article{young2018recent,
-  title={Recent trends in deep learning based natural language processing},
-  author={Young, Tom and Hazarika, Devamanyu and Poria, Soujanya and Cambria, Erik},
-  journal={ieee Computational intelligenCe magazine},
-  volume={13},
-  number={3},
-  pages={55--75},
-  year={2018},
-  publisher={IEEE}
+@inproceedings{lan2018neural,
+  title={Neural network models for paraphrase identification, semantic textual similarity, natural language inference, and question answering},
+  author={Lan, Wuwei and Xu, Wei},
+  booktitle={Proceedings of the 27th International Conference on Computational Linguistics},
+  pages={3890--3902},
+  year={2018}
 }
 ```
-

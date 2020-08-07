@@ -1,19 +1,21 @@
 ```
-@article{Raisi2020Text,
-  author    = {Zobeir Raisi and
-               Mohamed A. Naiel and
-               Paul W. Fieguth and
-               Steven Wardell and
-               John Zelek},
-  title     = {Text Detection and Recognition in the Wild: {A} Review},
-  journal   = {CoRR},
-  volume    = {abs/2006.04305},
+@article{Joshi2020Survey,
+  author    = {Aditya Joshi and
+               Sarvnaz Karimi and
+               Ross Sparks and
+               C{\'{e}}cile Paris and
+               C. Raina MacIntyre},
+  title     = {Survey of Text-based Epidemic Intelligence: {A} Computational Linguistics
+               Perspective},
+  journal   = {{ACM} Comput. Surv.},
+  volume    = {52},
+  number    = {6},
+  pages     = {119:1--119:19},
   year      = {2020},
-  url       = {https://arxiv.org/abs/2006.04305},
-  archivePrefix = {arXiv},
-  eprint    = {2006.04305},
-  timestamp = {Fri, 12 Jun 2020 14:02:57 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2006-04305.bib},
+  url       = {https://doi.org/10.1145/3361141},
+  doi       = {10.1145/3361141},
+  timestamp = {Fri, 24 Jan 2020 16:59:44 +0100},
+  biburl    = {https://dblp.org/rec/journals/csur/JoshiKSPM20.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

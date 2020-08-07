@@ -1,16 +1,16 @@
 ```
-@article{Ramponi2020Neural,
-  author    = {Alan Ramponi and
-               Barbara Plank},
-  title     = {Neural Unsupervised Domain Adaptation in {NLP} - {A} Survey},
+@article{Malte2019Evolution,
+  author    = {Aditya Malte and
+               Pratik Ratadiya},
+  title     = {Evolution of transfer learning in natural language processing},
   journal   = {CoRR},
-  volume    = {abs/2006.00632},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2006.00632},
+  volume    = {abs/1910.07370},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1910.07370},
   archivePrefix = {arXiv},
-  eprint    = {2006.00632},
-  timestamp = {Mon, 08 Jun 2020 15:48:39 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2006-00632.bib},
+  eprint    = {1910.07370},
+  timestamp = {Tue, 22 Oct 2019 18:17:16 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1910-07370.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

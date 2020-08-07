@@ -1,20 +1,16 @@
 ```
-@article{Diefenbach2018Core,
-  author    = {Dennis Diefenbach and
-               Vanessa L{\'{o}}pez and
-               Kamal Deep Singh and
-               Pierre Maret},
-  title     = {Core techniques of question answering systems over knowledge bases:
-               a survey},
-  journal   = {Knowl. Inf. Syst.},
-  volume    = {55},
-  number    = {3},
-  pages     = {529--569},
-  year      = {2018},
-  url       = {https://doi.org/10.1007/s10115-017-1100-y},
-  doi       = {10.1007/s10115-017-1100-y},
-  timestamp = {Wed, 14 Nov 2018 10:42:07 +0100},
-  biburl    = {https://dblp.org/rec/journals/kais/DiefenbachLSM18.bib},
+@article{Breja2019A,
+  author    = {Manvi Breja and
+               Sanjay Kumar Jain},
+  title     = {A Survey on Why-Type Question Answering Systems},
+  journal   = {CoRR},
+  volume    = {abs/1911.04879},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1911.04879},
+  archivePrefix = {arXiv},
+  eprint    = {1911.04879},
+  timestamp = {Mon, 02 Dec 2019 13:44:01 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1911-04879.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

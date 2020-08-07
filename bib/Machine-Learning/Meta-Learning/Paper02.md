@@ -1,18 +1,15 @@
 ```
-@article{Hospedales2020Meta-Learning,
-  author    = {Timothy M. Hospedales and
-               Antreas Antoniou and
-               Paul Micaelli and
-               Amos J. Storkey},
-  title     = {Meta-Learning in Neural Networks: {A} Survey},
+@article{Wenpeng2020Meta
+  author    = {Wenpeng Yin},
+  title     = {Meta-learning for Few-shot Natural Language Processing: {A} Survey},
   journal   = {CoRR},
-  volume    = {abs/2004.05439},
+  volume    = {abs/2007.09604},
   year      = {2020},
-  url       = {https://arxiv.org/abs/2004.05439},
+  url       = {https://arxiv.org/abs/2007.09604},
   archivePrefix = {arXiv},
-  eprint    = {2004.05439},
-  timestamp = {Tue, 14 Apr 2020 16:40:34 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-05439.bib},
+  eprint    = {2007.09604},
+  timestamp = {Tue, 28 Jul 2020 14:46:12 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-09604.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

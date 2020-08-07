@@ -1,19 +1,18 @@
 ```
-@article{Liu2019Neural,
-  author    = {Shanshan Liu and
-               Xin Zhang and
-               Sheng Zhang and
-               Hui Wang and
-               Weiming Zhang},
-  title     = {Neural Machine Reading Comprehension: Methods and Trends},
+@article{Zhang2020Machine,
+  author    = {Zhuosheng Zhang and
+               Hai Zhao and
+               Rui Wang},
+  title     = {Machine Reading Comprehension: The Role of Contextualized Language
+               Models and Beyond},
   journal   = {CoRR},
-  volume    = {abs/1907.01118},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1907.01118},
+  volume    = {abs/2005.06249},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2005.06249},
   archivePrefix = {arXiv},
-  eprint    = {1907.01118},
-  timestamp = {Thu, 21 Nov 2019 12:39:08 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1907-01118.bib},
+  eprint    = {2005.06249},
+  timestamp = {Thu, 14 May 2020 16:56:02 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2005-06249.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

@@ -1,8 +1,9 @@
 ```
-@article{almeida2019word,
-  title={Word embeddings: A survey},
-  author={Almeida, Felipe and Xex{\'e}o, Geraldo},
-  journal={arXiv preprint arXiv:1901.09069},
+@article{wang2019towards,
+  title={Towards a Robust Deep Neural Network in Texts: A Survey},
+  author={Wang, Wenqi and Wang, Lina and Wang, Run and Wang, Zhibo and Ye, Aoshuang},
+  journal={arXiv preprint arXiv:1902.07285},
   year={2019}
 }
 ```
+

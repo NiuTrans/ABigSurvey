@@ -1,21 +1,19 @@
 ```
-@article{Luo2020A,
-  author    = {Xiao Luo and
-               Chong Chen and
-               Huasong Zhong and
-               Hao Zhang and
-               Minghua Deng and
-               Jianqiang Huang and
-               Xiansheng Hua},
-  title     = {A Survey on Deep Hashing Methods},
+@article{Zhao2020A,
+  author    = {Zhao Zhang and
+               Yan Zhang and
+               Li Zhang and
+               Shuicheng Yan},
+  title     = {A Survey on Concept Factorization: From Shallow to Deep Representation
+               Learning},
   journal   = {CoRR},
-  volume    = {abs/2003.03369},
+  volume    = {abs/2007.15840},
   year      = {2020},
-  url       = {https://arxiv.org/abs/2003.03369},
+  url       = {https://arxiv.org/abs/2007.15840},
   archivePrefix = {arXiv},
-  eprint    = {2003.03369},
-  timestamp = {Fri, 13 Mar 2020 12:57:03 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2003-03369.bib},
+  eprint    = {2007.15840},
+  timestamp = {Mon, 03 Aug 2020 14:32:13 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-15840.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

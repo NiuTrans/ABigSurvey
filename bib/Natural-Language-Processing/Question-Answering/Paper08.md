@@ -1,19 +1,16 @@
 ```
-@article{Srivastava2019Visual,
-  author    = {Yash Srivastava and
-               Vaishnav Murali and
-               Shiv Ram Dubey and
-               Snehasis Mukherjee},
-  title     = {Visual Question Answering using Deep Learning: {A} Survey and Performance
-               Analysis},
+@article{Malinowski2016Tutorial,
+  author    = {Mateusz Malinowski and
+               Mario Fritz},
+  title     = {Tutorial on Answering Questions about Images with Deep Learning},
   journal   = {CoRR},
-  volume    = {abs/1909.01860},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1909.01860},
+  volume    = {abs/1610.01076},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1610.01076},
   archivePrefix = {arXiv},
-  eprint    = {1909.01860},
-  timestamp = {Mon, 16 Sep 2019 17:27:14 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1909-01860.bib},
+  eprint    = {1610.01076},
+  timestamp = {Mon, 13 Aug 2018 16:48:24 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/MalinowskiF16.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

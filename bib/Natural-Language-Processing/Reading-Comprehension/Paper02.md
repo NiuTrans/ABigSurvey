@@ -1,18 +1,20 @@
 ```
-@article{Qiu2019A,
-  author    = {Boyu Qiu and
-               Xu Chen and
-               Jungang Xu and
-               Yingfei Sun},
-  title     = {A Survey on Neural Machine Reading Comprehension},
+@article{Chengchang2020A,
+  author    = {Chengchang Zeng and
+               Shaobo Li and
+               Qin Li and
+               Jie Hu and
+               Jianjun Hu},
+  title     = {A Survey on Machine Reading Comprehension: Tasks, Evaluation Metrics,
+               and Benchmark Datasets},
   journal   = {CoRR},
-  volume    = {abs/1906.03824},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1906.03824},
+  volume    = {abs/2006.11880},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2006.11880},
   archivePrefix = {arXiv},
-  eprint    = {1906.03824},
-  timestamp = {Fri, 14 Jun 2019 09:38:24 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1906-03824.bib},
+  eprint    = {2006.11880},
+  timestamp = {Wed, 24 Jun 2020 09:12:22 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2006-11880.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

@@ -1,9 +1,8 @@
 ```
-@article{kalajdjieski2020recent,
-  title={Recent Advances in SQL Query Generation: A Survey},
-  author={Kalajdjieski, Jovan and Toshevska, Martina and Stojanovska, Frosina},
-  journal={International Conference on Informatics and Information Technologies},
-  year={2020}
+@article{pan2019recent,
+  title={Recent advances in neural question generation},
+  author={Pan, Liangming and Lei, Wenqiang and Chua, Tat-Seng and Kan, Min-Yen},
+  journal={arXiv preprint arXiv:1905.08949},
+  year={2019}
 }
 ```
-

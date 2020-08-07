@@ -1,8 +1,7 @@
 ```
-@article{huq2020adversarial,
-  title={Adversarial Attacks and Defense on Texts: A Survey.},
-  author={Huq, Aminul and Mst. Tasnim Pervin},
-  journal={CoRR},
-  year={2020}
+@article{Alyafeai2020A,
+  title={A Survey on Transfer Learning in Natural Language Processing},
+  author={Alyafeai, Zaid and Alshaibani, Maged Saeed and Ahmad, Irfan},
+  year={2020},
 }
 ```

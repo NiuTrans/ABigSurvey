@@ -1,19 +1,18 @@
 ```
-@article{Raghu2016Survey,
-  author    = {Maithra Raghu and
-               Ben Poole and
-               Jon M. Kleinberg and
-               Surya Ganguli and
-               Jascha Sohl{-}Dickstein},
-  title     = {Survey of Expressivity in Deep Neural Networks},
+@article{DBLP:journals/corr/abs-2007-08199,
+  author    = {Hwanjun Song and
+               Minseok Kim and
+               Dongmin Park and
+               Jae{-}Gil Lee},
+  title     = {Learning from Noisy Labels with Deep Neural Networks: {A} Survey},
   journal   = {CoRR},
-  volume    = {abs/1611.08083},
-  year      = {2016},
-  url       = {http://arxiv.org/abs/1611.08083},
+  volume    = {abs/2007.08199},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2007.08199},
   archivePrefix = {arXiv},
-  eprint    = {1611.08083},
-  timestamp = {Mon, 13 Aug 2018 16:48:14 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/RaghuPKGS16a.bib},
+  eprint    = {2007.08199},
+  timestamp = {Wed, 22 Jul 2020 12:09:15 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-08199.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

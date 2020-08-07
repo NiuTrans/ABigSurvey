@@ -1,8 +1,12 @@
 ```
-@article{hogan2020knowledge,
-  title={Knowledge graphs},
-  author={Hogan, Aidan and Blomqvist, Eva and Cochez, Michael and d'Amato, Claudia and de Melo, Gerard and Gutierrez, Claudio and Gayo, Jos{\'e} Emilio Labra and Kirrane, Sabrina and Neumaier, Sebastian and Polleres, Axel and others},
-  journal={arXiv preprint arXiv:2003.02320},
-  year={2020}
+@article{wang2017knowledge,
+  title={Knowledge graph embedding: A survey of approaches and applications},
+  author={Wang, Quan and Mao, Zhendong and Wang, Bin and Guo, Li},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={29},
+  number={12},
+  pages={2724--2743},
+  year={2017},
+  publisher={IEEE}
 }
 ```

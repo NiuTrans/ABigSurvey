@@ -1,8 +1,15 @@
 ```
-@article{ji2020survey,
-  title={A survey on knowledge graphs: Representation, acquisition and applications},
-  author={Ji, Shaoxiong and Pan, Shirui and Cambria, Erik and Marttinen, Pekka and Yu, Philip S},
-  journal={arXiv preprint arXiv:2002.00388},
-  year={2020}
+@article{Siddhant2020A,
+  author    = {Siddhant Arora},
+  title     = {A Survey on Graph Neural Networks for Knowledge Graph Completion},
+  journal   = {CoRR},
+  volume    = {abs/2007.12374},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2007.12374},
+  archivePrefix = {arXiv},
+  eprint    = {2007.12374},
+  timestamp = {Wed, 29 Jul 2020 15:36:39 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-12374.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

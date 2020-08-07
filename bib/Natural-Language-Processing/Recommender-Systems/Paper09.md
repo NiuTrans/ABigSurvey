@@ -1,18 +1,18 @@
 ```
-@article{Singhal2017Use,
-  author    = {Ayush Singhal and
-               Pradeep Sinha and
-               Rakesh Pant},
-  title     = {Use of Deep Learning in Modern Recommendation System: {A} Summary
-               of Recent Works},
-  journal   = {CoRR},
-  volume    = {abs/1712.07525},
-  year      = {2017},
-  url       = {http://arxiv.org/abs/1712.07525},
-  archivePrefix = {arXiv},
-  eprint    = {1712.07525},
-  timestamp = {Mon, 13 Aug 2018 16:47:36 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1712-07525.bib},
+@article{Quadrana2018Sequence-Aware,
+  author    = {Massimo Quadrana and
+               Paolo Cremonesi and
+               Dietmar Jannach},
+  title     = {Sequence-Aware Recommender Systems},
+  journal   = {{ACM} Comput. Surv.},
+  volume    = {51},
+  number    = {4},
+  pages     = {66:1--66:36},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3190616},
+  doi       = {10.1145/3190616},
+  timestamp = {Sat, 19 Oct 2019 19:23:12 +0200},
+  biburl    = {https://dblp.org/rec/journals/csur/QuadranaCJ18.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

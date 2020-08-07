@@ -1,16 +1,17 @@
 ```
-@article{Kalyan2020SECNLP,
-  author    = {Katikapalli Subramanyam Kalyan and
-               S. Sangeetha},
-  title     = {{SECNLP:} {A} survey of embeddings in clinical natural language processing},
-  journal   = {J. Biomed. Informatics},
-  volume    = {101},
-  pages     = {103323},
+@article{Yanyuan2020A,
+  author    = {Yanyuan Qiao and
+               Chaorui Deng and
+               Qi Wu},
+  title     = {Referring Expression Comprehension: {A} Survey of Methods and Datasets},
+  journal   = {CoRR},
+  volume    = {abs/2007.09554},
   year      = {2020},
-  url       = {https://doi.org/10.1016/j.jbi.2019.103323},
-  doi       = {10.1016/j.jbi.2019.103323},
-  timestamp = {Sat, 30 May 2020 19:45:33 +0200},
-  biburl    = {https://dblp.org/rec/journals/jbi/KalyanS20.bib},
+  url       = {https://arxiv.org/abs/2007.09554},
+  archivePrefix = {arXiv},
+  eprint    = {2007.09554},
+  timestamp = {Tue, 28 Jul 2020 14:46:12 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-09554.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

@@ -1,9 +1,9 @@
 ```
-@inproceedings{lan2018neural,
-  title={Neural network models for paraphrase identification, semantic textual similarity, natural language inference, and question answering},
-  author={Lan, Wuwei and Xu, Wei},
-  booktitle={Proceedings of the 27th International Conference on Computational Linguistics},
-  pages={3890--3902},
-  year={2018}
+@article{torfi2020natural,
+  title={Natural Language Processing Advancements By Deep Learning: A Survey},
+  author={Torfi, Amirsina and Shirvani, Rouzbeh A and Keneshloo, Yaser and Tavvaf, Nader and Fox, Edward A},
+  journal={arXiv preprint arXiv:2003.01200},
+  year={2020}
 }
 ```
+

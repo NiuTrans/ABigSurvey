@@ -1,17 +1,18 @@
 ```
-@article{Labach2019Survey,
-  author    = {Alex Labach and
-               Hojjat Salehinejad and
-               Shahrokh Valaee},
-  title     = {Survey of Dropout Methods for Deep Neural Networks},
+@article{Borghesi2020Improving,
+  author    = {Andrea Borghesi and
+               Federico Baldo and
+               Michela Milano},
+  title     = {Improving Deep Learning Models via Constraint-Based Domain Knowledge:
+               a Brief Survey},
   journal   = {CoRR},
-  volume    = {abs/1904.13310},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1904.13310},
+  volume    = {abs/2005.10691},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2005.10691},
   archivePrefix = {arXiv},
-  eprint    = {1904.13310},
-  timestamp = {Thu, 02 May 2019 15:13:44 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1904-13310.bib},
+  eprint    = {2005.10691},
+  timestamp = {Fri, 22 May 2020 16:21:28 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2005-10691.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

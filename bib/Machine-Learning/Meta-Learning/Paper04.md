@@ -1,15 +1,15 @@
 ```
-@article{Wenpeng2020Meta
-  author    = {Wenpeng Yin},
-  title     = {Meta-learning for Few-shot Natural Language Processing: {A} Survey},
+@article{Vanschoren2018Meta-Learning,
+  author    = {Joaquin Vanschoren},
+  title     = {Meta-Learning: {A} Survey},
   journal   = {CoRR},
-  volume    = {abs/2007.09604},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2007.09604},
+  volume    = {abs/1810.03548},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1810.03548},
   archivePrefix = {arXiv},
-  eprint    = {2007.09604},
-  timestamp = {Tue, 28 Jul 2020 14:46:12 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-09604.bib},
+  eprint    = {1810.03548},
+  timestamp = {Tue, 30 Oct 2018 10:49:09 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1810-03548.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

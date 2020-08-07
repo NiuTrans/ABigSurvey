@@ -1,19 +1,19 @@
 ```
-@article{Gao2020Deep,
-  author    = {Yang Gao and
-               Yi{-}Fan Li and
-               Yu Lin and
-               Hang Gao and
-               Latifur Khan},
-  title     = {Deep Learning on Knowledge Graph for Recommender System: {A} Survey},
-  journal   = {CoRR},
-  volume    = {abs/2004.00387},
-  year      = {2020},
-  url       = {https://arxiv.org/abs/2004.00387},
-  archivePrefix = {arXiv},
-  eprint    = {2004.00387},
-  timestamp = {Mon, 06 Jul 2020 07:46:39 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-00387.bib},
+@article{Zhang2019Deep,
+  author    = {Shuai Zhang and
+               Lina Yao and
+               Aixin Sun and
+               Yi Tay},
+  title     = {Deep Learning Based Recommender System: {A} Survey and New Perspectives},
+  journal   = {{ACM} Comput. Surv.},
+  volume    = {52},
+  number    = {1},
+  pages     = {5:1--5:38},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3285029},
+  doi       = {10.1145/3285029},
+  timestamp = {Mon, 15 Jun 2020 16:54:46 +0200},
+  biburl    = {https://dblp.org/rec/journals/csur/ZhangYST19.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

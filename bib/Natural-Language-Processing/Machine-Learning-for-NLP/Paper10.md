@@ -1,9 +1,10 @@
 ```
-@article{galassi2019attention,
-  title={Attention, please! a critical review of neural attention models in natural language processing},
-  author={Galassi, Andrea and Lippi, Marco and Torroni, Paolo},
-  journal={arXiv preprint arXiv:1902.02181},
-  year={2019}
+@inproceedings{hu2019introductory,
+  title={An introductory survey on attention mechanisms in NLP problems},
+  author={Hu, Dichao},
+  booktitle={Proceedings of SAI Intelligent Systems Conference},
+  pages={432--448},
+  year={2019},
+  organization={Springer}
 }
 ```
-

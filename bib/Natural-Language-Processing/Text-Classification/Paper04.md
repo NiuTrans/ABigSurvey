@@ -1,21 +1,20 @@
 ```
-@article{Kowsari2019Text,
-author    = {Kamran Kowsari and
-Kiana Jafari Meimandi and
-Mojtaba Heidarysafa and
-Sanjana Mendu and
-Laura E. Barnes and
-Donald E. Brown},
-title     = {Text Classification Algorithms: {A} Survey},
-journal   = {Inf.},
-volume    = {10},
-number    = {4},
-pages     = {150},
-year      = {2019},
-url       = {https://doi.org/10.3390/info10040150},
-doi       = {10.3390/info10040150},
-timestamp = {Thu, 09 Jul 2020 22:59:47 +0200},
-biburl    = {https://dblp.org/rec/journals/information/KowsariMHMBB19.bib},
+@article{Minaee2020Deep,
+author    = {Shervin Minaee and
+Nal Kalchbrenner and
+Erik Cambria and
+Narjes Nikzad and
+Meysam Chenaghlu and
+Jianfeng Gao},
+title     = {Deep Learning Based Text Classification: {A} Comprehensive Review},
+journal   = {CoRR},
+volume    = {abs/2004.03705},
+year      = {2020},
+url       = {https://arxiv.org/abs/2004.03705},
+archivePrefix = {arXiv},
+eprint    = {2004.03705},
+timestamp = {Tue, 14 Apr 2020 16:40:34 +0200},
+biburl    = {https://dblp.org/rec/journals/corr/abs-2004-03705.bib},
 bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

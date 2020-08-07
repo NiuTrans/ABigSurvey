@@ -1,10 +1,9 @@
 ```
-@article{wang2020static,
-  title={From static to dynamic word representations: a survey},
-  author={Wang, Yuxuan and Hou, Yutai and Che, Wanxiang and Liu, Ting},
-  journal={International Journal of Machine Learning and Cybernetics},
-  pages={1--20},
-  year={2020},
-  publisher={Springer}
+@article{galassi2019attention,
+  title={Attention, please! a critical review of neural attention models in natural language processing},
+  author={Galassi, Andrea and Lippi, Marco and Torroni, Paolo},
+  journal={arXiv preprint arXiv:1902.02181},
+  year={2019}
 }
 ```
+

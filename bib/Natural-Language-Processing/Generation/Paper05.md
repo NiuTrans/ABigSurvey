@@ -1,8 +1,8 @@
 ```
-@article{qiu2020pre,
-  title={Pre-trained models for natural language processing: A survey},
-  author={Qiu, Xipeng and Sun, Tianxiang and Xu, Yige and Shao, Yunfan and Dai, Ning and Huang, Xuanjing},
-  journal={Invited Review of Science China Technological Sciences},
-  year={2020}
+@article{lu2018neural,
+  title={Neural text generation: Past, present and beyond},
+  author={Lu, Sidi and Zhu, Yaoming and Zhang, Weinan and Wang, Jun and Yu, Yong},
+  journal={arXiv preprint arXiv:1803.07133},
+  year={2018}
 }
 ```

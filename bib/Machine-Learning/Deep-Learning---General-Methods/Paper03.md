@@ -1,18 +1,21 @@
 ```
-@article{Apicella2020A,
-  author    = {Andrea Apicella and
-               Francesco Donnarumma and
-               Francesco Isgr{\`{o}} and
-               Roberto Prevete},
-  title     = {A survey on modern trainable activation functions},
+@article{Luo2020A,
+  author    = {Xiao Luo and
+               Chong Chen and
+               Huasong Zhong and
+               Hao Zhang and
+               Minghua Deng and
+               Jianqiang Huang and
+               Xiansheng Hua},
+  title     = {A Survey on Deep Hashing Methods},
   journal   = {CoRR},
-  volume    = {abs/2005.00817},
+  volume    = {abs/2003.03369},
   year      = {2020},
-  url       = {https://arxiv.org/abs/2005.00817},
+  url       = {https://arxiv.org/abs/2003.03369},
   archivePrefix = {arXiv},
-  eprint    = {2005.00817},
-  timestamp = {Fri, 08 May 2020 15:04:04 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2005-00817.bib},
+  eprint    = {2003.03369},
+  timestamp = {Fri, 13 Mar 2020 12:57:03 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2003-03369.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

@@ -1,23 +1,15 @@
 ```
-@article{Alom2018The,
-  author    = {Md. Zahangir Alom and
-               Tarek M. Taha and
-               Christopher Yakopcic and
-               Stefan Westberg and
-               Mahmudul Hasan and
-               Brian C. Van Esesn and
-               Abdul A. S. Awwal and
-               Vijayan K. Asari},
-  title     = {The History Began from AlexNet: {A} Comprehensive Survey on Deep Learning
-               Approaches},
+@article{Chen2019Review,
+  author    = {Xinshi Chen},
+  title     = {Review: Ordinary Differential Equations For Deep Learning},
   journal   = {CoRR},
-  volume    = {abs/1803.01164},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1803.01164},
+  volume    = {abs/1911.00502},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1911.00502},
   archivePrefix = {arXiv},
-  eprint    = {1803.01164},
-  timestamp = {Mon, 13 Aug 2018 16:46:09 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1803-01164.bib},
+  eprint    = {1911.00502},
+  timestamp = {Mon, 11 Nov 2019 18:38:09 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1911-00502.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

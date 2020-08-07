@@ -1,12 +1,8 @@
 ```
-@article{wang2017knowledge,
-  title={Knowledge graph embedding: A survey of approaches and applications},
-  author={Wang, Quan and Mao, Zhendong and Wang, Bin and Guo, Li},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  volume={29},
-  number={12},
-  pages={2724--2743},
-  year={2017},
-  publisher={IEEE}
+@article{rossi2020knowledge,
+  title={Knowledge Graph Embedding for Link Prediction: A Comparative Analysis},
+  author={Rossi, Andrea and Firmani, Donatella and Matinata, Antonio and Merialdo, Paolo and Barbosa, Denilson},
+  journal={arXiv preprint arXiv:2002.00819},
+  year={2020}
 }
 ```

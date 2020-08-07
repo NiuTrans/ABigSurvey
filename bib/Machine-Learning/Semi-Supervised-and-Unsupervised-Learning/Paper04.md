@@ -1,17 +1,17 @@
 ```
-@article{Bekker2020Learning,
-  author    = {Jessa Bekker and
-               Jesse Davis},
-  title     = {Learning from positive and unlabeled data: a survey},
-  journal   = {Mach. Learn.},
-  volume    = {109},
-  number    = {4},
-  pages     = {719--760},
-  year      = {2020},
-  url       = {https://doi.org/10.1007/s10994-020-05877-5},
-  doi       = {10.1007/s10994-020-05877-5},
-  timestamp = {Fri, 22 May 2020 21:55:10 +0200},
-  biburl    = {https://dblp.org/rec/journals/ml/BekkerD20.bib},
+@article{Mey2019Improvability,
+  author    = {Alexander Mey and
+               Marco Loog},
+  title     = {Improvability Through Semi-Supervised Learning: {A} Survey of Theoretical
+               Results},
+  journal   = {CoRR},
+  volume    = {abs/1908.09574},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1908.09574},
+  archivePrefix = {arXiv},
+  eprint    = {1908.09574},
+  timestamp = {Thu, 29 Aug 2019 16:32:34 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1908-09574.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

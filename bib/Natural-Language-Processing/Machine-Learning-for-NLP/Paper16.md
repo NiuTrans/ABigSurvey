@@ -1,16 +1,13 @@
 ```
-@article{Lorenzo2019Symbolic,
-  author={Lorenzo Ferrone and Fabio Massimo Zanzotto},
-  title={Symbolic, Distributed, and Distributional Representations for Natural Language Processing in the Era of Deep Learning: A Survey},
-  journal={Frontiers Robotics AI},
-  volume={6},
-  pages={153},
-  year={2019},
-  url={https://doi.org/10.3389/frobt.2019.00153},
-  doi={10.3389/frobt.2019.00153},
-  timestamp={Mon, 22 Jun 2020 15:54:17 +0200},
-  biburl={https://dblp.org/rec/journals/firai/FerroneZ20.bib},
-  bibsource={dblp computer science bibliography, https://dblp.org}
+@article{young2018recent,
+  title={Recent trends in deep learning based natural language processing},
+  author={Young, Tom and Hazarika, Devamanyu and Poria, Soujanya and Cambria, Erik},
+  journal={ieee Computational intelligenCe magazine},
+  volume={13},
+  number={3},
+  pages={55--75},
+  year={2018},
+  publisher={IEEE}
 }
 ```
 

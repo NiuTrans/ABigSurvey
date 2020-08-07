@@ -1,12 +1,8 @@
 ```
-@article{zhang2020adversarial,
-  title={Adversarial attacks on deep-learning models in natural language processing: A survey},
-  author={Zhang, Wei Emma and Sheng, Quan Z and Alhazmi, Ahoud and Li, Chenliang},
-  journal={ACM Transactions on Intelligent Systems and Technology (TIST)},
-  volume={11},
-  number={3},
-  pages={1--41},
-  year={2020},
-  publisher={ACM New York, NY, USA}
+@article{huq2020adversarial,
+  title={Adversarial Attacks and Defense on Texts: A Survey.},
+  author={Huq, Aminul and Mst. Tasnim Pervin},
+  journal={CoRR},
+  year={2020}
 }
 ```

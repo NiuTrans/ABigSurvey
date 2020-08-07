@@ -1,18 +1,22 @@
 ```
-@article{LeCun2015Deep,
-  author    = {Yann LeCun and
-               Yoshua Bengio and
-               Geoffrey E. Hinton},
-  title     = {Deep learning},
-  journal   = {Nature},
-  volume    = {521},
-  number    = {7553},
-  pages     = {436--444},
-  year      = {2015},
-  url       = {https://doi.org/10.1038/nature14539},
-  doi       = {10.1038/nature14539},
-  timestamp = {Mon, 08 Jun 2020 22:21:28 +0200},
-  biburl    = {https://dblp.org/rec/journals/nature/LeCunBH15.bib},
+@article{Wang2020Convergence,
+  author    = {Xiaofei Wang and
+               Yiwen Han and
+               Victor C. M. Leung and
+               Dusit Niyato and
+               Xueqiang Yan and
+               Xu Chen},
+  title     = {Convergence of Edge Computing and Deep Learning: {A} Comprehensive
+               Survey},
+  journal   = {{IEEE} Commun. Surv. Tutorials},
+  volume    = {22},
+  number    = {2},
+  pages     = {869--904},
+  year      = {2020},
+  url       = {https://doi.org/10.1109/COMST.2020.2970550},
+  doi       = {10.1109/COMST.2020.2970550},
+  timestamp = {Tue, 09 Jun 2020 08:57:35 +0200},
+  biburl    = {https://dblp.org/rec/journals/comsur/WangHLNYC20.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

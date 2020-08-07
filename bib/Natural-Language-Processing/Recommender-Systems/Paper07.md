@@ -1,17 +1,19 @@
 ```
-@article{Zhang2020Explainable,
-  author    = {Yongfeng Zhang and
-               Xu Chen},
-  title     = {Explainable Recommendation: {A} Survey and New Perspectives},
-  journal   = {Found. Trends Inf. Retr.},
-  volume    = {14},
-  number    = {1},
-  pages     = {1--101},
+@article{Gao2020Deep,
+  author    = {Yang Gao and
+               Yi{-}Fan Li and
+               Yu Lin and
+               Hang Gao and
+               Latifur Khan},
+  title     = {Deep Learning on Knowledge Graph for Recommender System: {A} Survey},
+  journal   = {CoRR},
+  volume    = {abs/2004.00387},
   year      = {2020},
-  url       = {https://doi.org/10.1561/1500000066},
-  doi       = {10.1561/1500000066},
-  timestamp = {Mon, 23 Mar 2020 16:29:34 +0100},
-  biburl    = {https://dblp.org/rec/journals/ftir/ZhangC20.bib},
+  url       = {https://arxiv.org/abs/2004.00387},
+  archivePrefix = {arXiv},
+  eprint    = {2004.00387},
+  timestamp = {Mon, 06 Jul 2020 07:46:39 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-00387.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

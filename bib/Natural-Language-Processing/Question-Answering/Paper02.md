@@ -1,16 +1,18 @@
 ```
-@article{Breja2019A,
-  author    = {Manvi Breja and
-               Sanjay Kumar Jain},
-  title     = {A Survey on Why-Type Question Answering Systems},
-  journal   = {CoRR},
-  volume    = {abs/1911.04879},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1911.04879},
-  archivePrefix = {arXiv},
-  eprint    = {1911.04879},
-  timestamp = {Mon, 02 Dec 2019 13:44:01 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1911-04879.bib},
+@article{Kolomiyets2011A,
+  author    = {Oleksandr Kolomiyets and
+               Marie{-}Francine Moens},
+  title     = {A survey on question answering technology from an information retrieval
+               perspective},
+  journal   = {Inf. Sci.},
+  volume    = {181},
+  number    = {24},
+  pages     = {5412--5434},
+  year      = {2011},
+  url       = {https://doi.org/10.1016/j.ins.2011.07.047},
+  doi       = {10.1016/j.ins.2011.07.047},
+  timestamp = {Sat, 27 May 2017 14:24:47 +0200},
+  biburl    = {https://dblp.org/rec/journals/isci/KolomiyetsM11.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

@@ -1,8 +1,10 @@
 ```
-@article{celikyilmaz2020evaluation,
-  title={Evaluation of Text Generation: A Survey},
-  author={Celikyilmaz, Asli and Clark, Elizabeth and Gao, Jianfeng},
-  journal={arXiv preprint arXiv:2006.14799},
-  year={2020}
+@article{gatt2018survey,
+  title={Survey of the state of the art in natural language generation: Core tasks, applications and evaluation},
+  author={Gatt, Albert and Krahmer, Emiel},
+  journal={Journal of Artificial Intelligence Research},
+  volume={61},
+  pages={65--170},
+  year={2018}
 }
 ```

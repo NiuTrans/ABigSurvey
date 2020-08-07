@@ -1,20 +1,17 @@
 ```
-@article{Bronstein2017Geometric,
-  author    = {Michael M. Bronstein and
-               Joan Bruna and
-               Yann LeCun and
-               Arthur Szlam and
-               Pierre Vandergheynst},
-  title     = {Geometric Deep Learning: Going beyond Euclidean data},
-  journal   = {{IEEE} Signal Process. Mag.},
-  volume    = {34},
-  number    = {4},
-  pages     = {18--42},
-  year      = {2017},
-  url       = {https://doi.org/10.1109/MSP.2017.2693418},
-  doi       = {10.1109/MSP.2017.2693418},
-  timestamp = {Wed, 26 Jul 2017 18:02:24 +0200},
-  biburl    = {https://dblp.org/rec/journals/spm/BronsteinBLSV17.bib},
+@article{Liu2019Deep,
+  author    = {Guan{-}Horng Liu and
+               Evangelos A. Theodorou},
+  title     = {Deep Learning Theory Review: An Optimal Control and Dynamical Systems
+               Perspective},
+  journal   = {CoRR},
+  volume    = {abs/1908.10920},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1908.10920},
+  archivePrefix = {arXiv},
+  eprint    = {1908.10920},
+  timestamp = {Wed, 04 Sep 2019 15:47:27 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1908-10920.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

@@ -1,18 +1,21 @@
 ```
-@article{Kolomiyets2011A,
-  author    = {Oleksandr Kolomiyets and
-               Marie{-}Francine Moens},
-  title     = {A survey on question answering technology from an information retrieval
-               perspective},
-  journal   = {Inf. Sci.},
-  volume    = {181},
-  number    = {24},
-  pages     = {5412--5434},
-  year      = {2011},
-  url       = {https://doi.org/10.1016/j.ins.2011.07.047},
-  doi       = {10.1016/j.ins.2011.07.047},
-  timestamp = {Sat, 27 May 2017 14:24:47 +0200},
-  biburl    = {https://dblp.org/rec/journals/isci/KolomiyetsM11.bib},
+@article{Bin2020A,
+  author    = {Bin Fu and
+               Yunqi Qiu and
+               Chengguang Tang and
+               Yang Li and
+               Haiyang Yu and
+               Jian Sun},
+  title     = {A Survey on Complex Question Answering over Knowledge Base: Recent
+               Advances and Challenges},
+  journal   = {CoRR},
+  volume    = {abs/2007.13069},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2007.13069},
+  archivePrefix = {arXiv},
+  eprint    = {2007.13069},
+  timestamp = {Wed, 29 Jul 2020 15:36:39 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-13069.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```

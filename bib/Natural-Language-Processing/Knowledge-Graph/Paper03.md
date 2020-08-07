@@ -1,8 +1,8 @@
 ```
-@article{rossi2020knowledge,
-  title={Knowledge Graph Embedding for Link Prediction: A Comparative Analysis},
-  author={Rossi, Andrea and Firmani, Donatella and Matinata, Antonio and Merialdo, Paolo and Barbosa, Denilson},
-  journal={arXiv preprint arXiv:2002.00819},
+@article{ji2020survey,
+  title={A survey on knowledge graphs: Representation, acquisition and applications},
+  author={Ji, Shaoxiong and Pan, Shirui and Cambria, Erik and Marttinen, Pekka and Yu, Philip S},
+  journal={arXiv preprint arXiv:2002.00388},
   year={2020}
 }
 ```

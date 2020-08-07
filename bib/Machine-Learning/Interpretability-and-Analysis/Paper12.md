@@ -1,19 +1,17 @@
 ```
-@inproceedings{Gao2019Visualisation,
-  author    = {Huiru Gao and
-               Haifeng Nie and
-               Ke Li},
-  title     = {Visualisation of Pareto Front Approximation: {A} Short Survey and
-               Empirical Comparisons},
-  booktitle = {{IEEE} Congress on Evolutionary Computation, {CEC} 2019, Wellington,
-               New Zealand, June 10-13, 2019},
-  pages     = {1750--1757},
-  publisher = {{IEEE}},
-  year      = {2019},
-  url       = {https://doi.org/10.1109/CEC.2019.8790298},
-  doi       = {10.1109/CEC.2019.8790298},
-  timestamp = {Wed, 16 Oct 2019 14:14:52 +0200},
-  biburl    = {https://dblp.org/rec/conf/cec/GaoNL19.bib},
+@article{Zhang2018Visual,
+  author    = {Quanshi Zhang and
+               Song{-}Chun Zhu},
+  title     = {Visual interpretability for deep learning: a survey},
+  journal   = {Frontiers Inf. Technol. Electron. Eng.},
+  volume    = {19},
+  number    = {1},
+  pages     = {27--39},
+  year      = {2018},
+  url       = {https://doi.org/10.1631/FITEE.1700808},
+  doi       = {10.1631/FITEE.1700808},
+  timestamp = {Thu, 05 Mar 2020 17:10:30 +0100},
+  biburl    = {https://dblp.org/rec/journals/jzusc/ZhangZ18.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
