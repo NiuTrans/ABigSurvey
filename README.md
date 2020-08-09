@@ -63,17 +63,17 @@ To reduce class imbalance, we separate some of the hot sub-topics from the origi
 
 We show the number of paper in each area in Figures 1-2.
 
-<p align="center"><img src="https://i.loli.net/2020/07/17/25EpP9HDeWgrtTu.png"  width="70%" height="70%" /></p>
+<p align="center"><img src="https://i.loli.net/2020/08/10/Sn8FViMlsrjZdCp.png"  width="70%" height="70%" /></p>
 
 <p align="center">Figure 1: # of papers in each NLP area.</p>
 
-<p align="center"><img src="https://i.loli.net/2020/07/17/CcAO9HSs5TUjVqL.png" width="70%" height="70%" /></p>
+<p align="center"><img src="https://i.loli.net/2020/08/10/VLjTobZihYfGaKR.png" width="70%" height="70%" /></p>
 
 <p align="center">Figure 2:  # of papers in each ML area..</p>
 
 Also, we plot paper number as a function of publication year (see Figure 3).
 
-<p align="center"><img src="https://i.loli.net/2020/07/17/8azfKL2gY1Qxl5C.png" width="70%" height="70%"/></p>
+<p align="center"><img src="https://i.loli.net/2020/08/10/ikZXsGYrpfEVA9W.png" width="70%" height="70%"/></p>
 
 <p align="center">Figure 3: # of papers vs publication year.</p>
 
