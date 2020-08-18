@@ -1,0 +1,21 @@
+```
+@article{Bin2020A,
+  author    = {Bin Fu and
+               Yunqi Qiu and
+               Chengguang Tang and
+               Yang Li and
+               Haiyang Yu and
+               Jian Sun},
+  title     = {A Survey on Complex Question Answering over Knowledge Base: Recent
+               Advances and Challenges},
+  journal   = {CoRR},
+  volume    = {abs/2007.13069},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2007.13069},
+  archivePrefix = {arXiv},
+  eprint    = {2007.13069},
+  timestamp = {Wed, 29 Jul 2020 15:36:39 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2007-13069.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
