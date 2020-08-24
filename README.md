@@ -894,7 +894,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Kamran Kowsari, Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura E. Barnes, Donald E. Brown*
 
+6. **A Survey of Active Learning for Text Classification using Deep Neural Networks.** arXiv 2020 [paper](https://arxiv.org/abs/2008.07267) [bib](/bib/Natural-Language-Processing/Text-Classification/Paper06.md)
 
+    *Christopher Schröder, Andreas Niekler*
+    
 ## The ML Paper List
 
 #### [Architectures](#content)
