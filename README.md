@@ -17,7 +17,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#linguistic-theories-and-cognitive-modeling-and-psycholinguistics">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
     + <a href="#machine-learning-for-nlp">Machine Learning for NLP</a>
     + <a href="#machine-translation">Machine Translation</a>
-    + <a href="#natural-language-processing">Natural Language Processing</a>
+    + <a href="#natural-language-processing">Natural Language Processing (General)</a>
     + <a href="#ner">Named Entity Recognition (NER)</a>
     + <a href="#nlp-applications">NLP Applications</a>
     + <a href="#question-answering">Question Answering</a>
@@ -894,7 +894,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Kamran Kowsari, Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura E. Barnes, Donald E. Brown*
 
+6. **A Survey of Active Learning for Text Classification using Deep Neural Networks.** arXiv 2020 [paper](https://arxiv.org/abs/2008.07267) [bib](/bib/Natural-Language-Processing/Text-Classification/Paper06.md)
 
+    *Christopher Schröder, Andreas Niekler*
+    
 ## The ML Paper List
 
 #### [Architectures](#content)
