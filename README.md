@@ -451,7 +451,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 16. **The Query Translation Landscape: a Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1910.03118) [bib](/bib/Natural-Language-Processing/Machine-Translation/Paper16.md)
 
     *Mohamed Nadjib Mami, Damien Graux, Harsh Thakkar, Simon Scerri, Soren Auer, Jens Lehmann*
-
+    
 #### [Natural Language Processing](#content)
 
 1. **A Survey and Classification of Controlled Natural Languages.** Computational Linguistics 2014 [paper](https://arxiv.org/abs/1507.01701) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Paper01.md)
