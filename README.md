@@ -278,9 +278,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Kenneth Joseph, Jonathan H. Morgan*
 
-8. **Which *BERT? A Survey Organizing Contextualized Encoders.** EMNLP 2020 [paper](https://arxiv.org/pdf/2010.00854.pdf) [bib](/bib/Natural-Language-Processing/Interpretability-and-Analysis-of-Models-for-NLP/Xia2020Which.md)
+8. **Which BERT? A Survey Organizing Contextualized Encoders.** EMNLP 2020 [paper](https://arxiv.org/pdf/2010.00854.pdf) [bib](/bib/Natural-Language-Processing/Interpretability-and-Analysis-of-Models-for-NLP/Xia2020Which.md)
 
     *Patrick Xia, Shijie Wu, Benjamin Van Durme*
+
 
 #### [Knowledge Graph](#content)
 
@@ -1011,7 +1012,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Sneha Chaudhari, Gungor Polatkan, Rohan Ramanath, Varun Mithal*
 
-5. **Binary Neural Networks: A Survey.** Pattern Recognition 2020 [paper](https://arxiv.org/abs/2004.03333) [bib](/bib/Machine-Learning/Architectures/Qin2020Binary.md)
+5. **Binary Neural Networks: A Survey.** Pattern Recognition 2020 [paper](https://arxiv.org/abs/2004.03333) [abib](/bib/Machine-Learning/Architectures/Qin2020Binary.md)
 
     *Haotong Qin, Ruihao Gong, Xianglong Liu, Xiao Bai, Jingkuan Song, Nicu Sebe*
 
@@ -1135,123 +1136,115 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Alom, Md Zahangir and Taha, Tarek M and Yakopcic, Chris and Westberg, Stefan and Sidike, Paheding and Nasrin, Mst Shamima and Hasan, Mahmudul and Van Essen, Brian C and Awwal, Abdul AS and Asari, Vijayan K*
 
-#### [Deep learning](#content)
-
-1. **A Survey of Deep Active Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00236) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Ren2020A.md)
+2. **A Survey of Deep Active Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00236) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Ren2020A.md)
 
     *Pengzhen Ren, Yun Xiao, Xiaojun Chang, Po-Yao Huang, Zhihui Li, Xiaojiang Chen, Xin Wang*
 
-#### [Deep Learning](#content)
-
-1. **A Survey of Deep Learning for Data Caching in Edge Network.** arXiv 2020 [paper](https://arxiv.org/abs/2008.07235) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020A.md)
+3. **A Survey of Deep Learning for Data Caching in Edge Network.** arXiv 2020 [paper](https://arxiv.org/abs/2008.07235) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020A.md)
 
     *Yantong Wang, Vasilis Friderikos*
 
-2. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** arXiv 2017 [paper](https://arxiv.org/abs/1705.06963) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Schuman2017A.md)
+4. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** arXiv 2017 [paper](https://arxiv.org/abs/1705.06963) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Schuman2017A.md)
 
     *Catherine D. Schuman, Thomas E. Potok, Robert M. Patton, J. Douglas Birdwell, Mark E. Dean, Garrett S. Rose, James S. Plank*
 
-3. **A Survey on Concept Factorization: From Shallow to Deep Representation Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2007.15840) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhao2020A.md)
+5. **A Survey on Concept Factorization: From Shallow to Deep Representation Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2007.15840) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhao2020A.md)
 
     *Zhao Zhang, Yan Zhang, Li Zhang, Shuicheng Yan*
 
-4. **A Survey on Deep Hashing Methods.** arXiv 2020 [paper](https://arxiv.org/abs/2003.03369) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Luo2020A.md)
+6. **A Survey on Deep Hashing Methods.** arXiv 2020 [paper](https://arxiv.org/abs/2003.03369) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Luo2020A.md)
 
     *Xiao Luo, Chong Chen, Huasong Zhong, Hao Zhang, Minghua Deng, Jianqiang Huang, Xiansheng Hua*
 
-5. **A survey on modern trainable activation functions.** arXiv 2020 [paper](https://arxiv.org/abs/2005.00817) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Apicella2020A.md)
+7. **A survey on modern trainable activation functions.** arXiv 2020 [paper](https://arxiv.org/abs/2005.00817) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Apicella2020A.md)
 
     *Andrea Apicella, Francesco Donnarumma, Francesco Isgrò, Roberto Prevete*
 
-#### [Deep learning](#content)
-
-1. **Big Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2008.03638) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bedru2020A.md)
+8. **Big Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2008.03638) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bedru2020A.md)
 
     *Hayat Dino Bedru, Shuo Yu, Xinru Xiao, Da Zhang, Liangtian Wan, He Guo, Feng Xia*
 
-#### [Deep Learning](#content)
-
-1. **Convergence of Edge Computing and Deep Learning: A Comprehensive Survey.** IEEE 2020 [paper](https://ieeexplore.ieee.org/document/8976180) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020Convergence.md)
+9. **Convergence of Edge Computing and Deep Learning: A Comprehensive Survey.** IEEE 2020 [paper](https://ieeexplore.ieee.org/document/8976180) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020Convergence.md)
 
     *Xiaofei Wang, Yiwen Han, Victor C.M. Leung, Dusit Niyato, Xueqiang Yan, Xu Chen*
 
-2. **Deep learning.** Nature 2015 [paper](https://www.nature.com/articles/nature14539) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/LeCun2015Deep.md)
+10. **Deep learning.** Nature 2015 [paper](https://www.nature.com/articles/nature14539) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/LeCun2015Deep.md)
 
     *Yann LeCun*
 
-3. **Deep Learning for 3D Point Cloud Understanding: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.08920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lu2020Deep.md)
+11. **Deep Learning for 3D Point Cloud Understanding: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.08920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lu2020Deep.md)
 
     *Haoming Lu, Humphrey Shi*
 
-4. **Deep Learning for Image Super-resolution: A Survey.** IEEE 2019 [paper](https://arxiv.org/abs/1902.06068) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2019Deep.md)
+12. **Deep Learning for Image Super-resolution: A Survey.** IEEE 2019 [paper](https://arxiv.org/abs/1902.06068) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2019Deep.md)
 
     *Zhihao Wang, Jian Chen, Steven C.H. Hoi*
 
-5. **Deep Learning on Graphs: A Survey.** IEEE 2020 [paper](https://arxiv.org/abs/1812.04202) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhang2020Deep.md)
+13. **Deep Learning on Graphs: A Survey.** IEEE 2020 [paper](https://arxiv.org/abs/1812.04202) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhang2020Deep.md)
 
     *Ziwei Zhang, Peng Cui, Wenwu Zhu*
 
-6. **Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.** arXiv 2019 [paper](https://arxiv.org/abs/1908.10920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2019Deep.md)
+14. **Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.** arXiv 2019 [paper](https://arxiv.org/abs/1908.10920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2019Deep.md)
 
     *Guan-Horng Liu, Evangelos A. Theodorou*
 
-7. **Geometric Deep Learning: Going beyond Euclidean data.** IEEE 2017 [paper](https://arxiv.org/abs/1611.08097) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bronstein2017Geometric.md)
+15. **Geometric Deep Learning: Going beyond Euclidean data.** IEEE 2017 [paper](https://arxiv.org/abs/1611.08097) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bronstein2017Geometric.md)
 
     *Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst*
 
-8. **Hands-on Bayesian Neural Networks - a Tutorial for DeepLearning Users.** arXiv 2020 [paper](https://arxiv.org/abs/2007.06823) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Laurent2020Hands.md)
+16. **Hands-on Bayesian Neural Networks - a Tutorial for DeepLearning Users.** arXiv 2020 [paper](https://arxiv.org/abs/2007.06823) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Laurent2020Hands.md)
 
     *Laurent Valentin Jospin, et al*
 
-9. **Improving Deep Learning Models via Constraint-Based Domain Knowledge: a Brief Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.10691) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Borghesi2020Improving.md)
+17. **Improving Deep Learning Models via Constraint-Based Domain Knowledge: a Brief Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.10691) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Borghesi2020Improving.md)
 
     *Andrea Borghesi, Federico Baldo, Michela Milano*
 
-10. **Learning from Noisy Labels with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.08199) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Song2020Learning.md)
+18. **Learning from Noisy Labels with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.08199) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Song2020Learning.md)
 
     *Hwanjun Song, Minseok Kim, Dongmin Park, Jae-Gil Lee*
 
-11. **Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.00753) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Samuel2020Opportunities.md)
+19. **Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.00753) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Samuel2020Opportunities.md)
 
     *Samuel Henrique Silva, Peyman Najafirad*
 
-12. **Pooling Methods in Deep Neural Networks, a Review.** arXiv 2020 [paper](https://arxiv.org/abs/2009.07485) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Gholamalinezhad2020Pooling.md)
+20. **Pooling Methods in Deep Neural Networks, a Review.** arXiv 2020 [paper](https://arxiv.org/abs/2009.07485) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Gholamalinezhad2020Pooling.md)
 
     *Hossein Gholamalinezhad, Hossein Khosravi*
 
-13. **Privacy in Deep Learning: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.12254) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Fatemehsadat2020Privacy.md)
+21. **Privacy in Deep Learning: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.12254) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Fatemehsadat2020Privacy.md)
 
     *Fatemehsadat Mireshghallah, Mohammadkazem Taram, Praneeth Vepakomma, Abhishek Singh, Ramesh Raskar, Hadi Esmaeilzadeh*
 
-14. **Review: Ordinary Differential Equations For Deep Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1911.00502) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Chen2019Review.md)
+22. **Review: Ordinary Differential Equations For Deep Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1911.00502) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Chen2019Review.md)
 
     *Xinshi Chen*
 
-15. **Short-term Traffic Prediction with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00712) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lee2020Short.md)
+23. **Short-term Traffic Prediction with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00712) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lee2020Short.md)
 
     *Kyungeun Lee, Moonjung Eo, Euna Jung, Yoonjin Yoon, Wonjong Rhee*
 
-16. **Survey of Dropout Methods for Deep Neural Networks.** arXiv 2019 [paper](https://arxiv.org/abs/1904.13310) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Labach2019Survey.md)
+24. **Survey of Dropout Methods for Deep Neural Networks.** arXiv 2019 [paper](https://arxiv.org/abs/1904.13310) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Labach2019Survey.md)
 
     *Alex Labach, Hojjat Salehinejad, Shahrokh Valaee*
 
-17. **Survey of Expressivity in Deep Neural Networks.** NIPS 2016 [paper](https://arxiv.org/abs/1611.08083) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Raghu2016Survey.md)
+25. **Survey of Expressivity in Deep Neural Networks.** NIPS 2016 [paper](https://arxiv.org/abs/1611.08083) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Raghu2016Survey.md)
 
     *Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohldickstein*
 
-18. **Survey of reasoning using Neural networks.** arXiv 2017 [paper](https://arxiv.org/abs/1702.06186) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Sahu2017Survey.md)
+26. **Survey of reasoning using Neural networks.** arXiv 2017 [paper](https://arxiv.org/abs/1702.06186) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Sahu2017Survey.md)
 
     *Amit Sahu*
 
-19. **The Deep Learning Compiler: A Comprehensive Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2002.03794) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Li2020The.md)
+27. **The Deep Learning Compiler: A Comprehensive Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2002.03794) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Li2020The.md)
 
     *Mingzhen Li, Yi Liu, Xiaoyan Liu, Qingxiao Sun, Xin You, Hailong Yang, Zhongzhi Luan, Depei Qian*
 
-20. **The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches.** arXiv 2018 [paper](https://arxiv.org/abs/1803.01164) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Alom2018The.md)
+28. **The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches.** arXiv 2018 [paper](https://arxiv.org/abs/1803.01164) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Alom2018The.md)
 
     *Zahangir Alom, Tarek M Taha, Christopher Yakopcic, Stefan Westberg, Paheding Sidike, Mst Shamima Nasrin, Brian C Van Esesn, Abdul A S Awwal, Vijayan K Asari*
 
-21. **Time Series Forecasting With Deep Learning: A Survey.** Philosophical Transactions of the Royal Society 2020 [paper](https://arxiv.org/abs/2004.13408) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lim2020Time.md)
+29. **Time Series Forecasting With Deep Learning: A Survey.** Philosophical Transactions of the Royal Society 2020 [paper](https://arxiv.org/abs/2004.13408) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lim2020Time.md)
 
     *Bryan Lim, Stefan Zohren*
 
