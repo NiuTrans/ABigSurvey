@@ -1155,7 +1155,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 1. **A survey on Image Data Augmentation for Deep Learning.** Journal of Big Data 2019 [paper](https://link.springer.com/article/10.1186/s40537-019-0197-0) [bib](/bib/Machine-Learning/Data-Augmentation/Shorten2019A.md)
 
-    *Connor Shorten*
+    *Connor Shorten, Taghi M. Khoshgoftaar*
 
 2. **An Empirical Survey of Data Augmentation for Time Series Classification with Neural Networks.** arXiv 2020 [paper](https://arxiv.org/abs/2007.15951) [bib](/bib/Machine-Learning/Data-Augmentation/Brian2020An.md)
 
