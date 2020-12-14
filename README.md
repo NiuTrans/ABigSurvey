@@ -1783,7 +1783,7 @@ Pérez-Sánchez*
 
 6. **A survey on applications of augmented, mixed andvirtual reality for nature and environment.** arXiv 2020 [paper](https://arxiv.org/abs/2008.12024) [bib](/bib/Machine-Learning/ML-Applications/Rambach2020A.md)
 
-    *Jason Rambach, Gergana Lilligreen, Alexander Sch盲fer, Ramya Bankanal, Alexander Wiebel, Didier Stricker*
+    *Jason Rambach, Gergana Lilligreen, Alexander Schäfer, Ramya Bankanal, Alexander Wiebel, Didier Stricker*
 
 7. **A survey on deep hashing for image retrieval.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05627) [bib](/bib/Machine-Learning/ML-Applications/Zhang2020A.md)
 
