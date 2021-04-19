@@ -50,6 +50,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#ml-applications">ML Applications</a>
     + <a href="#model-compression-and-acceleration">Model Compression and Acceleration</a>
     + <a href="#multi-task-and-multi-view-learning">Multi-Task and Multi-View Learning</a>
+    + <a href="#NLP-inspired-Visual-Models">NLP inspired Visual Models</a>
     + <a href="#online-learning">Online Learning</a>
     + <a href="#optimization">Optimization</a>
     + <a href="#semi-supervised-and-unsupervised-learning">Semi-Supervised and Unsupervised Learning</a>
@@ -126,27 +127,31 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Hongshen Chen, Xiaorui Liu, Dawei Yin, Jiliang Tang*
 
-8. **Challenges in Building Intelligent Open-domain Dialog Systems.** ACM Transactions on Information Systems 2020 [paper](https://arxiv.org/abs/1905.05709) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Huang2020Challenges.md)
+8. **Advances in Multi-turn Dialogue Comprehension: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.03125) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Zhang2021Advances.md)
+
+    *Zhuosheng Zhang, Hai Zhao*
+
+9. **Challenges in Building Intelligent Open-domain Dialog Systems.** ACM Transactions on Information Systems 2020 [paper](https://arxiv.org/abs/1905.05709) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Huang2020Challenges.md)
 
     *Minlie Huang, Xiaoyan Zhu, Jianfeng Gao*
 
-9. **Conversational Machine Comprehension: a Literature Review.** COLING 2020 [paper](https://arxiv.org/abs/2006.00671) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Gupta2020Conversational.md)
+10. **Conversational Machine Comprehension: a Literature Review.** COLING 2020 [paper](https://arxiv.org/abs/2006.00671) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Gupta2020Conversational.md)
 
     *Somil Gupta, Bhanu Pratap Singh Rawat, Hong Yu*
 
-10. **Neural Approaches to Conversational AI.** ACL 2018 [paper](https://arxiv.org/pdf/1809.08267) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Gao2018Neural.md)
+11. **Neural Approaches to Conversational AI.** ACL 2018 [paper](https://arxiv.org/pdf/1809.08267) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Gao2018Neural.md)
 
     *Jianfeng Gao, Michel Galley, Lihong Li*
 
-11. **POMDP-based Statistical Spoken Dialogue Systems: a Review.** IEEE 2013 [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/young2013procieee.pdf) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Young2013POMDP-based.md)
+12. **POMDP-based Statistical Spoken Dialogue Systems: a Review.** IEEE 2013 [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/young2013procieee.pdf) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Young2013POMDP-based.md)
 
     *Steve Young, Milica Gasic, Blaise Thomson, Jason Williams*
 
-12. **Recent Advances and Challenges in Task-oriented Dialog System.** Under review of SCIENCE CHINA Technological Science (SCTS) 2020 [paper](https://arxiv.org/pdf/2003.07490) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Zhang2020Recent.md)
+13. **Recent Advances and Challenges in Task-oriented Dialog System.** Under review of SCIENCE CHINA Technological Science (SCTS) 2020 [paper](https://arxiv.org/pdf/2003.07490) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Zhang2020Recent.md)
 
     *Zheng Zhang, Ryuichi Takanobu, Minlie Huang, Xiaoyan Zhu*
 
-13. **Utterance-level Dialogue Understanding: An Empirical Study.** arXiv 2020 [paper](https://arxiv.org/abs/2009.13902) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Ghosal2020Utterance.md)
+14. **Utterance-level Dialogue Understanding: An Empirical Study.** arXiv 2020 [paper](https://arxiv.org/abs/2009.13902) [bib](/bib/Natural-Language-Processing/Dialogue-and-Interactive-Systems/Ghosal2020Utterance.md)
 
     *Deepanway Ghosal, Navonil Majumder, Rada Mihalcea, Soujanya Poria*
 
@@ -168,23 +173,31 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Kun Jing, Jungang Xu*
 
-5. **Evaluation of Text Generation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.14799) [bib](/bib/Natural-Language-Processing/Generation/Celikyilmaz2020Evaluation.md)
+5. **Automatic Story Generation: Challenges and Attempts.** arXiv 2021 [paper](https://arxiv.org/abs/2102.12634) [bib](/bib/Natural-Language-Processing/Generation/Alabdulkarim2021Automatic.md)
+
+    *Amal Alabdulkarim, Siyan Li, Xiangyu Peng*
+
+6. **Evaluation of Text Generation: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.14799) [bib](/bib/Natural-Language-Processing/Generation/Celikyilmaz2020Evaluation.md)
 
     *Asli Celikyilmaz, Elizabeth Clark, Jianfeng Gao*
 
-6. **Neural Text Generation: Past, Present and Beyond.** arXiv 2018 [paper](https://arxiv.org/pdf/1803.07133.pdf) [bib](/bib/Natural-Language-Processing/Generation/Lu2018Neural.md)
+7. **Neural Text Generation: Past, Present and Beyond.** arXiv 2018 [paper](https://arxiv.org/pdf/1803.07133.pdf) [bib](/bib/Natural-Language-Processing/Generation/Lu2018Neural.md)
 
     *Sidi Lu, Yaoming Zhu, Weinan Zhang, Jun Wang, Yong Yu*
 
-7. **Recent Advances in Neural Question Generation.** arXiv 2019 [paper](https://arxiv.org/abs/1905.08949) [bib](/bib/Natural-Language-Processing/Generation/Pan2019Recent.md)
+8. **Quiz-Style Question Generation for News Stories.** arXiv 2021 [paper](https://arxiv.org/abs/2102.09094) [bib](/bib/Natural-Language-Processing/Generation/Lelkes2021Quiz-Style.md)
+
+    *Adam D. Lelkes, Vinh Q. Tran, Cong Yu*
+
+9. **Recent Advances in Neural Question Generation.** arXiv 2019 [paper](https://arxiv.org/abs/1905.08949) [bib](/bib/Natural-Language-Processing/Generation/Pan2019Recent.md)
 
     *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan*
 
-8. **Recent Advances in SQL Query Generation: A Survey.** International Conference on Informatics and Information Technologies 2020 [paper](https://arxiv.org/abs/2005.07667) [bib](/bib/Natural-Language-Processing/Generation/Kalajdjieski2020Recent.md)
+10. **Recent Advances in SQL Query Generation: A Survey.** International Conference on Informatics and Information Technologies 2020 [paper](https://arxiv.org/abs/2005.07667) [bib](/bib/Natural-Language-Processing/Generation/Kalajdjieski2020Recent.md)
 
     *Jovan Kalajdjieski, Martina Toshevska, Frosina Stojanovska*
 
-9. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation.** Journal of Artificial Intelligence Research 2018 [paper](https://arxiv.org/abs/1703.09902) [bib](/bib/Natural-Language-Processing/Generation/Gatt2018Survey.md)
+11. **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation.** Journal of Artificial Intelligence Research 2018 [paper](https://arxiv.org/abs/1703.09902) [bib](/bib/Natural-Language-Processing/Generation/Gatt2018Survey.md)
 
     *Albert Gatt,Emiel Krahmer*
 
@@ -253,6 +266,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 16. **Short Text Topic Modeling Techniques, Applications, and Performance: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1904.07695) [bib](/bib/Natural-Language-Processing/Information-Extraction/Qiang2019Short.md)
 
     *Jipeng Qiang, Zhenyu Qian, Yun Li, Yunhao Yuan, Xindong Wu*
+
+17. **Techniques for Jointly Extracting Entities and Relations: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.06118) [bib](/bib/Natural-Language-Processing/Information-Extraction/Pawar2021Techniques.md)
+
+    *Sachin Pawar, Pushpak Bhattacharyya, Girish K. Palshikar*
 
 #### [Information Retrieval and Text Mining](#content)
 
@@ -415,43 +432,51 @@ Similarity.** Engineering Applications of Artificial Intelligence 2019 [paper](h
 
     *Dichao Hu*
 
-12. **Attention in Natural Language Processing.** arXiv 2019 [paper](https://arxiv.org/abs/1902.02181v2) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Galassi2019Attention.md)
+12. **Analysis Methods in Neural Language Processing: A Survey.** Transactions of the Association for Computational Linguistics 7 2019 [paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00254/43503/Analysis-Methods-in-Neural-Language-Processing-A) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Belinkov2019Analysis.md)
+
+    *Yonatan Belinkov, James Glass*
+
+13. **Attention in Natural Language Processing.** arXiv 2019 [paper](https://arxiv.org/abs/1902.02181v2) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Galassi2019Attention.md)
 
     *Andrea Galassi, Marco Lippi, Paolo Torroni*
 
-13. **From static to dynamic word representations: a survey.** International Journal of Machine Learning and Cybernetics 2020 [paper](http://ir.hit.edu.cn/~car/papers/icmlc2020-wang.pdf) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Wang2020From.md)
+14. **From static to dynamic word representations: a survey.** International Journal of Machine Learning and Cybernetics 2020 [paper](http://ir.hit.edu.cn/~car/papers/icmlc2020-wang.pdf) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Wang2020From.md)
 
     *Yuxuan Wang, Yutai Hou, Wanxiang Che, Ting Liu*
 
-14. **From Word to Sense Embeddings: A Survey on Vector Representations of Meaning.** Journal of Artificial Intelligence Research 2018 [paper](https://arxiv.org/abs/1805.04032) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Jose2018From.md)
+15. **From Word to Sense Embeddings: A Survey on Vector Representations of Meaning.** Journal of Artificial Intelligence Research 2018 [paper](https://arxiv.org/abs/1805.04032) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Jose2018From.md)
 
     *Jose Camachocollados, Mohammad Taher Pilehvar*
 
-15. **Natural Language Processing Advancements By Deep Learning: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2003.01200) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Torfi2020Natural.md)
+16. **Natural Language Processing Advancements By Deep Learning: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2003.01200) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Torfi2020Natural.md)
 
     *Amirsina Torfi, Rouzbeh A. Shirvani, Yaser Keneshloo, Nader Tavvaf, Edward A. Fox*
 
-16. **Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering.** COLING 2018 [paper](https://arxiv.org/pdf/1806.04330.pdf) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Lan2018Neural.md)
+17. **Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering.** COLING 2018 [paper](https://arxiv.org/pdf/1806.04330.pdf) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Lan2018Neural.md)
 
     *Wuwei Lan,Wei Xu*
 
-17. **Recent Trends in Deep Learning Based Natural Language Processing.** IEEE 2018 [paper](https://ieeexplore.ieee.org/document/8416973) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Young2018Recent.md)
+18. **Recent Trends in Deep Learning Based Natural Language Processing.** IEEE 2018 [paper](https://ieeexplore.ieee.org/document/8416973) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Young2018Recent.md)
 
     *Tom Young, Devamanyu Hazarika, Soujanya Poria, Erik Cambria*
 
-18. **Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey.** Frontiers Robotics AI 2017 [paper](https://arxiv.org/abs/1702.00764) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Ferrone2017Symbolic.md)
+19. **Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey.** Frontiers Robotics AI 2017 [paper](https://arxiv.org/abs/1702.00764) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Ferrone2017Symbolic.md)
 
     *Lorenzo Ferrone, Fabio Massimo Zanzotto*
 
-19. **Syntax Representation in Word Embeddings and Neural Networks -- A Survey.** ITAT 2020 [paper](https://arxiv.org/pdf/2010.01063.pdf) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Limisiewicz2020Syntax.md)
+20. **Syntax Representation in Word Embeddings and Neural Networks -- A Survey.** ITAT 2020 [paper](https://arxiv.org/pdf/2010.01063.pdf) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Limisiewicz2020Syntax.md)
 
     *Tomasz Limisiewicz and David Marecek*
 
-20. **Towards a Robust Deep Neural Network in Texts: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/1902.07285) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Wang2020Towards.md)
+21. **Token-Modification Adversarial Attacks for Natural Language Processing: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.00676) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Roth2021Token-Modification.md)
+
+    *Tom Roth, Yansong Gao, Alsharif Abuadbba, Surya Nepal, Wei Liu*
+
+22. **Towards a Robust Deep Neural Network in Texts: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/1902.07285) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Wang2020Towards.md)
 
     *Wenqi Wang, Lina Wang, Run Wang, Zhibo Wang, Aoshuang Ye*
 
-21. **Word Embeddings: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1901.09069) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Almeida2019Word.md)
+23. **Word Embeddings: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1901.09069) [bib](/bib/Natural-Language-Processing/Machine-Learning-for-NLP/Almeida2019Word.md)
 
     *Felipe Almeida, Geraldo Xexeo*
 
@@ -547,35 +572,35 @@ Similarity.** Engineering Applications of Artificial Intelligence 2019 [paper](h
 
     *Maha J. Althobaiti*
 
-4. **Jumping NLP curves: A review of natural language processing research.** IEEE 2014 [paper](http://krchowdhary.com/ai/ai14/lects/nlp-research-com-intlg-ieee.pdf) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Cambria2014Jumping.md)
-
-    *Erik Cambria, Bebo White*
-
-5. **Natural Language Processing - A Survey.** arXiv 2012 [paper](https://arxiv.org/abs/1209.6238) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Mote2012Natural.md)
-
-    *Kevin Mote*
-
-6. **Natural Language Processing: State of The Art, Current Trends and Challenges.** arXiv 2017 [paper](https://arxiv.org/abs/1708.05148) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Khurana2017Natural.md)
-
-    *Diksha Khurana, Aditya Koli, Kiran Khatter, Sukhdev Singh*
-
-7. **Pre-trained Models for Natural Language Processing : A Survey.** Science China Technological Sciences 2020 [paper](https://arxiv.org/abs/2003.08271) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Pre2020Qiu.md)
-
-    *Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai, Xuanjing Huang*
-
-8. **Progress in Neural NLP: Modeling, Learning, and Reasoning.** Engineering 2020 [paper](https://www.sciencedirect.com/science/article/pii/S2095809919304928) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Zhou2020Progress.md)
-
-    *Ming Zhou, Nan Duan, Shujie Liu, Heung-Yeung Shum*
-
-9. **Survey of Network Representation Learning.** Computer Science 2020 [paper](http://www.jsjkx.com/CN/10.11896/jsjkx.190300004) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Yu2020Survey.md)
-
-    *Ding Yu, Wei Hao, Pan Zhi-Song, Liu Xin*
-
-10. **Experience Grounds Language.** arxiv 2020 [paper](https://arxiv.org/abs/2004.10151) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing-(General)/Bisk2020Experience.md)
+4. **Experience Grounds Language.** arxiv 2020 [paper](https://arxiv.org/abs/2004.10151) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing-(General)/Bisk2020Experience.md)
 
     *Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce Chai, Mirella
 Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr
 Nisnevich, Nicolas Pinto, Joseph Turian*
+
+5. **Jumping NLP curves: A review of natural language processing research.** IEEE 2014 [paper](http://krchowdhary.com/ai/ai14/lects/nlp-research-com-intlg-ieee.pdf) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Cambria2014Jumping.md)
+
+    *Erik Cambria, Bebo White*
+
+6. **Natural Language Processing - A Survey.** arXiv 2012 [paper](https://arxiv.org/abs/1209.6238) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Mote2012Natural.md)
+
+    *Kevin Mote*
+
+7. **Natural Language Processing: State of The Art, Current Trends and Challenges.** arXiv 2017 [paper](https://arxiv.org/abs/1708.05148) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Khurana2017Natural.md)
+
+    *Diksha Khurana, Aditya Koli, Kiran Khatter, Sukhdev Singh*
+
+8. **Pre-trained Models for Natural Language Processing : A Survey.** Science China Technological Sciences 2020 [paper](https://arxiv.org/abs/2003.08271) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Pre2020Qiu.md)
+
+    *Xipeng Qiu, Tianxiang Sun, Yige Xu, Yunfan Shao, Ning Dai, Xuanjing Huang*
+
+9. **Progress in Neural NLP: Modeling, Learning, and Reasoning.** Engineering 2020 [paper](https://www.sciencedirect.com/science/article/pii/S2095809919304928) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Zhou2020Progress.md)
+
+    *Ming Zhou, Nan Duan, Shujie Liu, Heung-Yeung Shum*
+
+10. **Survey of Network Representation Learning.** Computer Science 2020 [paper](http://www.jsjkx.com/CN/10.11896/jsjkx.190300004) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Yu2020Survey.md)
+
+    *Ding Yu, Wei Hao, Pan Zhi-Song, Liu Xin*
 
 #### [NER](#content)
 
@@ -629,67 +654,87 @@ Nisnevich, Nicolas Pinto, Joseph Turian*
 
     *Ray Oshikawa, Jing Qian, William Yang Wang*
 
-7. **A Survey on Text Simplification.** arXiv 2020 [paper](https://arxiv.org/abs/2008.08612) [bib](/bib/Natural-Language-Processing/NLP-Applications/Sikka2020A.md)
+7. **A Survey on Stance Detection for Mis- and Disinformation Identification.** arXiv 2021 [paper](https://arxiv.org/abs/2103.00242) [bib](/bib/Natural-Language-Processing/NLP-Applications/Hardalov2021A.md)
+
+    *Momchil Hardalov, Arnav Arora, Preslav Nakov, Isabelle Augenstein*
+
+8. **A Survey on Text Simplification.** arXiv 2020 [paper](https://arxiv.org/abs/2008.08612) [bib](/bib/Natural-Language-Processing/NLP-Applications/Sikka2020A.md)
 
     *Punardeep Sikka, Manmeet Singh, Allen Pink, Vijay Mago*
 
-8. **Automatic Language Identification in Texts: A Survey.** Journal of Artificial Intelligence Research 2019 [paper](https://arxiv.org/abs/1804.08186) [bib](/bib/Natural-Language-Processing/NLP-Applications/Jauhiainen2019Automatic.md)
+9. **Automatic Language Identification in Texts: A Survey.** Journal of Artificial Intelligence Research 2019 [paper](https://arxiv.org/abs/1804.08186) [bib](/bib/Natural-Language-Processing/NLP-Applications/Jauhiainen2019Automatic.md)
 
     *Tommi Jauhiainen*
 
-9. **Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective.** arxiv 2020 [paper](https://arxiv.org/abs/2012.12305) [bib](/bib/Natural-Language-Processing/NLP-Applications/Kiritchenko2020Confronting.md)
+10. **Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective.** arxiv 2020 [paper](https://arxiv.org/abs/2012.12305) [bib](/bib/Natural-Language-Processing/NLP-Applications/Kiritchenko2020Confronting.md)
 
     *Svetlana Kiritchenko, Isar Nejadgholi, Kathleen C. Fraser*
 
-10. **Data-Driven Sentence Simplification: Survey and Benchmark.** Computational Lingus 2020 [paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00370) [bib](/bib/Natural-Language-Processing/NLP-Applications/Fernando2020Data.md)
+11. **Data-Driven Sentence Simplification: Survey and Benchmark.** Computational Lingus 2020 [paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00370) [bib](/bib/Natural-Language-Processing/NLP-Applications/Fernando2020Data.md)
 
     *Fernando Alva-Manchego, Carolina Scarton, Lucia Specia*
 
-11. **Disinformation Detection: A review of linguistic feature selection and classification models in news veracity assessments.** arXiv 2019 [paper](https://arxiv.org/abs/1910.12073) [bib](/bib/Natural-Language-Processing/NLP-Applications/Tompkins2019Disinformation.md)
+12. **Disinformation Detection: A review of linguistic feature selection and classification models in news veracity assessments.** arXiv 2019 [paper](https://arxiv.org/abs/1910.12073) [bib](/bib/Natural-Language-Processing/NLP-Applications/Tompkins2019Disinformation.md)
 
     *Jillian Tompkins*
 
-12. **Extraction and Analysis of Fictional Character Networks: A Survey.** ACM Computing Surveys 2019 [paper](https://arxiv.org/abs/1907.02704) [bib](/bib/Natural-Language-Processing/NLP-Applications/(LIA)2019Extraction.md)
+13. **Extraction and Analysis of Fictional Character Networks: A Survey.** ACM Computing Surveys 2019 [paper](https://arxiv.org/abs/1907.02704) [bib](/bib/Natural-Language-Processing/NLP-Applications/(LIA)2019Extraction.md)
 
     *Xavier Bost (LIA), Vincent Labatut (LIA)*
 
-13. **Fake News Detection using Stance Classification: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1907.00181) [bib](/bib/Natural-Language-Processing/NLP-Applications/Lillie2019Fake.md)
+14. **Fake News Detection using Stance Classification: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1907.00181) [bib](/bib/Natural-Language-Processing/NLP-Applications/Lillie2019Fake.md)
 
     *Anders Edelbo Lillie, Emil Refsgaard Middelboe*
 
-14. **Fake News: A Survey of Research, Detection Methods, and Opportunities.** ACM 2018 [paper](https://arxiv.org/abs/1812.00315) [bib](/bib/Natural-Language-Processing/NLP-Applications/Zhou2018Fake.md)
+15. **Fake News: A Survey of Research, Detection Methods, and Opportunities.** ACM 2018 [paper](https://arxiv.org/abs/1812.00315) [bib](/bib/Natural-Language-Processing/NLP-Applications/Zhou2018Fake.md)
 
     *Xinyi Zhou, Reza Zafarani*
 
-15. **Image Captioning based on Deep Learning Methods: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1905.08110) [bib](/bib/Natural-Language-Processing/NLP-Applications/Wang2019Image.md)
+16. **Image Captioning based on Deep Learning Methods: A Survey.** arXiv 2019 [paper](https://arxiv.org/abs/1905.08110) [bib](/bib/Natural-Language-Processing/NLP-Applications/Wang2019Image.md)
 
     *Yiyu Wang, Jungang Xu, Yingfei Sun, Ben He*
 
-16. **Referring Expression Comprehension: A Survey of Methods and Datasets.** arXiv 2020 [paper](https://arxiv.org/abs/2007.09554) [bib](/bib/Natural-Language-Processing/NLP-Applications/Qiao2020Referring.md)
+17. **Pretrained Transformers for Text Ranking: BERT and Beyond.** arXiv 2020 [paper](https://arxiv.org/abs/2010.06467) [bib](/bib/Natural-Language-Processing/NLP-Applications/Lin2020Pretrained.md)
+
+    *Jimmy Lin, Rodrigo Nogueira, Andrew Yates*
+
+18. **Putting Humans in the Natural Language Processing Loop: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.04044) [bib](/bib/Natural-Language-Processing/NLP-Applications/Wang2021Putting.md)
+
+    *Zijie J. Wang, Dongjin Choi, Shenyu Xu, Diyi Yang*
+
+19. **Recent Neural Methods on Slot Filling and Intent Classification.** arXiv 2020 [paper](https://arxiv.org/abs/2011.00564) [bib](/bib/Natural-Language-Processing/NLP-Applications/Louvan2020Recent.md)
+
+    *Samuel Louvan, Bernardo Magnini*
+
+20. **Referring Expression Comprehension: A Survey of Methods and Datasets.** arXiv 2020 [paper](https://arxiv.org/abs/2007.09554) [bib](/bib/Natural-Language-Processing/NLP-Applications/Qiao2020Referring.md)
 
     *Yanyuan Qiao, Chaorui Deng, Qi Wu*
 
-17. **SECNLP: A Survey of Embeddings in Clinical Natural Language Processing.** Journal of Biomedical Informatics 2019 [paper](https://www.sciencedirect.com/science/article/pii/S1532046419302436) [bib](/bib/Natural-Language-Processing/NLP-Applications/KS2019SECNLP.md)
+21. **SECNLP: A Survey of Embeddings in Clinical Natural Language Processing.** Journal of Biomedical Informatics 2019 [paper](https://www.sciencedirect.com/science/article/pii/S1532046419302436) [bib](/bib/Natural-Language-Processing/NLP-Applications/KS2019SECNLP.md)
 
     *Kalyan KS, S Sangeetha*
 
-18. **Survey of Text-based Epidemic Intelligence: A Computational Linguistic Perspective.** ACM Computing Surveys 2019 [paper](https://arxiv.org/abs/1903.05801) [bib](/bib/Natural-Language-Processing/NLP-Applications/Joshi2019Survey.md)
+22. **Survey of Text-based Epidemic Intelligence: A Computational Linguistic Perspective.** ACM Computing Surveys 2019 [paper](https://arxiv.org/abs/1903.05801) [bib](/bib/Natural-Language-Processing/NLP-Applications/Joshi2019Survey.md)
 
     *Aditya Joshi, Sarvnaz Karimi, Ross Sparks, Cecile Paris, C Raina MacIntyre*
 
-19. **Text Detection and Recognition in the Wild: A Review.** arXiv 2020 [paper](https://arxiv.org/abs/2006.04305) [bib](/bib/Natural-Language-Processing/NLP-Applications/Raisi2020Text.md)
+23. **Text Detection and Recognition in the Wild: A Review.** arXiv 2020 [paper](https://arxiv.org/abs/2006.04305) [bib](/bib/Natural-Language-Processing/NLP-Applications/Raisi2020Text.md)
 
     *Zobeir Raisi, Mohamed A. Naiel, Paul Fieguth, Steven Wardell, John Zelek*
 
-20. **Text Recognition in the Wild: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.03492) [bib](/bib/Natural-Language-Processing/NLP-Applications/Chen2020Text.md)
+24. **Text Recognition in the Wild: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.03492) [bib](/bib/Natural-Language-Processing/NLP-Applications/Chen2020Text.md)
 
     *Xiaoxue Chen, Lianwen Jin, Yuanzhi Zhu, Canjie Luo, Tianwei Wang*
 
-21. **The Potential of Machine Learning and NLP for Handling Students' Feedback (A Short Survey).** arxiv 2020 [paper](https://arxiv.org/pdf/2011.05806) [bib](/bib/Natural-Language-Processing/NLP-Applications/Edalati2020The.md)
+25. **The Potential of Machine Learning and NLP for Handling Students' Feedback (A Short Survey).** arxiv 2020 [paper](https://arxiv.org/pdf/2011.05806) [bib](/bib/Natural-Language-Processing/NLP-Applications/Edalati2020The.md)
 
     *Maryam Edalati*
 
-22. **Towards Improved Model Design for Authorship Identification: A Survey on Writing Style Understanding.** arxiv 2020 [paper](https://arxiv.org/pdf/2009.14445v1.pdf) [bib](/bib/Natural-Language-Processing/NLP-Applications/Ma2020Towards.md)
+26. **Topic Modelling Meets Deep Neural Networks: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.00498) [bib](/bib/Natural-Language-Processing/NLP-Applications/Zhao2021Topic.md)
+
+    *He Zhao, Dinh Phung, Viet Huynh, Yuan Jin, Lan Du, Wray Buntine*
+
+27. **Towards Improved Model Design for Authorship Identification: A Survey on Writing Style Understanding.** arxiv 2020 [paper](https://arxiv.org/pdf/2009.14445v1.pdf) [bib](/bib/Natural-Language-Processing/NLP-Applications/Ma2020Towards.md)
 
     *Weicheng Ma, Ruibo Liu, Lili Wang, Soroush Vosoughi*
 
@@ -995,7 +1040,9 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 
     *Erion Cano, Maurizio Morisio*
 
-13. **Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances.** IEEE Access 2019 [paper](https://ieeexplore.ieee.org/abstract/document/8764449) [bib](/bib/Natural-Language-Processing/Sentiment-Analysis,-Stylistic-Analysis,-and-Argument-Mining/Poria2019Emotion.md)
+#### [Sentiment Analysis, Stylistic Analysis, and Argument Mining](#content)
+
+1. **Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances.** IEEE Access 2019 [paper](https://ieeexplore.ieee.org/abstract/document/8764449) [bib](/bib/Natural-Language-Processing/Sentiment-Analysis,-Stylistic-Analysis,-and-Argument-Mining/Poria2019Emotion.md)
 
     *Soujanya Poria, Navonil Majumder, Rada Mihalcea, Eduard Hovy*
 
@@ -1029,27 +1076,35 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 
     *Hans Krupakar, Keerthika Rajvel, Bharathi B, Angel Deborah S, Vallidevi Krishnamurthy*
 
-8. **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.** IJCAI 2017 [paper](https://arxiv.org/abs/1601.03896) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Bernardi2017Automatic.md)
+8. **A Survey on Spoken Language Understanding: Recent Advances and New Frontiers.** arXiv 2021 [paper](https://arxiv.org/abs/2103.03095) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Qin2021A.md)
+
+    *Libo Qin, Tianbao Xie, Wanxiang Che, Ting Liu*
+
+9. **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.** IJCAI 2017 [paper](https://arxiv.org/abs/1601.03896) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Bernardi2017Automatic.md)
 
     *Raffaella Bernardi, Ruket Cakici, Desmond Elliott, Aykut Erdem, Erkut Erdem, Nazli Ikizler-Cinbis, Frank Keller, Adrian Muscat, Barbara Plank*
 
-9. **Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems.** arXiv 2019 [paper](https://arxiv.org/abs/1903.12394) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Rueden2019Informed.md)
+10. **Informed Machine Learning -- A Taxonomy and Survey of Integrating Knowledge into Learning Systems.** arXiv 2019 [paper](https://arxiv.org/abs/1903.12394) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Rueden2019Informed.md)
 
     *Laura von Rueden, Sebastian Mayer, Katharina Beckh, Bogdan Georgiev, Sven Giesselbach, Raoul Heese, Birgit Kirsch, Julius Pfrommer, Annika Pick, Rajkumar Ramamurthy, Michal Walczak, Jochen Garcke, Christian Bauckhage, Jannis Schuecker*
 
-10. **Multimodal Intelligence: Representation Learning, Information Fusion, and Applications.** arXiv 2020 [paper](https://arxiv.org/abs/1911.03977?context=cs.AI) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Zhang2020Multimodal.md)
+11. **Multimodal Intelligence: Representation Learning, Information Fusion, and Applications.** arXiv 2020 [paper](https://arxiv.org/abs/1911.03977?context=cs.AI) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Zhang2020Multimodal.md)
 
     *Chao Zhang,Zichao Yang,Xiaodong He,Li Deng*
 
-11. **Multimodal Machine Learning: A Survey and Taxonomy.** IEEE 2019 [paper](https://arxiv.org/abs/1705.09406) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Baltrusaitis2019Multimodal.md)
+12. **Multimodal Machine Learning: A Survey and Taxonomy.** IEEE 2019 [paper](https://arxiv.org/abs/1705.09406) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Baltrusaitis2019Multimodal.md)
 
     *Tadas Baltrusaitis, Chaitanya Ahuja, Louis-Philippe Morency*
 
-12. **Speech and Language Processing.** Speech and language processing 2019 [paper](http://web.stanford.edu/~jurafsky/slp3/) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Martin2019Speech.md)
+13. **Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision.** arXiv 2021 [paper](https://arxiv.org/abs/2103.04037) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Shin2021Perspectives.md)
+
+    *Andrew Shin, Masato Ishii, Takuya Narihira*
+
+14. **Speech and Language Processing.** Speech and language processing 2019 [paper](http://web.stanford.edu/~jurafsky/slp3/) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Martin2019Speech.md)
 
     *Dan Jurafsky and James H. Martin*
 
-13. **Thank you for Attention: A survey on Attention-based Artificial Neural Networks for Automatic Speech Recognition.** arXiv 2021 [paper](https://arxiv.org/abs/2102.07259) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Karmakar2021Thank.md)
+15. **Thank you for Attention: A survey on Attention-based Artificial Neural Networks for Automatic Speech Recognition.** arXiv 2021 [paper](https://arxiv.org/abs/2102.07259) [bib](/bib/Natural-Language-Processing/Speech-and-Multimodality/Karmakar2021Thank.md)
 
     *Priyabrata Karmakar, Shyh Wei Teng,Guojun Lu*
 
@@ -1159,8 +1214,9 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 
     *Kamran Kowsari, Kiana Jafari Meimandi, Mojtaba Heidarysafa, Sanjana Mendu, Laura E. Barnes, Donald E. Brown*
 
-    
-## The ML Paper List
+
+
+## The MT Paper List
 
 #### [Architectures](#content)
 
@@ -1274,25 +1330,25 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 
     *M De Lange，R Aljundi，M Masana，S Parisot，X Jia，A Leonardis，G Slabaugh，T Tuytelaars*
 
-2. **A Review on Multi-Label Learning Algorithms.** IEEE transactions on knowledge and data engineering 2013 [paper](https://ieeexplore.ieee.org/abstract/document/6471714) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Zhang2013A.md)
-
-    *Min-Ling Zhang, Zhi-Hua Zhou*
-
-3. **A Survey of Classification Techniques in the Area of Big Data.** arXiv 2015 [paper](https://arxiv.org/abs/1503.07477) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Koturwar2015A.md)
+2. **A Survey of Classification Techniques in the Area of Big Data.** arXiv 2015 [paper](https://arxiv.org/abs/1503.07477) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Koturwar2015A.md)
 
     *Praful Koturwar, Sheetal Girase, Debajyoti Mukhopadhyay*
 
-4. **A Survey of Constrained Gaussian Process Regression: Approaches and Implementation Challenges.** arXiv 2020 [paper](https://arxiv.org/abs/2006.09319) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Swiler2020A.md)
+3. **A Survey of Constrained Gaussian Process Regression: Approaches and Implementation Challenges.** arXiv 2020 [paper](https://arxiv.org/abs/2006.09319) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Swiler2020A.md)
 
     *Laura P. Swiler, Mamikon Gulian, Ari Frankel, Cosmin Safta, John D. Jakeman*
 
-5. **A Survey on Multi-View Clustering.** arXiv 2017 [paper](https://arxiv.org/abs/1712.06246) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Chao2017A.md)
+4. **A Survey on Multi-View Clustering.** arXiv 2017 [paper](https://arxiv.org/abs/1712.06246) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Chao2017A.md)
 
     *Guoqing Chao, Shiliang Sun, Jinbo Bi*
 
-6. **Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective.** arXiv 2020 [paper](https://arxiv.org/pdf/2009.03728.pdf) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Machado2020Adversarial.md)
+5. **Adversarial Machine Learning in Image Classification: A Survey Towards the Defender's Perspective.** arXiv 2020 [paper](https://arxiv.org/pdf/2009.03728.pdf) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Machado2020Adversarial.md)
 
     *Gabriel Resende Machado, Eugênio Silva, Ronaldo Ribeiro Goldschmidt*
+
+6. **Comprehensive Comparative Study of Multi-Label Classification Methods.** arXiv 2021 [paper](https://arxiv.org/abs/2102.07113) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Bogatinovski2021Comprehensive.md)
+
+    *Jasmin Bogatinovski, Ljupčo Todorovski, Sašo Džeroski, Dragi Kocev*
 
 7. **Deep learning for time series classification: a review.** Data Mining & Knowledge Discovery 2019 [paper](https://arxiv.org/abs/1809.04356) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Fawaz2019Deep.md)
 
@@ -1301,18 +1357,6 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 8. **How Complex is your classification problem? A survey on measuring classification complexity.** ACM 2019 [paper](https://arxiv.org/abs/1808.03591) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Lorena2019How.md)
 
     *Ana Carolina Lorena, Luis P F Garcia, Jens Lehmann, Marcilio C P Souto, Tin K Ho*
-
-9. **Multi-Label Classification: An Overview.** International Journal of Data Warehousing and Mining (IJDWM) 2007 [paper](https://www.igi-global.com/article/multi-label-classification/1786) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Tsoumakas2007Multi-Label.md)
-
-    *Grigorios Tsoumakas, Ioannis Katakis*
-
-10. **Multi‐label learning: a review of the state of the art and ongoing research.** Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 2014 [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1139) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Gibaja2014Multi-Label.md)
-
-    *Eva Gibaja, Sebastián Ventura*
-
-11. **The Emerging Trends of Multi-Label Learning.** arxiv 2020 [paper](https://arxiv.org/abs/2011.11197) [bib](/bib/Machine-Learning/Classification,Clustering,Regression/Liu2020The.md)
-
-    *Weiwei Liu, Xiaobo Shen, Haobo Wang, Ivor W. Tsang*
 
 #### [Curriculum Learning](#content)
 
@@ -1336,7 +1380,7 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 
 1. **A survey on Image Data Augmentation for Deep Learning.** Journal of Big Data 2019 [paper](https://link.springer.com/article/10.1186/s40537-019-0197-0) [bib](/bib/Machine-Learning/Data-Augmentation/Shorten2019A.md)
 
-    *Connor Shorten, Taghi M. Khoshgoftaar*
+    *Connor Shorten*
 
 2. **An Empirical Survey of Data Augmentation for Time Series Classification with Neural Networks.** arXiv 2020 [paper](https://arxiv.org/abs/2007.15951) [bib](/bib/Machine-Learning/Data-Augmentation/Brian2020An.md)
 
@@ -1348,207 +1392,236 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 
 #### [Deep Learning](#content)
 
-1. **A Review of Binarized Neural Networks.** Electronics 2019 [paper](http://www.socolar.com/Article/Index?aid=100010075063&jid=100000022108) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Simons2019A.md)
+1. **A Primer on Contrastive Pretraining in Language Processing: Methods, Lessons Learned and Perspectives.** arXiv 2021 [paper](https://arxiv.org/abs/2102.12982) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Rethmeier2021A.md)
+
+    *Nils Rethmeier, Isabelle Augenstein*
+
+2. **A Review of Binarized Neural Networks.** Electronics 2019 [paper](http://www.socolar.com/Article/Index?aid=100010075063&jid=100000022108) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Simons2019A.md)
 
     *Taylor Simons，Dah-Jye Lee*
 
-2. **A State-of-the-Art Survey on Deep Learning Theory and Architectures.** mdpi 2019 [paper](https://www.mdpi.com/2079-9292/8/3/292) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Alom2019A.md)
+3. **A State-of-the-Art Survey on Deep Learning Theory and Architectures.** mdpi 2019 [paper](https://www.mdpi.com/2079-9292/8/3/292) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Alom2019A.md)
 
     *Alom, Md Zahangir and Taha, Tarek M and Yakopcic, Chris and Westberg, Stefan and Sidike, Paheding and Nasrin, Mst Shamima and Hasan, Mahmudul and Van Essen, Brian C and Awwal, Abdul AS and Asari, Vijayan K*
 
-3. **A Survey of Deep Active Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00236) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Ren2020A.md)
+4. **A Survey of Deep Active Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00236) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Ren2020A.md)
 
     *Pengzhen Ren, Yun Xiao, Xiaojun Chang, Po-Yao Huang, Zhihui Li, Xiaojiang Chen, Xin Wang*
 
-4. **A Survey of Deep Learning for Data Caching in Edge Network.** arXiv 2020 [paper](https://arxiv.org/abs/2008.07235) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020A.md)
+5. **A Survey of Deep Learning for Data Caching in Edge Network.** arXiv 2020 [paper](https://arxiv.org/abs/2008.07235) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020A.md)
 
     *Yantong Wang, Vasilis Friderikos*
 
-5. **A Survey of Deep Learning for Scientific Discovery.** arXiv 2020 [paper](https://arxiv.org/pdf/2003.11755v1.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Raghu2020A.md)
+6. **A Survey of Deep Learning for Scientific Discovery.** arXiv 2020 [paper](https://arxiv.org/pdf/2003.11755v1.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Raghu2020A.md)
 
     *Raghu M, Schmidt E*
 
-6. **A Survey of Label-noise Representation Learning: Past, Present and Future.** arXiv 2020 [paper](https://arxiv.org/pdf/2011.04406.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Han2020A.md)
+7. **A Survey of Label-noise Representation Learning: Past, Present and Future.** arXiv 2020 [paper](https://arxiv.org/pdf/2011.04406.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Han2020A.md)
 
     *Bo Han, Quanming Yao, Tongliang Liu, Gang Niu, Ivor W. Tsang, James T. Kwok, Masashi Sugiyama*
 
-7. **A Survey of Learning Causality with Data: Problems and Methods.** ACM 2020 [paper](https://arxiv.org/pdf/1809.09337.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Guo2020A.md)
+8. **A Survey of Learning Causality with Data: Problems and Methods.** ACM 2020 [paper](https://arxiv.org/pdf/1809.09337.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Guo2020A.md)
 
     *Ruocheng Guo, Lu Cheng, Jundong Li, P. Richard Hahn, Huan Liu*
 
-8. **A survey of loss functions for semantic segmentation.** IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology 2020 [paper](https://arxiv.org/pdf/2006.14822.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Jadon2020A.md)
+9. **A survey of loss functions for semantic segmentation.** IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology 2020 [paper](https://arxiv.org/pdf/2006.14822.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Jadon2020A.md)
 
     *Shruti Jadon*
 
-9. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** arXiv 2017 [paper](https://arxiv.org/abs/1705.06963) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Schuman2017A.md)
+10. **A Survey of Neuromorphic Computing and Neural Networks in Hardware.** arXiv 2017 [paper](https://arxiv.org/abs/1705.06963) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Schuman2017A.md)
 
     *Catherine D. Schuman, Thomas E. Potok, Robert M. Patton, J. Douglas Birdwell, Mark E. Dean, Garrett S. Rose, James S. Plank*
 
-10. **A Survey On (Stochastic Fractal Search) Algorithm.** arXiv 2021 [paper](https://arxiv.org/abs/2102.01503) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Elkomy2021A.md)
+11. **A Survey On (Stochastic Fractal Search) Algorithm.** arXiv 2021 [paper](https://arxiv.org/abs/2102.01503) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Elkomy2021A.md)
 
     *Mohammed ElKomy*
 
-11. **A Survey on Concept Factorization: From Shallow to Deep Representation Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2007.15840) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhao2020A.md)
+12. **A Survey on Concept Factorization: From Shallow to Deep Representation Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2007.15840) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhao2020A.md)
 
     *Zhao Zhang, Yan Zhang, Li Zhang, Shuicheng Yan*
 
-12. **A Survey on Contrastive Self-supervised Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2011.00362) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Jaisawal2020A.md)
+13. **A Survey on Contrastive Self-supervised Learning.** arXiv 2020 [paper](https://arxiv.org/abs/2011.00362) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Jaisawal2020A.md)
 
     *Ashish Jaiswal, Ashwin Ramesh Babu, Mohammad Zaki Zadeh, Debapriya Banerjee, Fillia Makedon*
 
-13. **A Survey on Deep Hashing Methods.** arXiv 2020 [paper](https://arxiv.org/abs/2003.03369) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Luo2020A.md)
+14. **A Survey on Deep Hashing Methods.** arXiv 2020 [paper](https://arxiv.org/abs/2003.03369) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Luo2020A.md)
 
     *Xiao Luo, Chong Chen, Huasong Zhong, Hao Zhang, Minghua Deng, Jianqiang Huang, Xiansheng Hua*
 
-14. **A Survey on Dynamic Network Embedding.** IEEE Conference on Computer Vision and Pattern Recognition 2020 [paper](https://arxiv.org/pdf/2006.08093.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Xie2020A.md)
+15. **A Survey on Dynamic Network Embedding.** IEEE Conference on Computer Vision and Pattern Recognition 2020 [paper](https://arxiv.org/pdf/2006.08093.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Xie2020A.md)
 
     *Yu Xie, Chunyi Li, Bin Yu, Chen Zhang, Zhouhua Tang*
 
-15. **A survey on modern trainable activation functions.** arXiv 2020 [paper](https://arxiv.org/abs/2005.00817) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Apicella2020A.md)
+16. **A survey on modern trainable activation functions.** arXiv 2020 [paper](https://arxiv.org/abs/2005.00817) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Apicella2020A.md)
 
     *Andrea Apicella, Francesco Donnarumma, Francesco Isgrò, Roberto Prevete*
 
-16. **A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks.** arXiv 2021 [paper](https://arxiv.org/abs/2102.01792) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Shahroudnejad2021A.md)
+17. **A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks.** arXiv 2021 [paper](https://arxiv.org/abs/2102.01792) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Shahroudnejad2021A.md)
 
     *Atefeh Shahroudnejad*
 
-17. **Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion.** arXiv 2021 [paper](https://arxiv.org/abs/2101.08301) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Gong2021Aesthetics.md)
+18. **Aesthetics, Personalization and Recommendation: A survey on Deep Learning in Fashion.** arXiv 2021 [paper](https://arxiv.org/abs/2101.08301) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Gong2021Aesthetics.md)
 
     *Wei Gong, Laila Khalid*
 
-18. **Big Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2008.03638) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bedru2020A.md)
+19. **Are deep learning models superior for missing data imputation in large surveys? Evidence from an empirical comparison.** arXiv 2021 [paper](https://arxiv.org/abs/2103.09316) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wanf2021Are.md)
+
+    *Zhenhua Wang, Olanrewaju Akande, Jason Poulos, Fan Li*
+
+20. **Big Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2008.03638) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bedru2020A.md)
 
     *Hayat Dino Bedru, Shuo Yu, Xinru Xiao, Da Zhang, Liangtian Wan, He Guo, Feng Xia*
 
-19. **Class-incremental learning: survey and performance evaluation.** arXiv 2020 [paper](https://arxiv.org/pdf/2010.15277.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Masana2020Class.md)
+21. **Class-incremental learning: survey and performance evaluation.** arXiv 2020 [paper](https://arxiv.org/pdf/2010.15277.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Masana2020Class.md)
 
     *M Masana, X Liu, B Twardowski, M Menta, JVD Weijer*
 
-20. **Continual Lifelong Learning in Natural Language Processing: A Survey.** COLING 2020 [paper](https://www.aclweb.org/anthology/2020.coling-main.574/) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Biesialska2020Continual.md)
+22. **Continual Lifelong Learning in Natural Language Processing: A Survey.** COLING 2020 [paper](https://www.aclweb.org/anthology/2020.coling-main.574/) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Biesialska2020Continual.md)
 
     *Magdalena Biesialska, Katarzyna Biesialska, Marta R. Costa-jussà*
 
-21. **Continual Lifelong Learning with Neural Networks: A Review.** arXiv 2018 [paper](https://arxiv.org/pdf/1802.07569.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Parisi2019Continual.md)
+23. **Continual Lifelong Learning with Neural Networks: A Review.** arXiv 2018 [paper](https://arxiv.org/pdf/1802.07569.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Parisi2019Continual.md)
 
     *German Ignacio Parisi, Ronald Kemker, Jose L. Part, Christopher Kanan, Stefan Wermter*
 
-22. **Contrastive Representation Learning: A Framework and Review.** IEEE 2020 [paper](http://doras.dcu.ie/25121/1/ACCESS3031549.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Le2020Contrastive.md)
+24. **Contrastive Representation Learning: A Framework and Review.** IEEE 2020 [paper](http://doras.dcu.ie/25121/1/ACCESS3031549.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Le2020Contrastive.md)
 
     *Phuc H. Le-Khac, Graham Healy, Alan F. Smeaton*
 
-23. **Convergence of Edge Computing and Deep Learning: A Comprehensive Survey.** IEEE 2020 [paper](https://ieeexplore.ieee.org/document/8976180) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020Convergence.md)
+25. **Convergence of Edge Computing and Deep Learning: A Comprehensive Survey.** IEEE 2020 [paper](https://ieeexplore.ieee.org/document/8976180) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2020Convergence.md)
 
     *Xiaofei Wang, Yiwen Han, Victor C.M. Leung, Dusit Niyato, Xueqiang Yan, Xu Chen*
 
-24. **Deep learning.** Nature 2015 [paper](https://www.nature.com/articles/nature14539) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/LeCun2015Deep.md)
+26. **Deep Generative Modelling: A Comparative Review of VAEs, GANs, Normalizing Flows, Energy-Based and
+Autoregressive Models.** arXiv 2021 [paper](https://arxiv.org/abs/2103.04922v1) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Taylor2021Deep.md)
+
+    *Sam Bond-Taylor, Adam Leach, Yang Long, Chris G. Willcocks*
+
+27. **Deep learning.** Nature 2015 [paper](https://www.nature.com/articles/nature14539) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/LeCun2015Deep.md)
 
     *Yann LeCun*
 
-25. **Deep Learning for 3D Point Cloud Understanding: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.08920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lu2020Deep.md)
+28. **Deep Learning for 3D Point Cloud Understanding: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.08920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lu2020Deep.md)
 
     *Haoming Lu, Humphrey Shi*
 
-26. **Deep Learning for Image Super-resolution: A Survey.** IEEE 2019 [paper](https://arxiv.org/abs/1902.06068) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2019Deep.md)
+29. **Deep Learning for Image Super-resolution: A Survey.** IEEE 2019 [paper](https://arxiv.org/abs/1902.06068) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Wang2019Deep.md)
 
     *Zhihao Wang, Jian Chen, Steven C.H. Hoi*
 
-27. **Deep Learning on Graphs: A Survey.** IEEE 2020 [paper](https://arxiv.org/abs/1812.04202) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhang2020Deep.md)
+30. **Deep Learning on Graphs: A Survey.** IEEE 2020 [paper](https://arxiv.org/abs/1812.04202) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhang2020Deep.md)
 
     *Ziwei Zhang, Peng Cui, Wenwu Zhu*
 
-28. **Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.** arXiv 2019 [paper](https://arxiv.org/abs/1908.10920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2019Deep.md)
+31. **Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective.** arXiv 2019 [paper](https://arxiv.org/abs/1908.10920) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2019Deep.md)
 
     *Guan-Horng Liu, Evangelos A. Theodorou*
 
-29. **Embracing Change: Continual Learning in Deep Neural Networks.** Trends inCognitive Science 2020 [paper](https://doi.org/10.1016/j.tics.2020.09.004) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Hadsell2020Embracing.md)
+32. **Dynamic Neural Networks: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2102.04906) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Han2021Dynamic.md)
+
+    *Yizeng Han, Gao Huang, Shiji Song, Le Yang, Honghui Wang, Yulin Wang*
+
+33. **Embracing Change: Continual Learning in Deep Neural Networks.** Trends inCognitive Science 2020 [paper](https://doi.org/10.1016/j.tics.2020.09.004) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Hadsell2020Embracing.md)
 
     *Raia Hadsell，Dushyant Rao，Andrei A. Rusu，Razvan Pascanu*
 
-30. **From Model-driven to Data-driven: A Survey on Active Deep Learning.** arXiv 2021 [paper](https://arxiv.org/abs/2101.09933) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2021From.md)
+34. **From Model-driven to Data-driven: A Survey on Active Deep Learning.** arXiv 2021 [paper](https://arxiv.org/abs/2101.09933) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2021From.md)
 
     *Peng Liu, Guojin He, Lei Zhao*
 
-31. **Geometric Deep Learning: Going beyond Euclidean data.** IEEE 2017 [paper](https://arxiv.org/abs/1611.08097) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bronstein2017Geometric.md)
+35. **Geometric Deep Learning: Going beyond Euclidean data.** IEEE 2017 [paper](https://arxiv.org/abs/1611.08097) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Bronstein2017Geometric.md)
 
     *Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst*
 
-32. **Hands-on Bayesian Neural Networks - a Tutorial for DeepLearning Users.** arXiv 2020 [paper](https://arxiv.org/abs/2007.06823) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Laurent2020Hands.md)
+36. **Hands-on Bayesian Neural Networks - a Tutorial for DeepLearning Users.** arXiv 2020 [paper](https://arxiv.org/abs/2007.06823) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Laurent2020Hands.md)
 
     *Laurent Valentin Jospin, et al*
 
-33. **Improving Deep Learning Models via Constraint-Based Domain Knowledge: a Brief Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.10691) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Borghesi2020Improving.md)
+37. **Improving Deep Learning Models via Constraint-Based Domain Knowledge: a Brief Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.10691) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Borghesi2020Improving.md)
 
     *Andrea Borghesi, Federico Baldo, Michela Milano*
 
-34. **Learning Deep Models for Face Anti-Spoofing Binary or Auxiliary Supervision.** CVPR 2018 [paper](https://arxiv.org/pdf/1803.11097.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2018Learning.md)
+38. **Learning Deep Models for Face Anti-Spoofing Binary or Auxiliary Supervision.** CVPR 2018 [paper](https://arxiv.org/pdf/1803.11097.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Liu2018Learning.md)
 
     *Liu Y, Jourabloo A, Liu X*
 
-35. **Learning from Noisy Labels with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.08199) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Song2020Learning.md)
+39. **Learning from Noisy Labels with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.08199) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Song2020Learning.md)
 
     *Hwanjun Song, Minseok Kim, Dongmin Park, Jae-Gil Lee*
 
-36. **Multimodal Intelligence: Representation Learning, Information Fusion, and Applications.** IEEE Journal of Selected Topics in Signal Processing 2020 [paper](https://ieeexplore.ieee.org/abstract/document/9068414) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhang2020Multimodal.md)
+40. **Model Complexity of Deep Learning: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.05127) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Hu2021Model.md)
+
+    *Xia Hu, Lingyang Chu, Jian Pei, Weiqing Liu, Jiang Bian*
+
+41. **Multimodal Intelligence: Representation Learning, Information Fusion, and Applications.** IEEE Journal of Selected Topics in Signal Processing 2020 [paper](https://ieeexplore.ieee.org/abstract/document/9068414) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Zhang2020Multimodal.md)
 
     *Chao Zhang, Zichao Yang, Xiaodong He, Li Deng*
 
-37. **Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.00753) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Samuel2020Opportunities.md)
+42. **Opportunities and Challenges in Deep Learning Adversarial Robustness: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2007.00753) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Samuel2020Opportunities.md)
 
     *Samuel Henrique Silva, Peyman Najafirad*
 
-38. **Pooling Methods in Deep Neural Networks, a Review.** arXiv 2020 [paper](https://arxiv.org/abs/2009.07485) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Gholamalinezhad2020Pooling.md)
+43. **Pooling Methods in Deep Neural Networks, a Review.** arXiv 2020 [paper](https://arxiv.org/abs/2009.07485) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Gholamalinezhad2020Pooling.md)
 
     *Hossein Gholamalinezhad, Hossein Khosravi*
 
-39. **Position Information in Transformers: An Overview.** arXIv 2021 [paper](https://arxiv.org/abs/2102.11090) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Dufter2021Position.md)
+44. **Position Information in Transformers: An Overview.** arXIv 2021 [paper](https://arxiv.org/abs/2102.11090) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Dufter2021Position.md)
 
     *Philipp Dufter, Martin Schmitt, Hinrich Schütze*
 
-40. **Privacy in Deep Learning: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.12254) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Fatemehsadat2020Privacy.md)
+45. **Privacy in Deep Learning: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.12254) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Fatemehsadat2020Privacy.md)
 
     *Fatemehsadat Mireshghallah, Mohammadkazem Taram, Praneeth Vepakomma, Abhishek Singh, Ramesh Raskar, Hadi Esmaeilzadeh*
 
-41. **Recent Advances in Deep Learning Theory.** arXiv 2020 [paper](https://arxiv.org/pdf/2012.10931.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/He2020Recent.md)
+46. **Recent Advances in Deep Learning Theory.** arXiv 2020 [paper](https://arxiv.org/pdf/2012.10931.pdf) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/He2020Recent.md)
 
     *Fengxiang He, Dacheng Tao*
 
-42. **Review: Ordinary Differential Equations For Deep Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1911.00502) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Chen2019Review.md)
+47. **Review: Ordinary Differential Equations For Deep Learning.** arXiv 2019 [paper](https://arxiv.org/abs/1911.00502) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Chen2019Review.md)
 
     *Xinshi Chen*
 
-43. **Short-term Traffic Prediction with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00712) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lee2020Short.md)
+48. **Short-term Traffic Prediction with Deep Neural Networks: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2009.00712) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lee2020Short.md)
 
     *Kyungeun Lee, Moonjung Eo, Euna Jung, Yoonjin Yoon, Wonjong Rhee*
 
-44. **Survey of Dropout Methods for Deep Neural Networks.** arXiv 2019 [paper](https://arxiv.org/abs/1904.13310) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Labach2019Survey.md)
+49. **Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks.** arXiv 2021 [paper](https://arxiv.org/abs/2102.00554) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Hoefler2020Sparsity.md)
+
+    *Torsten Hoefler, Dan Alistarh, Tal Ben-Nun, Nikoli Dryden, Alexandra Peste*
+
+50. **Survey of Dropout Methods for Deep Neural Networks.** arXiv 2019 [paper](https://arxiv.org/abs/1904.13310) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Labach2019Survey.md)
 
     *Alex Labach, Hojjat Salehinejad, Shahrokh Valaee*
 
-45. **Survey of Expressivity in Deep Neural Networks.** NIPS 2016 [paper](https://arxiv.org/abs/1611.08083) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Raghu2016Survey.md)
+51. **Survey of Expressivity in Deep Neural Networks.** NIPS 2016 [paper](https://arxiv.org/abs/1611.08083) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Raghu2016Survey.md)
 
     *Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohldickstein*
 
-46. **Survey of Network Representation Learning.** 计算机科学 2020 [paper](http://www.jsjkx.com/CN/10.11896/jsjkx.190300004) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Yu2020Survey.md)
+52. **Survey of Network Representation Learning.** 计算机科学 2020 [paper](http://www.jsjkx.com/CN/10.11896/jsjkx.190300004) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Yu2020Survey.md)
 
     *Ding Yu, Wei Hao, Pan Zhi-Song, Liu Xin*
 
-47. **Survey of reasoning using Neural networks.** arXiv 2017 [paper](https://arxiv.org/abs/1702.06186) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Sahu2017Survey.md)
+53. **Survey of reasoning using Neural networks.** arXiv 2017 [paper](https://arxiv.org/abs/1702.06186) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Sahu2017Survey.md)
 
     *Amit Sahu*
 
-48. **The Deep Learning Compiler: A Comprehensive Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2002.03794) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Li2020The.md)
+54. **The Deep Learning Compiler: A Comprehensive Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2002.03794) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Li2020The.md)
 
     *Mingzhen Li, Yi Liu, Xiaoyan Liu, Qingxiao Sun, Xin You, Hailong Yang, Zhongzhi Luan, Depei Qian*
 
-49. **The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches.** arXiv 2018 [paper](https://arxiv.org/abs/1803.01164) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Alom2018The.md)
+55. **The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches.** arXiv 2018 [paper](https://arxiv.org/abs/1803.01164) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Alom2018The.md)
 
     *Zahangir Alom, Tarek M Taha, Christopher Yakopcic, Stefan Westberg, Paheding Sidike, Mst Shamima Nasrin, Brian C Van Esesn, Abdul A S Awwal, Vijayan K Asari*
 
-50. **Time Series Forecasting With Deep Learning: A Survey.** Philosophical Transactions of the Royal Society 2020 [paper](https://arxiv.org/abs/2004.13408) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lim2020Time.md)
+56. **Time Series Forecasting With Deep Learning: A Survey.** Philosophical Transactions of the Royal Society 2020 [paper](https://arxiv.org/abs/2004.13408) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Lim2020Time.md)
 
     *Bryan Lim, Stefan Zohren*
 
-51. **Deep Learning for Matching in Search and Recommendation.** The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval 2018 [paper](https://dl.acm.org/doi/abs/10.1145/3209978.3210181) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Xu2018Deep.md)
+57. **Towards Causal Representation Learning.** IEEE 2021 [paper](https://arxiv.org/abs/2102.11107) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Schölkopf2021Towards.md)
+
+    *Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, Yoshua Bengio*
+
+58. **Deep Learning for Matching in Search and Recommendation.** The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval 2018 [paper](https://dl.acm.org/doi/abs/10.1145/3209978.3210181) [bib](/bib/Machine-Learning/Deep-Learning---General-Methods/Xu2018Deep.md)
 
     *Xu Jun, Xiangnan He, Hang Li*
 
@@ -1660,11 +1733,15 @@ and possible extensions.** IEEE transactions on knowledge and data engineering 2
 
     *Parimala M, Swarna Priya R M, Quoc-Viet Pham, Kapal Dev, Praveen Kumar Reddy Maddikunta, Thippa Reddy Gadekallu, Thien Huynh-The*
 
-6. **Threats to Federated Learning: A Survey.** Conference on Robot Learning 2020 [paper](https://arxiv.org/abs/2003.02133) [bib](/bib/Machine-Learning/Federated-Learning/Lyu2020Threats.md)
+6. **Privacy and Robustness in Federated Learning: Attacks and Defenses.** arXiv 2020 [paper](https://arxiv.org/abs/2012.06337) [bib](/bib/Machine-Learning/Federated-Learning/Lyu2020Privacy.md)
+
+    *Lingjuan Lyu, Han Yu, Xingjun Ma, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu*
+
+7. **Threats to Federated Learning: A Survey.** Conference on Robot Learning 2020 [paper](https://arxiv.org/abs/2003.02133) [bib](/bib/Machine-Learning/Federated-Learning/Lyu2020Threats.md)
 
     *Lingjuan Lyu, Han Yu, Qiang Yang*
 
-7. **Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective.** arXiv 2020 [paper](https://arxiv.org/abs/2002.11545v2) [bib](/bib/Machine-Learning/Federated-Learning/Jin2020Towards.md)
+8. **Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective.** arXiv 2020 [paper](https://arxiv.org/abs/2002.11545v2) [bib](/bib/Machine-Learning/Federated-Learning/Jin2020Towards.md)
 
     *Yilun Jin, Xiguang Wei, Yang Liu, Qiang Yang*
 
@@ -1937,169 +2014,193 @@ Applications.** IEEE Transactions on Knowledge and Data Engineering 2018 [paper]
 
     *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li*
 
-7. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arXiv 2020 [paper](https://arxiv.org/abs/2002.11867) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Chen2020Bridging.md)
+7. **Automated Machine Learning on Graphs: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.00742) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Zhang2021Automated.md)
+
+    *Ziwei Zhang, Xin Wang, Wenwu Zhu*
+
+8. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arXiv 2020 [paper](https://arxiv.org/abs/2002.11867) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Chen2020Bridging.md)
 
     *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu*
 
-8. **Computing Graph Neural Networks: A Survey from Algorithms to Accelerators.** arxiv 2020 [paper](http://arxiv.org/pdf/2010.00130v1.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Abadal2020Computing.md)
+9. **Computing Graph Neural Networks: A Survey from Algorithms to Accelerators.** arxiv 2020 [paper](http://arxiv.org/pdf/2010.00130v1.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Abadal2020Computing.md)
 
     *Sergi Abadal, Akshay Jain, Robert Guirado, Jorge López-Alonso, Eduard Alarcón*
 
-9. **Explainability in Graph Neural Networks: A Taxonomic Survey.** arxiv 2020 [paper](http://arxiv.org/pdf/2012.15445v1.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Yuan2020Explainability.md)
+10. **Deep Graph Structure Learning for Robust Representations: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.03036) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Zhu2021Deep.md)
+
+    *Yanqiao Zhu, Weizhi Xu, Jinghao Zhang, Qiang Liu, Shu Wu, Liang Wang*
+
+11. **Explainability in Graph Neural Networks: A Taxonomic Survey.** arxiv 2020 [paper](http://arxiv.org/pdf/2012.15445v1.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Yuan2020Explainability.md)
 
     *Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji*
 
-10. **Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.07496) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Skarding2020Foundations.md)
+12. **Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey.** arXiv 2020 [paper](https://arxiv.org/abs/2005.07496) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Skarding2020Foundations.md)
 
     *Joakim Skarding, Bogdan Gabrys, Katarzyna Musial*
 
-11. **Graph Embedding for Combinatorial Optimization: A Survey.** arXiv 2020 [paper](https://arxiv.org/pdf/2008.12646.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Peng2020Graph.md)
+13. **Graph Embedding for Combinatorial Optimization: A Survey.** arXiv 2020 [paper](https://arxiv.org/pdf/2008.12646.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Peng2020Graph.md)
 
     *Yun Peng, Byron Choi, Jianliang Xu*
 
-12. **Graph embedding techniques, applications, and performance: A survey.** Knowledge Based Systems 2018 [paper](https://arxiv.org/abs/1705.02801) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Goyal2018Graph.md)
+14. **Graph embedding techniques, applications, and performance: A survey.** Knowledge Based Systems 2018 [paper](https://arxiv.org/abs/1705.02801) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Goyal2018Graph.md)
 
     *Palash Goyal, Emilio Ferrara*
 
-13. **Graph Neural Network for Traffic Forecasting: A Survey.** arxiv 2021 [paper](http://arxiv.org/pdf/2101.11174v1.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Jiang2021Graph.md)
+15. **Graph Neural Network for Traffic Forecasting: A Survey.** arxiv 2021 [paper](http://arxiv.org/pdf/2101.11174v1.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Jiang2021Graph.md)
 
     *Weiwei Jiang, Jiayun Luo*
 
-14. **Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective.** arXiv 2020 [paper](https://arxiv.org/abs/2003.00330) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Lamb2020Graph.md)
+16. **Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective.** arXiv 2020 [paper](https://arxiv.org/abs/2003.00330) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Lamb2020Graph.md)
 
     *Luis C. Lamb, Artur Garcez, Marco Gori, Marcelo Prates, Pedro Avelar, Moshe Vardi*
 
-15. **Graph Neural Networks: A Review of Methods and Applications.** arXiv 2018 [paper](https://arxiv.org/abs/1812.08434) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Zhou2018Graph.md)
+17. **Graph Neural Networks: A Review of Methods and Applications.** arXiv 2018 [paper](https://arxiv.org/abs/1812.08434) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Zhou2018Graph.md)
 
     *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun*
 
-16. **Graph Neural Networks: Taxonomy, Advances and Trends.** arXiv 2020 [paper](https://arxiv.org/pdf/2012.08752.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Zhou2020Graph.md)
+18. **Graph Neural Networks: Taxonomy, Advances and Trends.** arXiv 2020 [paper](https://arxiv.org/pdf/2012.08752.pdf) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Zhou2020Graph.md)
 
     *Yu Zhou, Haixia Zheng, Xin Huang*
 
-17. **Introduction to Graph Neural Networks.** IEEE 2020 [paper](https://ieeexplore.ieee.org/document/9048171) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Liu2020Introduction.md)
+19. **Graph Self-Supervised Learning: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.00111) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Liu2021Graph.md)
+
+    *Yixin Liu, Shirui Pan, Ming Jin, Chuan Zhou, Feng Xia, Philip S. Yu*
+
+20. **Image/Video Deep Anomaly Detection: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.01739) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Mohammadi2021Image.md)
+
+    *Bahram Mohammadi, Mahmood Fathy, Mohammad Sabokrou*
+
+21. **Introduction to Graph Neural Networks.** IEEE 2020 [paper](https://ieeexplore.ieee.org/document/9048171) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Liu2020Introduction.md)
 
     *Zhiyuan Liu, Jie Zhou*
 
-18. **Self-Supervised Learning of Graph Neural Networks: A Unified Review.** arXiv 2021 [paper](https://arxiv.org/abs/2102.10757) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Xie2021Self.md)
+22. **Meta-Learning with GNNs:Methods&Applications.** arXiv 2021 [paper](https://arxiv.org/abs/2103.00137) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Mandal2021Meta-Learning.md)
+
+    *Debmalya Mandal, Sourav Medya, Brian Uzzi, Charu Aggarwal*
+
+23. **Self-Supervised Learning of Graph Neural Networks: A Unified Review.** arXiv 2021 [paper](https://arxiv.org/abs/2102.10757) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Xie2021Self.md)
 
     *Yaochen Xie, Zhao Xu, Zhengyang Wang, Shuiwang Ji*
 
-19. **Tackling Graphical NLP problems with Graph Recurrent Networks.** arXiv 2019 [paper](https://arxiv.org/abs/1907.06142) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Song2019Tackling.md)
+24. **Tackling Graphical NLP problems with Graph Recurrent Networks.** arXiv 2019 [paper](https://arxiv.org/abs/1907.06142) [bib](/bib/Machine-Learning/Graph-Neural-Networks/Song2019Tackling.md)
 
     *Linfeng Song*
 
 #### [Interpretability and Analysis](#content)
 
-1. **A brief survey of visualization methods for deep learning models from the perspective of Explainable AI.** Information Visualization 2018 [paper](http://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Chalkiadakis2020A.md)
-
-    *Ioannis Chalkiadakis*
-
-2. **A Survey Of Methods For Explaining Black Box Models.** ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/10.1145/3236009) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Guidotti2019A.md)
+1. **A Survey Of Methods For Explaining Black Box Models.** ACM Computing Surveys 2018 [paper](https://dl.acm.org/doi/10.1145/3236009) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Guidotti2019A.md)
 
     *Riccardo Guidotti, Anna Monreale, Salvatore Ruggieri, Franco Turini, Fosca Giannotti, Dino Pedreschi*
 
-3. **A Survey of Safety and Trustworthiness of Deep Neural Networks: Verification, Testing, Adversarial Attack and Defence, and Interpretability.** Computer ence 2018 [paper](https://arxiv.org/abs/1812.08342) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Huang2018Survey.md)
+2. **A Survey of Safety and Trustworthiness of Deep Neural Networks: Verification, Testing, Adversarial Attack and Defence, and Interpretability.** Computer ence 2018 [paper](https://arxiv.org/abs/1812.08342) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Huang2018Survey.md)
 
     *Xiaowei Huang, Daniel Kroening, Wenjie Ruan, James Sharp, Youcheng Sun, Emese Thamo, Min Wu, Xinping Yi*
 
-4. **A Survey on Explainability in Machine Reading Comprehension.** arxiv 2020 [paper](http://arxiv.org/pdf/2010.00389v1.pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Thayaparan2020A.md)
-
-    *Mokanarangan Thayaparan, Marco Valentino, André Freitas*
-
-5. **A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI.** IEEE TNNLS 2020 [paper](https://arxiv.org/abs/1907.07374) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Tjoa2020A.md)
+3. **A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI.** IEEE TNNLS 2020 [paper](https://arxiv.org/abs/1907.07374) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Tjoa2020A.md)
 
     *Erico Tjoa, Cuntai Guan*
 
-6. **A Survey on the Explainability of Supervised Machine Learning.** Journal of Artificial Intelligence Research 2020 [paper](https://arxiv.org/abs/2011.07876) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Burkart2020Survey.md)
+4. **A Survey on the Explainability of Supervised Machine Learning.** Journal of Artificial Intelligence Research 2020 [paper](https://arxiv.org/abs/2011.07876) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Burkart2020Survey.md)
 
     *Nadia Burkart, Marco F. Huber*
 
-7. **Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation.** Sigkdd Explorations 2020 [paper](https://arxiv.org/abs/2003.03934) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Moraffah2020Causal.md)
+5. **Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation.** Sigkdd Explorations 2020 [paper](https://arxiv.org/abs/2003.03934) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Moraffah2020Causal.md)
 
     *Raha Moraffah, Mansooreh Karami, Ruocheng Guo, Adrienne Raglin, Huan Liu*
 
-8. **Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI.** Information Fusion 2020 [paper](https://arxiv.org/abs/1910.10045) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Arrieta2020Explainable.md)
+6. **Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI.** Information Fusion 2020 [paper](https://arxiv.org/abs/1910.10045) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Arrieta2020Explainable.md)
 
     *Alejandro Barredo Arrieta, Natalia Diazrodriguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador Garcia, Sergio Gillopez, Daniel Molina, Richard Benjamins, Raja Chatila, Francisco Herrera*
 
-9. **Explainable Artificial Intelligence Approaches: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2101.09429) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Islam2021Explainable.md)
+7. **Explainable Artificial Intelligence Approaches: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2101.09429) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Islam2021Explainable.md)
 
     *Sheikh Rabiul Islam, William Eberle, Sheikh Khaled Ghafoor, Mohiuddin Ahmed*
 
-10. **Explainable artificial intelligence: A survey.** MIPRO 2018 [paper](https://ieeexplore.ieee.org/document/8400040) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Došilović2018Explainable.md)
+8. **Explainable artificial intelligence: A survey.** MIPRO 2018 [paper](https://ieeexplore.ieee.org/document/8400040) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Došilović2018Explainable.md)
 
     *Filip Karlo Došilović, Mario Brcic, Nikica Hlupic*
 
-11. **Explainable Reinforcement Learning: A Survey.** CD-MAKE 2020 2020 [paper](https://arxiv.org/abs/2005.06247) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Puiutta2020Explainable.md)
+9. **Explainable Reinforcement Learning: A Survey.** CD-MAKE 2020 2020 [paper](https://arxiv.org/abs/2005.06247) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Puiutta2020Explainable.md)
 
     *Erika Puiutta, Eric M. S. P. Veith*
 
-12. **Foundations of Explainable Knowledge-Enabled Systems.** Knowledge Graphs for eXplainable Artificial Intelligence: Foundations, Applications and Challenges/arXiv 2020 [paper](https://arxiv.org/abs/2003.07520) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Chari2020Foundations.md)
+10. **Foundations of Explainable Knowledge-Enabled Systems.** Knowledge Graphs for eXplainable Artificial Intelligence: Foundations, Applications and Challenges/arXiv 2020 [paper](https://arxiv.org/abs/2003.07520) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Chari2020Foundations.md)
 
     *Shruthi Chari*
 
-13. **How Convolutional Neural Networks See the World — A Survey of Convolutional Neural Network Visualization Methods.** Mathematical Foundations of Computing 2018 [paper](https://arxiv.org/abs/1804.11191) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Qin2018How.md)
+11. **How Convolutional Neural Networks See the World — A Survey of Convolutional Neural Network Visualization Methods.** Mathematical Foundations of Computing 2018 [paper](https://arxiv.org/abs/1804.11191) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Qin2018How.md)
 
     *Zhuwei Qin, Fuxun Yu, Chenchen Liu, Xiang Chen*
 
-14. **How Generative Adversarial Networks and Their Variants Work: An Overview.** IEEE 2017 [paper](https://arxiv.org/abs/1711.05914) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Hong2019How.md)
+12. **How Generative Adversarial Networks and Their Variants Work: An Overview.** IEEE 2017 [paper](https://arxiv.org/abs/1711.05914) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Hong2019How.md)
 
     *Yongjun Hong, Uiwon Hwang, Jaeyoon Yoo, Sungroh Yoon*
 
-15. **Interpretable Machine Learning -- A Brief History, State-of-the-Art and Challenges.** arxiv 2020 [paper](https://arxiv.org/abs/2010.09337) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Molnar2020Interpretable.md)
+13. **Interpretable Machine Learning -- A Brief History, State-of-the-Art and Challenges.** arxiv 2020 [paper](https://arxiv.org/abs/2010.09337) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Molnar2020Interpretable.md)
 
     *Christoph Molnar, Giuseppe Casalicchio, Bernd Bischl*
 
-16. **Language (Technology) is Power: A Critical Survey of "Bias" in NLP.** Association for Computational Linguistics 2020 [paper](https://arxiv.org/abs/2005.14050) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Blodgett2020Language.md)
+14. **Language (Technology) is Power: A Critical Survey of "Bias" in NLP.** Association for Computational Linguistics 2020 [paper](https://arxiv.org/abs/2005.14050) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Blodgett2020Language.md)
 
     *Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach*
 
-17. **Machine learning interpretability: A survey on methods and metrics.** Electronics 2019 [paper](https://www.mdpi.com/2079-9292/8/8/832/pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Carvalho2019Machine.md)
+15. **Machine learning interpretability: A survey on methods and metrics.** Electronics 2019 [paper](https://www.mdpi.com/2079-9292/8/8/832/pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Carvalho2019Machine.md)
 
     *Diogo V. Carvalho, Eduardo M. Pereira, Jaime S. Cardoso*
 
-18. **Opportunities and Challenges in Explainable Artificial Intelligence(XAI): A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.11371) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Arun2020Opportunities.md)
+16. **Opportunities and Challenges in Explainable Artificial Intelligence(XAI): A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2006.11371) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Arun2020Opportunities.md)
 
     *Arun Das, Paul Rad*
 
-19. **Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI).** IEEE Access 2018 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8466590) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Adadi2018Peeking.md)
+17. **Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI).** IEEE Access 2018 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8466590) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Adadi2018Peeking.md)
 
     *Amina Adadi, Mohammed Berrada*
 
-20. **Survey & Experiment: Towards the Learning Accuracy.** arXiv 2010 [paper](https://arxiv.org/abs/1012.4051) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Zhu2010Survey.md)
+18. **Survey & Experiment: Towards the Learning Accuracy.** arXiv 2010 [paper](https://arxiv.org/abs/1012.4051) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Zhu2010Survey.md)
 
     *Zeyuan Allen Zhu*
 
-21. **Survey of explainable machine learning with visual and granular methods beyond quasi-explanations.** arXiv 2020 [paper](https://arxiv.org/abs/2009.10221) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Kovalerchuk2020Survey.md)
+19. **Survey of explainable machine learning with visual and granular methods beyond quasi-explanations.** arXiv 2020 [paper](https://arxiv.org/abs/2009.10221) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Kovalerchuk2020Survey.md)
 
     *Kovalerchuk, Boris and Ahmad, Muhammad Aurangzeb and Teredesai, Ankur*
 
-22. **Understanding Neural Networks via Feature Visualization: A survey.** arXiv 2019 [paper](https://arxiv.org/abs/1904.08939) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Nguyen2019Understanding.md)
+20. **Understanding Neural Networks via Feature Visualization: A survey.** arXiv 2019 [paper](https://arxiv.org/abs/1904.08939) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Nguyen2019Understanding.md)
 
     *Anh Nguyen, Jason Yosinski, Jeff Clune*
 
-23. **Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers.** IEEE Transactions on Visualization and Computer Graphics 2019 [paper](https://arxiv.org/abs/1801.06889) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Hohman2019Visual.md)
+21. **Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers.** IEEE Transactions on Visualization and Computer Graphics 2019 [paper](https://arxiv.org/abs/1801.06889) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Hohman2019Visual.md)
 
     *Fred Hohman, Minsuk Kahng, Robert Pienta, Duen Horng Chau*
 
-24. **Visual interpretability for deep learning: a survey.** Frontiers of Information Technology & Electronic Engineering 2018 [paper](https://arxiv.org/abs/1802.00614) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Zhang2018Visual.md)
+22. **Visual interpretability for deep learning: a survey.** Frontiers of Information Technology & Electronic Engineering 2018 [paper](https://arxiv.org/abs/1802.00614) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Zhang2018Visual.md)
 
     *Quanshi Zhang, Songchun Zhu*
 
-25. **Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons.** arXiv 2019 [paper](https://arxiv.org/abs/1903.01768) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Gao2019Visualisation.md)
+23. **Visualisation of Pareto Front Approximation: A Short Survey and Empirical Comparisons.** arXiv 2019 [paper](https://arxiv.org/abs/1903.01768) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Gao2019Visualisation.md)
 
     *Huiru Gao, Haifeng Nie, Ke Li*
 
-26. **When will the mist clear? On the Interpretability of Machine Learning for Medical Applications: a survey.** arxiv 2020 [paper](https://arxiv.org/ftp/arxiv/papers/2010/2010.00353.pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Luna2020When.md)
+24. **When will the mist clear? On the Interpretability of Machine Learning for Medical Applications: a survey.** arxiv 2020 [paper](https://arxiv.org/ftp/arxiv/papers/2010/2010.00353.pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Luna2020When.md)
 
     *Antonio-Jesús Banegas-Luna, Jorge Peña-García, Adrian Iftene, Fiorella Guadagni, Patrizia Ferroni, Noemi
 Scarpato, Fabio Massimo Zanzotto, Andrés Bueno-Crespo, Horacio
 Pérez-Sánchez*
 
-27. **Which \*BERT? A Survey Organizing Contextualized Encoders.** EMNLP 2020 [paper](https://www.aclweb.org/anthology/2020.emnlp-main.608/) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Xia2020Which.md)
+#### [Interpretability and Analysis of Models for NLP](#content)
+
+1. **A Survey on Explainability in Machine Reading Comprehension.** arxiv 2020 [paper](http://arxiv.org/pdf/2010.00389v1.pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Thayaparan2020A.md)
+
+    *Mokanarangan Thayaparan, Marco Valentino, André Freitas*
+
+2. **Which *BERT? A Survey Organizing Contextualized Encoders.** EMNLP 2020 [paper](https://www.aclweb.org/anthology/2020.emnlp-main.608/) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Xia2020Which.md)
 
     *Patrick Xia, Shijie Wu, Benjamin Van Durme*
+
+#### [Interpretability and AnalysisA1](#content)
+
+1. **A brief survey of visualization methods for deep learning models from the perspective of Explainable AI.** Information Visualization 2018 [paper](http://www.macs.hw.ac.uk/~ic14/IoannisChalkiadakis_RRR.pdf) [bib](/bib/Machine-Learning/Interpretability-and-Analysis/Chalkiadakis2020A.md)
+
+    *Ioannis Chalkiadakis*
 
 #### [Meta Learning](#content)
 
@@ -2151,74 +2252,101 @@ Pérez-Sánchez*
 
     *Leonardo Enzo Brito da Silva, Islam Elnabarawy, Donald C. Wunsch II*
 
-5. **A Survey of Machine Learning Methods and Challenges for Windows Malware Classification.** arXiv 2020 [paper](https://arxiv.org/abs/2006.09271) [bib](/bib/Machine-Learning/ML-Applications/Raff2020A.md)
+5. **A Survey of Machine Learning for Computer Architecture and Systems.** arXiv 2021 [paper](https://arxiv.org/abs/2102.07952) [bib](/bib/Machine-Learning/ML-Applications/Wu2021A.md)
+
+    *Nan Wu, Yuan Xie*
+
+6. **A Survey of Machine Learning Methods and Challenges for Windows Malware Classification.** arXiv 2020 [paper](https://arxiv.org/abs/2006.09271) [bib](/bib/Machine-Learning/ML-Applications/Raff2020A.md)
 
     *Edward Raff, Charles Nicholas*
 
-6. **A survey on applications of augmented, mixed andvirtual reality for nature and environment.** arXiv 2020 [paper](https://arxiv.org/abs/2008.12024) [bib](/bib/Machine-Learning/ML-Applications/Rambach2020A.md)
+7. **A survey on applications of augmented, mixed andvirtual reality for nature and environment.** arXiv 2020 [paper](https://arxiv.org/abs/2008.12024) [bib](/bib/Machine-Learning/ML-Applications/Rambach2020A.md)
 
-    *Jason Rambach, Gergana Lilligreen, Alexander Schäfer, Ramya Bankanal, Alexander Wiebel, Didier Stricker*
+    *Jason Rambach, Gergana Lilligreen, Alexander Sch盲fer, Ramya Bankanal, Alexander Wiebel, Didier Stricker*
 
-7. **A survey on deep hashing for image retrieval.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05627) [bib](/bib/Machine-Learning/ML-Applications/Zhang2020A.md)
+8. **A survey on deep hashing for image retrieval.** arXiv 2020 [paper](https://arxiv.org/abs/2006.05627) [bib](/bib/Machine-Learning/ML-Applications/Zhang2020A.md)
 
     *Xiaopeng Zhang*
 
-8. **A Survey on Deep Learning based Brain-Computer Interface: Recent Advances and New Frontiers.** arXiv 2019 [paper](https://arxiv.org/abs/1905.04149v1) [bib](/bib/Machine-Learning/ML-Applications/Zhang2019A.md)
+9. **A Survey on Deep Learning based Brain-Computer Interface: Recent Advances and New Frontiers.** arXiv 2019 [paper](https://arxiv.org/abs/1905.04149v1) [bib](/bib/Machine-Learning/ML-Applications/Zhang2019A.md)
 
     *Xiang Zhang, Lina Yao, Xianzhi Wang, Jessica J M Monaghan, David Mcalpine, Yu Zhang*
 
-9. **A Survey on Deep Learning in Medical Image Analysis.** Medical Image Analysis 2017 [paper](https://arxiv.org/abs/1702.05747) [bib](/bib/Machine-Learning/ML-Applications/Litjens2017A.md)
+10. **A Survey on Deep Learning in Medical Image Analysis.** Medical Image Analysis 2017 [paper](https://arxiv.org/abs/1702.05747) [bib](/bib/Machine-Learning/ML-Applications/Litjens2017A.md)
 
     *Geert J S Litjens, Thijs Kooi, Babak Ehteshami Bejnordi, Arnaud A A Setio, Francesco Ciompi, Mohsen Ghafoorian, Jeroen A W M Van Der Laak, Bram Van Ginneken, Clara I Sanchez*
 
-10. **A Survey on Machine Learning Applied to Dynamic Physical Systems.** arxiv 2020 [paper](https://arxiv.org/pdf/2009.09719.pdf) [bib](/bib/Machine-Learning/ML-Applications/Verma2020A.md)
+11. **A Survey on Machine Learning Applied to Dynamic Physical Systems.** arxiv 2020 [paper](https://arxiv.org/pdf/2009.09719.pdf) [bib](/bib/Machine-Learning/ML-Applications/Verma2020A.md)
 
     *Sagar Verma*
 
-11. **Artificial Neural Networks-Based Machine Learning for Wireless Networks: A Tutorial.** IEEE 2019 [paper](https://ieeexplore.ieee.org/document/8755300) [bib](/bib/Machine-Learning/ML-Applications/Chen2019Artificial.md)
+12. **Artificial Neural Networks-Based Machine Learning for Wireless Networks: A Tutorial.** IEEE 2019 [paper](https://ieeexplore.ieee.org/document/8755300) [bib](/bib/Machine-Learning/ML-Applications/Chen2019Artificial.md)
 
     *Mingzhe Chen, Ursula Challita, Walid Saad, Changchuan Yin, Mérouane Debbah*
 
-12. **Deep Image Retrieval: A Survey.** arXiv 2021 [paper](https://arxiv.org/pdf/2101.11282.pdf) [bib](/bib/Machine-Learning/ML-Applications/Chen2021Deep.md)
+13. **Deep Image Retrieval: A Survey.** arXiv 2021 [paper](https://arxiv.org/pdf/2101.11282.pdf) [bib](/bib/Machine-Learning/ML-Applications/Chen2021Deep.md)
 
     *Wei Chen, Yu Liu, Weiping Wang, Erwin M. Bakker, Theodoros Georgiou, Paul
 Fieguth, Li Liu, Michael S. Lew*
 
-13. **Deep Learning for Scene Classification: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2101.10531) [bib](/bib/Machine-Learning/ML-Applications/Zeng2021Deep.md)
+14. **Deep Learning for Scene Classification: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2101.10531) [bib](/bib/Machine-Learning/ML-Applications/Zeng2021Deep.md)
 
     *Delu Zeng, Minyu Liao, Mohammad Tavakolian, Yulan Guo, Bolei Zhou, Dewen Hu, Matti Pietikäinen, Li Liu*
 
-14. **How Developers Iterate on Machine Learning Workflows -- A Survey of the Applied Machine Learning Literature.** arXiv 2018 [paper](https://arxiv.org/abs/1803.10311) [bib](/bib/Machine-Learning/ML-Applications/Xin2018How.md)
+15. **Fashion Meets Computer Vision: A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2003.13988) [bib](/bib/Machine-Learning/ML-Applications/Cheng2020Fashion.md)
+
+    *Wen-Huang Cheng, Sijie Song, Chieh-Yun Chen, Shintami Chusnul Hidayati, Jiaying Liu*
+
+16. **Going Deeper Into Face Detection: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2103.14983) [bib](/bib/Machine-Learning/ML-Applications/Minaee2021Going.md)
+
+    *Shervin Minaee, Ping Luo, Zhe Lin, Kevin Bowyer*
+
+17. **How Developers Iterate on Machine Learning Workflows -- A Survey of the Applied Machine Learning Literature.** arXiv 2018 [paper](https://arxiv.org/abs/1803.10311) [bib](/bib/Machine-Learning/ML-Applications/Xin2018How.md)
 
     *Doris Xin, Litian Ma, Shuchen Song, Aditya G. Parameswaran*
 
-15. **Local Differential Privacy and Its Applications: A Comprehensive Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2008.03686) [bib](/bib/Machine-Learning/ML-Applications/Yang2020Local.md)
+18. **Image-to-Image Translation: Methods and Applications.** arXiv 2021 [paper](https://arxiv.org/abs/2101.08629) [bib](/bib/Machine-Learning/ML-Applications/Pang2021Image-to-Image.md)
+
+    *Yingxue Pang, Jianxin Lin, Tao Qin, Zhibo Chen*
+
+19. **Local Differential Privacy and Its Applications: A Comprehensive Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2008.03686) [bib](/bib/Machine-Learning/ML-Applications/Yang2020Local.md)
 
     *Mengmeng Yang, Lingjuan Lyu, Jun Zhao, Tianqing Zhu, Kwok-Yan Lam*
 
-16. **Machine Learning Aided Static Malware Analysis: A Survey and Tutorial.** arXiv 2018 [paper](https://arxiv.org/abs/1808.01201) [bib](/bib/Machine-Learning/ML-Applications/Shalaginov2018Machine.md)
+20. **Machine Learning Aided Static Malware Analysis: A Survey and Tutorial.** arXiv 2018 [paper](https://arxiv.org/abs/1808.01201) [bib](/bib/Machine-Learning/ML-Applications/Shalaginov2018Machine.md)
 
     *Andrii Shalaginov, Sergii Banin, Ali Dehghantanha, Katrin Franke*
 
-17. **Machine Learning for Cataract Classification and Grading on Ophthalmic Imaging Modalities: A Survey.** arxiv 2020 [paper](http://arxiv.org/pdf/2012.04830v1.pdf) [bib](/bib/Machine-Learning/ML-Applications/Zhang2020Machine.md)
+21. **Machine Learning for Cataract Classification and Grading on Ophthalmic Imaging Modalities: A Survey.** arxiv 2020 [paper](http://arxiv.org/pdf/2012.04830v1.pdf) [bib](/bib/Machine-Learning/ML-Applications/Zhang2020Machine.md)
 
     *Xiaoqing Zhang, JianSheng Fang, Yan Hu, Yanwu Xu, Risa Higashita, Jiang Liu*
 
-18. **Machine Learning for Survival Analysis: A Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1708.04649) [bib](/bib/Machine-Learning/ML-Applications/Wang2017Machine.md)
+22. **Machine Learning for Electronic Design Automation: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2102.03357) [bib](/bib/Machine-Learning/ML-Applications/Huang2021Machine.md)
+
+    *Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Zhaoyang
+Shen, Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai
+Zhong, Xuefei Ning, Yuzhe Ma, Haoyu Yang, Bei
+Yu, Huazhong Yang, Yu Wang*
+
+23. **Machine Learning for Survival Analysis: A Survey.** arXiv 2017 [paper](https://arxiv.org/abs/1708.04649) [bib](/bib/Machine-Learning/ML-Applications/Wang2017Machine.md)
 
     *Ping Wang, Yan Li, Chandan K. Reddy*
 
-19. **Object Detection in 20 Years: A Survey.** IEEE 2019 [paper](https://arxiv.org/abs/1905.05055) [bib](/bib/Machine-Learning/ML-Applications/Zou2019Object.md)
+24. **Object Detection in 20 Years: A Survey.** IEEE 2019 [paper](https://arxiv.org/abs/1905.05055) [bib](/bib/Machine-Learning/ML-Applications/Zou2019Object.md)
 
     *Zhengxia Zou, Zhenwei Shi, Yuhong Guo, Jieping Ye*
 
-20. **The Creation and Detection of Deepfakes:A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11138v1) [bib](/bib/Machine-Learning/ML-Applications/Mirsky2020The.md)
+25. **The Creation and Detection of Deepfakes:A Survey.** arXiv 2020 [paper](https://arxiv.org/abs/2004.11138v1) [bib](/bib/Machine-Learning/ML-Applications/Mirsky2020The.md)
 
     *Yisroel Mirsky, Wenke Lee*
 
-21. **The Threat of Adversarial Attacks on Machine Learning in Network Security -- A Survey.** arxiv 2019 [paper](https://arxiv.org/pdf/1911.02621v2.pdf) [bib](/bib/Machine-Learning/ML-Applications/Ibitoye2019The.md)
+26. **The Threat of Adversarial Attacks on Machine Learning in Network Security -- A Survey.** arxiv 2019 [paper](https://arxiv.org/pdf/1911.02621v2.pdf) [bib](/bib/Machine-Learning/ML-Applications/Ibitoye2019The.md)
 
     *Olakunle Ibitoye, Rana Abou-Khamis, Ashraf Matrawy, M. Omair Shafiq*
+
+27. **Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey.** Ieee Access 6 2018 [paper](https://ieeexplore.ieee.org/abstract/document/8294186) [bib](/bib/Machine-Learning/ML-Applications/Akhtar2018Threat.md)
+
+    *Naveed Akhtar, Ajmal Mian*
 
 #### [Model Compression and Acceleration](#content)
 
@@ -2254,6 +2382,24 @@ Fieguth, Li Liu, Michael S. Lew*
 
     *Albert Reuther, Peter Michaleas, Michael Jones, Vijay Gadepally, Siddharth Samsi, Jeremy Kepner*
 
+#### [Multi-Label Learning](#content)
+
+1. **A Review on Multi-Label Learning Algorithms.** IEEE transactions on knowledge and data engineering 2013 [paper](https://ieeexplore.ieee.org/abstract/document/6471714) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Zhang2013A.md)
+
+    *Min-Ling Zhang, Zhi-Hua Zhou*
+
+2. **Multi-Label Classification: An Overview.** International Journal of Data Warehousing and Mining (IJDWM) 2007 [paper](https://www.igi-global.com/article/multi-label-classification/1786) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Tsoumakas2007Multi-Label.md)
+
+    *Grigorios Tsoumakas, Ioannis Katakis*
+
+3. **Multi‐label learning: a review of the state of the art and ongoing research.** Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 2014 [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1139) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Gibaja2014Multi-Label.md)
+
+    *Eva Gibaja, Sebastián Ventura*
+
+4. **The Emerging Trends of Multi-Label Learning.** arxiv 2020 [paper](https://arxiv.org/abs/2011.11197) [bib](/bib/Machine-Learning/Model-Compression-and-Acceleration/Liu2020The.md)
+
+    *Weiwei Liu, Xiaobo Shen, Haobo Wang, Ivor W. Tsang*
+
 #### [Multi-Task and Multi-View Learning](#content)
 
 1. **A Brief Review on Multi-Task Learning.** Multimedia Tools and Applications 2018 [paper](https://www.researchgate.net/publication/326903979_A_brief_review_on_multi-task_learning) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Thung2018A.md)
@@ -2287,6 +2433,16 @@ Fieguth, Li Liu, Michael S. Lew*
 8. **Revisiting Multi-Task Learning in the Deep Learning Era.** arXiv 2020 [paper](https://arxiv.org/abs/2004.13379) [bib](/bib/Machine-Learning/Multi-Task-and-Multi-View-Learning/Vandenhende2020Knowledge.md)
 
     *Simon Vandenhende, Stamatios Georgoulis, Marc Proesmans, Dengxin Dai, Luc Van Gool*
+
+#### [NLP-inspired Visual Models](#content)
+
+1. **A Survey on Visual Transformer.** arXiv 2021 [paper](https://arxiv.org/abs/2012.12556) [bib](/bib/Machine-Learning/NLP-inspired-Visual-Models/Han2021A.md)
+
+    *Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao*
+
+2. **Transformers in Vision: A Survey.** arXiv 2021 [paper](https://arxiv.org/abs/2101.01169) [bib](/bib/Machine-Learning/NLP-inspired-Visual-Models/Khan2021Transformers.md)
+
+    *Salman Khan, Muzammal Naseer, Munawar Hayat, Syed Waqas Zamir, Fahad Shahbaz Khan, Mubarak Shah*
 
 #### [Online Learning](#content)
 
@@ -2362,19 +2518,27 @@ Fieguth, Li Liu, Michael S. Lew*
 
     *Wenjuan Han, Yong Jiang, Hwee Tou Ng, Kewei Tu*
 
-3. **A survey on Semi-, Self- and Unsupervised Learning for Image Classification.**  2020 [paper](https://arxiv.org/abs/2002.08721) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Schmarje2020Survey.md)
+3. **A Survey on Deep Semi-supervised Learning.** arXiv 2021 [paper](https://arxiv.org/abs/2103.00550) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Yang2021A.md)
+
+    *Xiangli Yang, Zixing Song, Irwin King, Zenglin Xu*
+
+4. **A survey on Semi-, Self- and Unsupervised Learning for Image Classification.**  2020 [paper](https://arxiv.org/abs/2002.08721) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Schmarje2020Survey.md)
 
     *Lars Schmarje, Monty Santarossa, Simon-Martin Schröder, Reinhard Koch*
 
-4. **A Survey on Semi-Supervised Learning Techniques.** International Journal of Computer Trends & Technology 2014 [paper](https://arxiv.org/abs/1402.4645) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Prakash2014A.md)
+5. **A Survey on Semi-Supervised Learning Techniques.** International Journal of Computer Trends & Technology 2014 [paper](https://arxiv.org/abs/1402.4645) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Prakash2014A.md)
 
     *V. Jothi Prakash, Dr. L.M. Nithya*
 
-5. **Improvability Through Semi-Supervised Learning: A Survey of Theoretical Results.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09574) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Mey2019Improvability.md)
+6. **Graph-based Semi-supervised Learning: A Comprehensive Review.** arXiv 2021 [paper](https://arxiv.org/abs/2102.13303) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Song2021Graph-based.md)
+
+    *Zixing Song, Xiangli Yang, Zenglin Xu, Irwin King*
+
+7. **Improvability Through Semi-Supervised Learning: A Survey of Theoretical Results.** arXiv 2019 [paper](https://arxiv.org/abs/1908.09574) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Mey2019Improvability.md)
 
     *Alexander Mey, Marco Loog*
 
-6. **Learning from positive and unlabeled data: a survey.** Machine Learning 2020 [paper](https://arxiv.org/abs/1811.04820) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Bekker2020Learning.md)
+8. **Learning from positive and unlabeled data: a survey.** Machine Learning 2020 [paper](https://arxiv.org/abs/1811.04820) [bib](/bib/Machine-Learning/Semi-Supervised-and-Unsupervised-Learning/Bekker2020Learning.md)
 
     *Jessa Bekker, Jesse Davis*
 
@@ -2449,9 +2613,6 @@ Fieguth, Li Liu, Michael S. Lew*
 3. **Tutorial: Safe and Reliable Machine Learning.** ACM 2019 [paper](https://arxiv.org/abs/1904.07204) [bib](/bib/Machine-Learning/Trustworthy-Machine-Learning/Saria2019Tutorial.md)
 
     *Suchi Saria, Adarsh Subbaswamy*
-
-
-
 
 
 
