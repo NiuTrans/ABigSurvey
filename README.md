@@ -1745,6 +1745,11 @@ Autoregressive Models.** arXiv 2021 [paper](https://arxiv.org/abs/2103.04922v1) 
 
     *Yilun Jin, Xiguang Wei, Yang Liu, Qiang Yang*
 
+9. **Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning.** arXiv 2021 [paper](https://arxiv.org/abs/2102.12920)
+
+    * Shaoxiong Ji, Teemu Saravirta, Shirui Pan, Guodong Long, Anwar Walid*
+    
+
 #### [Few-Shot and Zero-Shot Learning](#content)
 
 1. **A Survey of Zero-Shot Learning: Settings, Methods, and Applications.** ACM Transactions on Intelligent Systems and Technology 2019 [paper](https://dl.acm.org/doi/10.1145/3293318) [bib](/bib/Machine-Learning/Few-Shot-and-Zero-Shot-Learning/Wang2019A.md)
