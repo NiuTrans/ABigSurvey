@@ -1747,7 +1747,7 @@ Autoregressive Models.** arXiv 2021 [paper](https://arxiv.org/abs/2103.04922v1) 
 
 9. **Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning.** arXiv 2021 [paper](https://arxiv.org/abs/2102.12920)
 
-    * Shaoxiong Ji, Teemu Saravirta, Shirui Pan, Guodong Long, Anwar Walid*
+    *Shaoxiong Ji, Teemu Saravirta, Shirui Pan, Guodong Long, Anwar Walid*
     
 
 #### [Few-Shot and Zero-Shot Learning](#content)
