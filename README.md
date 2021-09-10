@@ -530,7 +530,7 @@ Similarity.** Engineering Applications of Artificial Intelligence 2019 [paper](h
     *Mohamed Nadjib Mami, Damien Graux, Harsh Thakkar, Simon Scerri, Soren Auer, Jens Lehmann*
 
 19. **神经机器翻译前沿综述.** 中文信息学报 2020 [paper](http://124.16.136.79/CN/article/downloadArticleFile.do?attachType=PDF&id=2994) [bib](/bib/Natural-Language-Processing/Machine-Translation/Feng2020Survey.md)
-    *冯洋， 邵晨泽*
+     *冯洋， 邵晨泽*
 
 20. **Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey**, arXiv 2021, Cambridge PHD Thesis  [paper](https://arxiv.org/abs/2104.06951) 
     *Danielle Saunders*
