@@ -1,5 +1,5 @@
 ```
-@article{gatt2018survey,
+@article{Gatt2018Survey,
   title={Survey of the state of the art in natural language generation: Core tasks, applications and evaluation},
   author={Gatt, Albert and Krahmer, Emiel},
   journal={Journal of Artificial Intelligence Research},

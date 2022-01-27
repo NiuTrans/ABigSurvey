@@ -1,5 +1,5 @@
 ```
-@article{alishahi2019analyzing,
+@article{Alishahi2019Analyzing,
   title={Analyzing and interpreting neural networks for NLP: A report on the first BlackboxNLP workshop},
   author={Alishahi, Afra and Chrupa{\l}a, Grzegorz and Linzen, Tal},
   journal={Natural Language Engineering},

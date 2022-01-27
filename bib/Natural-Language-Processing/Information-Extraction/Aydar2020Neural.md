@@ -1,5 +1,5 @@
 ```
-@article{Mehmet2020Neural,
+@article{Aydar2020Neural,
   author    = {Mehmet Aydar and
                Ozge Bozal and
                Furkan Ozbay},

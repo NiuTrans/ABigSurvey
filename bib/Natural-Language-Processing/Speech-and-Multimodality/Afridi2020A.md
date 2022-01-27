@@ -1,5 +1,5 @@
 ```
-@article{Afridi2020Multimodal,
+@article{Afridi2020A,
   author    = {Tariq Habib Afridi and
                Aftab Alam and
                Muhammad Numan Khan and

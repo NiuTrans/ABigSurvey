@@ -1,5 +1,5 @@
 ```
-@article{buche2013opinion,
+@article{Buche2013Opinion,
   title={Opinion mining and analysis: a survey},
   author={Buche, Arti and Chandak, Dr and Zadgaonkar, Akshay},
   journal={International Journal on Natural Language Computing (IJNLC)},

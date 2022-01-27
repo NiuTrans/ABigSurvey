@@ -1,5 +1,5 @@
 ```
-@article{huang2020challenges,
+@article{Huang2020Challenges,
   title={Challenges in building intelligent open-domain dialog systems},
   author={Huang, Minlie and Zhu, Xiaoyan and Gao, Jianfeng},
   journal={ACM Transactions on Information Systems (TOIS)},

@@ -1,5 +1,5 @@
 ```
-@article{young2018recent,
+@article{Young2018Recent,
   title={Recent trends in deep learning based natural language processing},
   author={Young, Tom and Hazarika, Devamanyu and Poria, Soujanya and Cambria, Erik},
   journal={ieee Computational intelligenCe magazine},

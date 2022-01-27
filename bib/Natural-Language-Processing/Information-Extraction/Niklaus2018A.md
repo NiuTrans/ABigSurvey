@@ -1,5 +1,5 @@
 ```
-@inproceedings{Christina2018A,
+@inproceedings{Niklaus2018A,
   author={Christina Niklaus and Matthias Cetto and Andr{\'{e}} Freitas and Siegfried Handschuh},
   editor={Emily M. Bender and Leon Derczynski and Pierre Isabelle},
   title={A Survey on Open Information Extraction},

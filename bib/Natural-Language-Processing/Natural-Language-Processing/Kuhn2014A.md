@@ -1,5 +1,5 @@
 ```
-@article{Kuhn2015A,
+@article{Kuhn2014A,
   author    = {Tobias Kuhn},
   title     = {A Survey and Classification of Controlled Natural Languages},
   journal   = {CoRR},

@@ -1,5 +1,5 @@
 ```
-@article{Zaghouani2017Critical
+@article{Zaghouani2017Criticall
 	author    = {Wajdi Zaghouani},
 	title     = {Critical Survey of the Freely Available Arabic Corpora},
 	journal   = {CoRR},

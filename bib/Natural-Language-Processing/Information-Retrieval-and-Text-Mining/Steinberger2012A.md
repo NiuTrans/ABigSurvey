@@ -1,5 +1,5 @@
 ```
-@article{steinberger2012survey,
+@article{Steinberger2012A,
   title={A survey of methods to ease the development of highly multilingual text mining applications},
   author={Steinberger, Ralf},
   journal={Language resources and evaluation},

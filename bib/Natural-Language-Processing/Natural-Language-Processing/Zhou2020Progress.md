@@ -1,5 +1,5 @@
 ```
-@article{zhou2020progress,
+@article{Zhou2020Progress,
   title={Progress in neural NLP: modeling, learning, and reasoning},
   author={Zhou, Ming and Duan, Nan and Liu, Shujie and Shum, Heung-Yeung},
   journal={Engineering},

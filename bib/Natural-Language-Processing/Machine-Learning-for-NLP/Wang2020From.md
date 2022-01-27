@@ -1,5 +1,5 @@
 ```
-@article{wang2020static,
+@article{Wang2020From,
   title={From static to dynamic word representations: a survey},
   author={Wang, Yuxuan and Hou, Yutai and Che, Wanxiang and Liu, Ting},
   journal={International Journal of Machine Learning and Cybernetics},

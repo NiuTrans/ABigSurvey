@@ -1,5 +1,5 @@
 ```
-@article{DBLP:journals/corr/abs-2007-04239,
+@article{Alyafeai2020A,
   author    = {Zaid Alyafeai and
                Maged Saeed AlShaibani and
                Irfan Ahmad},
