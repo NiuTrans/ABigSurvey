@@ -13,8 +13,8 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#information-retrieval-and-text-mining">Information Retrieval and Text Mining</a>
     + <a href="#interpretability-and-analysis-of-models-for-nLP">Interpretability and Analysis of Models for NLP</a>
     + <a href="#knowledge-graph">Knowledge Graph</a>
-    + <a href="#language-grounding-to-vision-and-robotics-and-beyond">Language Grounding to Vision, Robotics and Beyond</a>
-    + <a href="#linguistic-theories-and-cognitive-modeling-and-psycholinguistics">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
+    + <a href="#language-grounding-to-vision-robotics-and-beyond">Language Grounding to Vision, Robotics and Beyond</a>
+    + <a href="#linguistic-theories-cognitive-modeling-and-psycholinguistics">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
     + <a href="#machine-learning-for-nlp">Machine Learning for NLP</a>
     + <a href="#machine-translation">Machine Translation</a>
     + <a href="#named-entity-recognition">Named Entity Recognition</a>
@@ -26,7 +26,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#recommender-systems">Recommender Systems</a>
     + <a href="#resources-and-evaluation">Resources and Evaluation</a>
     + <a href="#semantics">Semantics</a>
-    + <a href="#sentiment-analysis-and-stylistic-analysis-and-argument-mining">Sentiment Analysis, Stylistic Analysis and Argument Mining</a>
+    + <a href="#sentiment-analysis-stylistic-analysis-and-argument-mining">Sentiment Analysis, Stylistic Analysis and Argument Mining</a>
     + <a href="#speech-and-multimodality">Speech and Multimodality</a>
     + <a href="#summarization">Summarization</a>
     + <a href="#tagging-chunking-syntax-and-parsing">Tagging, Chunking, Syntax and Parsing</a>
