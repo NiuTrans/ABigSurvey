@@ -21,6 +21,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#natural-language-inference">Natural Language Inference</a>
     + <a href="#natural-language-processing">Natural Language Processing</a>
     + <a href="#nlp-applications">NLP Applications</a>
+    + <a href="#pre-training">Pre-training</a>
     + <a href="#question-answering">Question Answering</a>
     + <a href="#reading-comprehension">Reading Comprehension</a>
     + <a href="#recommender-systems">Recommender Systems</a>
