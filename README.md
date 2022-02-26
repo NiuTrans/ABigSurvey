@@ -40,7 +40,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#contrastive-learning">Contrastive Learning</a>
     + <a href="#curriculum-learning">Curriculum Learning</a>
     + <a href="#data-augmentation">Data Augmentation</a>
-    + <a href="#deep-learning">Deep Learning General Methods</a>
+    + <a href="#deep-learning-general-methods">Deep Learning General Methods</a>
     + <a href="#deep-reinforcement-learning">Deep Reinforcement Learning</a>
     + <a href="#federated-learning">Federated Learning</a>
     + <a href="#few-shot-and-zero-shot-learning">Few-Shot and Zero-Shot Learning</a>
@@ -48,10 +48,10 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#generative-adversarial-networks">Generative Adversarial Networks</a>
     + <a href="#graph-neural-networks">Graph Neural Networks</a>
     + <a href="#interpretability-and-analysis">Interpretability and Analysis</a>
-    + <a href="#konwledge-distillation">Knowledge Distillation</a>
+    + <a href="#knowledge-distillation">Knowledge Distillation</a>
     + <a href="#meta-learning">Meta Learning</a>
     + <a href="#metric-learning">Metric Learning</a>
-    + <a href="#ml-applications">ML and DL Applications</a>
+    + <a href="#ml-and-dl-applications">ML and DL Applications</a>
     + <a href="#model-compression-and-acceleration">Model Compression and Acceleration</a>
     + <a href="#multi-label-learning">Multi-Label Learning</a>
     + <a href="#multi-task-and-multi-view-learning">Multi-Task and Multi-View Learning</a>
