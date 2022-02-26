@@ -1,5 +1,5 @@
 ```
-@misc{bendre2020learning,
+@misc{Bendre2020Learning,
   author = {Bendre, Nihar and Marín, Hugo Terashima and Najafirad, Peyman},
   biburl = {https://www.bibsonomy.org/bibtex/217a058e479def71a5c5d80234f18092c/analyst},
   description = {[2007.15484] Learning from Few Samples: A Survey},

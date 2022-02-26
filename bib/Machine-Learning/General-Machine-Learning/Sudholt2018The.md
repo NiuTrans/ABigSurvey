@@ -7,7 +7,7 @@
   volume    = {abs/1801.10087},
   year      = {2018},
   url       = {http://arxiv.org/abs/1801.10087},
-  archivePrefix = {arXiv},
+  eprinttype = {arXiv},
   eprint    = {1801.10087},
   timestamp = {Mon, 13 Aug 2018 16:48:33 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1801-10087.bib},

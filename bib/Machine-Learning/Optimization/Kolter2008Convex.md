@@ -1,8 +1,7 @@
 ```
-@article{Kolter2008Convex,
-  title={Convex Optimization Overview},
-  author={Kolter, Zico and Lee, Honglak},
-  journal={Convex Optimization Overview},
-  year={2008},
+@MISC{Kolter2008Convex,
+    author = {Zico Kolter and Honglak Lee},
+    title = {Convex Optimization Overview},
+    year = {2008}
 }
 ```

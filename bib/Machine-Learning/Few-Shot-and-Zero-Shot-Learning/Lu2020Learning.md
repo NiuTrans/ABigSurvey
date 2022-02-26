@@ -1,5 +1,5 @@
 ```
-@article{ Lu2020Learning,
+@article{Lu2020Learning,
   author    = {Jiang Lu and
                Pinghua Gong and
                Jieping Ye and

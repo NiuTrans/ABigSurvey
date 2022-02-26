@@ -1,5 +1,5 @@
 ```
-@article{Bertsekas2019Feature-based,
+@article{Bertsekas2019Feature-Based,
   author    = {Dimitri P. Bertsekas},
   title     = {Feature-based aggregation and deep reinforcement learning: a survey
                and some new implementations},

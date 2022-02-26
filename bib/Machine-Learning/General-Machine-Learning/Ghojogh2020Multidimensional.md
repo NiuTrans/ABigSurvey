@@ -1,5 +1,5 @@
 ```
-@article{ Ghojogh2020Multidimensional,
+@article{Ghojogh2020Multidimensional,
   author    = {Benyamin Ghojogh and
                Ali Ghodsi and
                Fakhri Karray and

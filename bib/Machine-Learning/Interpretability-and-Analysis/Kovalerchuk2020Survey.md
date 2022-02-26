@@ -1,5 +1,5 @@
 ```
-@article{ Kovalerchuk2020Survey,
+@article{Kovalerchuk2020Survey,
   author    = {Boris Kovalerchuk and
                Muhammad Aurangzeb Ahmad and
                Ankur Teredesai},

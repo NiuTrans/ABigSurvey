@@ -1,5 +1,5 @@
 ```
-@article{Radulescu2020Multi-objective,
+@article{Radulescu2020Multi-Objective,
   author    = {Roxana Radulescu and
                Patrick Mannion and
                Diederik M. Roijers and

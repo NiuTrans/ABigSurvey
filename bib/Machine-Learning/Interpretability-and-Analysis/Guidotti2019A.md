@@ -14,7 +14,7 @@
   year      = {2019},
   url       = {https://doi.org/10.1145/3236009},
   doi       = {10.1145/3236009},
-  timestamp = {Thu, 09 May 2019 16:06:21 +0200},
+  timestamp = {Sat, 08 Jan 2022 02:23:15 +0100},
   biburl    = {https://dblp.org/rec/journals/csur/GuidottiMRTGP19.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
