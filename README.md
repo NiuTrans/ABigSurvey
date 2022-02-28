@@ -762,6 +762,9 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Shane Storks, Qiaozi Gao, Joyce Y Chai*
 
+20. **Domain Adaptation and Multi-Domain Adaptation for Neural Machine Translation: A Survey**, arXiv 2021, Cambridge PHD Thesis  [paper](https://arxiv.org/abs/2104.06951) 
+    *Danielle Saunders*
+
 #### [Natural Language Processing](#content)
 
 1. **A bit of progress in language modeling.** Comput. Speech Lang. 2001 [paper](https://www.sciencedirect.com/science/article/pii/S0885230801901743) [bib](/bib/Natural-Language-Processing/Natural-Language-Processing/Goodman2001A.md)
