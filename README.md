@@ -385,7 +385,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 9. **Topic Modelling Meets Deep Neural Networks: A Survey.** IJCAI 2021 [paper](https://arxiv.org/abs/2103.00498) [bib](/bib/Natural-Language-Processing/Information-Retrieval-and-Text-Mining/Zhao2021Topic.md)
 
     *He Zhao, Dinh Q. Phung, Viet Huynh, Yuan Jin, Lan Du, Wray L. Buntine*
-4. **Survey on English Entity Linking on Wikidata.** SWJ 2021 [paper](https://arxiv.org/abs/2112.01989) [bib](/bib/Natural-Language-Processing/Information-Retrieval-and-Text-Mining/Cedric2021Wikidata.md)
+4. **Survey on English Entity Linking on Wikidata.** Semantic Web 2021 [paper](https://arxiv.org/abs/2112.01989) [bib](/bib/Natural-Language-Processing/Information-Retrieval-and-Text-Mining/Cedric2021Wikidata.md)
 
     *Cedric Möller, Jens Lehmann, Ricardo Usbeck*
 
