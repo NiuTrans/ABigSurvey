@@ -1,5 +1,5 @@
 ```
-@article{Cedric2021Wikidata,
+@article{Moeller2021Wikidata,
   author    = {Cedric M{\"{o}}ller and
                Jens Lehmann and
                Ricardo Usbeck},
