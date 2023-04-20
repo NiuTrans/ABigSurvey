@@ -16,7 +16,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#interpretability-and-analysis-of-models-for-nLP">Interpretability and Analysis of Models for NLP</a>
     + <a href="#knowledge-graph">Knowledge Graph</a>
     + <a href="#language-grounding-to-vision-robotics-and-beyond">Language Grounding to Vision, Robotics and Beyond</a>
-    + <a href="#large-language-model">Large Language Models</a>
+    + <a href="#large-language-models">Large Language Models</a>
     + <a href="#linguistic-theories-cognitive-modeling-and-psycholinguistics">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
     + <a href="#machine-learning-for-nlp">Machine Learning for NLP</a>
     + <a href="#machine-translation">Machine Translation</a>
@@ -579,7 +579,7 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Aditya Mogadala, Marimuthu Kalimuthu, Dietrich Klakow*
 
-#### [Large Language Model](#content)
+#### [Large Language Models](#content)
 
 1. **A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT.** arXiv 2023 [paper](https://arxiv.org/abs/2303.04226) [bib](/bib/Natural-Language-Processing/Large-Language-Model/Cao2023A.md)
 
