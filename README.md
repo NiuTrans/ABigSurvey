@@ -14,7 +14,7 @@ We follow the ACL and ICML submission guideline of recent years, covering a broa
     + <a href="#interpretability-and-analysis-of-models-for-nLP">Interpretability and Analysis of Models for NLP</a>
     + <a href="#knowledge-graph">Knowledge Graph</a>
     + <a href="#language-grounding-to-vision-robotics-and-beyond">Language Grounding to Vision, Robotics and Beyond</a>
-    + <a href="#large-language-model">Large Language Model</a>
+    + <a href="#large-language-model">Large Language Models</a>
     + <a href="#linguistic-theories-cognitive-modeling-and-psycholinguistics">Linguistic Theories, Cognitive Modeling and Psycholinguistics</a>
     + <a href="#machine-learning-for-nlp">Machine Learning for NLP</a>
     + <a href="#machine-translation">Machine Translation</a>
@@ -4391,17 +4391,15 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
 The project is maintained by 
 
-*Ziyang Wang, Shuhan Zhou, Nuo Xu, Bei Li, Yinqiao Li, Quan Du, Tong Xiao, and Jingbo Zhu*
-
 *Natural Language Processing Lab., School of Computer Science and Engineering, Northeastern University*
 
 *NiuTrans Research*
 
-Please feel free to contact us if you have any questions (wangziyang [at] stumail.neu.edu.cn or libei_neu [at] outlook.com).
+Please feel free to contact us if you have any questions (libei_neu [at] outlook.com).
 
 ## Acknowledge
 
 We would like to thank the people who have contributed to this project. They are
 
-*Xin Zeng, Laohu Wang, Chenglong Wang, Xiaoqian Liu, Xuanjun Zhou, Jingnan Zhang, Yongyu Mu, Zefan Zhou, Yanhong Jiang, Xinyang Zhu, Xingyu Liu, Dong Bi, Ping Xu, Zijian Li, Fengning Tian, Hui Liu, Kai Feng, Yuhao Zhang, Chi Hu, Di Yang, Lei Zheng, Hexuan Chen, Zeyang Wang, Tengbo Liu, Xia Meng, Weiqiao Shan, Tao Zhou, Runzhe Cao, Yingfeng Luo, Binghao Wei, Wandi Xu, Yan Zhang, Yichao Wang, Mengyu Ma, Zihao Liu*
+*Chuanhao Lv, Kaiyan Chang, Ziyang Wang, Shuhan Zhou, Nuo Xu, Bei Li, Yinqiao Li, Quan Du, Xin Zeng, Laohu Wang, Chenglong Wang, Xiaoqian Liu, Xuanjun Zhou, Jingnan Zhang, Yongyu Mu, Zefan Zhou, Yanhong Jiang, Xinyang Zhu, Xingyu Liu, Dong Bi, Ping Xu, Zijian Li, Fengning Tian, Hui Liu, Kai Feng, Yuhao Zhang, Chi Hu, Di Yang, Lei Zheng, Hexuan Chen, Zeyang Wang, Tengbo Liu, Xia Meng, Weiqiao Shan, Tao Zhou, Runzhe Cao, Yingfeng Luo, Binghao Wei, Wandi Xu, Yan Zhang, Yichao Wang, Mengyu Ma, Zihao Liu*
 
