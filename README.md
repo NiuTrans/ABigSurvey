@@ -2,6 +2,8 @@
 
 In this document, we survey hundreds of survey papers on Natural Language  Processing (NLP) and Machine Learning (ML). We categorize these papers into popular topics and do simple counting for some interesting problems. In addition, we show the list of the papers with urls (1043 papers). 
 
+We add a NEW category of large language models!
+
 ## Categorization
 
 We follow the ACL and ICML submission guideline of recent years, covering a broad range of areas in NLP and ML. The categorization is as follows:
