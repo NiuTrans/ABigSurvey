@@ -1,20 +1,17 @@
 ```
 @article{Zhou2020Graph1,
-  author    = {Jie Zhou and
-               Ganqu Cui and
-               Zhengyan Zhang and
-               Cheng Yang and
-               Zhiyuan Liu and
-               Maosong Sun},
-  title     = {Graph Neural Networks: {A} Review of Methods and Applications},
+  author    = {Yu Zhou and
+               Haixia Zheng and
+               Xin Huang},
+  title     = {Graph Neural Networks: Taxonomy, Advances and Trends},
   journal   = {CoRR},
-  volume    = {abs/1812.08434},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1812.08434},
+  volume    = {abs/2012.08752},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2012.08752},
   archivePrefix = {arXiv},
-  eprint    = {1812.08434},
-  timestamp = {Wed, 02 Jan 2019 14:40:18 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-1812-08434.bib},
+  eprint    = {2012.08752},
+  timestamp = {Sat, 02 Jan 2021 15:43:30 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2012-08752.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
