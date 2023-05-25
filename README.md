@@ -74,27 +74,27 @@ To reduce class imbalance, we separate some of the hot sub-topics from the origi
 
 We show the number of paper in each area in Figures 1-2.
 
-<p align="center"><img src="https://s2.loli.net/2023/05/26/npjAmESQWfZquV6.png" width="60%" height="60%"/></p>
+<p align="center"><img src="https://s2.loli.net/2023/05/26/DUa43miWf5NFlZx.png" width="70%" height="70%"/></p>
 
 <p align="center">Figure 1: # of papers in each NLP area.</p>
 
-<p align="center"><img src="https://s2.loli.net/2023/05/26/YhQ4yHcBiO89xjD.png" width="60%" height="60%"/></p>
+<p align="center"><img src="https://s2.loli.net/2023/05/26/z3PslUXbZFd6qrB.png" width="70%" height="70%"/></p>
 
-<p align="center">Figure 2:  # of papers in each ML area..</p>
+<p align="center">Figure 2:  # of papers in each ML area.</p>
 
 Also, we plot paper number as a function of publication year (see Figure 3).
 
-<p align="center"><img src="https://s2.loli.net/2023/05/26/VPYsD2exRzK7Sph.png" width="60%" height="60%"/></p>
+<p align="center"><img src="https://s2.loli.net/2023/05/26/7tMmcRO1lK9N5hF.png" width="70%" height="70%"/></p>
 
 <p align="center">Figure 3: # of papers vs publication year.</p>
 
 In addition, we generate word clouds to show hot topics in these surveys (see Figures 4-5).
 
-<p align="center"><img src="https://s2.loli.net/2023/05/26/6RqNCKBwsEZtA3H.png" width="50%" height="50%"/></p>
+<p align="center"><img src="https://s2.loli.net/2023/05/26/6RqNCKBwsEZtA3H.png" width="60%" height="60%"/></p>
 
 <p align="center">Figure 4: The word cloud for NLP.</p>
 
-<p align="center"><img src="https://s2.loli.net/2023/05/26/zln92QYvmGLWMUE.png" width="50%" height="50%"/></p>
+<p align="center"><img src="https://s2.loli.net/2023/05/26/zln92QYvmGLWMUE.png" width="60%" height="60%"/></p>
 
 <p align="center">Figure 5: The word cloud for ML.</p>
 
