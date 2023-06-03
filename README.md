@@ -451,6 +451,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *He Zhao, Dinh Q. Phung, Viet Huynh, Yuan Jin, Lan Du, Wray L. Buntine*
 
+10. **Survey on English Entity Linking on Wikidata.** Semantic Web 2021 [paper](https://arxiv.org/abs/2112.01989) [bib](/bib/Natural-Language-Processing/Information-Retrieval-and-Text-Mining/Moeller2021Wikidata.md)
+
+     *Cedric Möller, Jens Lehmann, Ricardo Usbeck*
+
 #### [Interpretability and Analysis of Models for NLP](#content)
 
 1. **A Primer in BERTology: What we know about how BERT works.** Trans. Assoc. Comput. Linguistics 2020 [paper](https://arxiv.org/pdf/2002.12327.pdf) [bib](/bib/Natural-Language-Processing/Interpretability-and-Analysis-of-Models-for-NLP/Rogers2020A.md)
@@ -1282,6 +1286,10 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 16. **Visual Question Answering using Deep Learning: A Survey and Performance Analysis.** CVIP 2020 [paper](https://arxiv.org/abs/1909.01860) [bib](/bib/Natural-Language-Processing/Question-Answering/Srivastava2020Visual.md)
 
     *Yash Srivastava, Vaishnav Murali, Shiv Ram Dubey, Snehasis Mukherjee*
+
+16. **Survey on challenges of Question Answering in the Semantic Web.** Semantic Web 2017 [paper](https://content.iospress.com/articles/semantic-web/sw247) [bib](/bib/Natural-Language-Processing/Question-Answering/Hoeffner2017SW.md)
+
+    *Konrad Höffner, Sebastian Walter, Edgard Marx, Ricardo Usbeck, Jens Lehmann, Axel-Cyrille Ngonga Ngomo*
 
 #### [Reading Comprehension](#content)
 
