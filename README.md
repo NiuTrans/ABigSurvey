@@ -3127,6 +3127,11 @@ In addition, we generate word clouds to show hot topics in these surveys (see Fi
 
     *Yilun Jin, Xiguang Wei, Yang Liu, Qiang Yang*
 
+9. **Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning.** arXiv 2021 [paper](https://arxiv.org/abs/2102.12920)
+
+    *Shaoxiong Ji, Teemu Saravirta, Shirui Pan, Guodong Long, Anwar Walid*
+    
+
 #### [Few-Shot and Zero-Shot Learning](#content)
 
 1. **A Comprehensive Survey of Few-shot Learning: Evolution, Applications, Challenges, and Opportunities.** arXiv 2022 [paper](https://arxiv.org/pdf/2205.06743.pdf) [bib](/bib/Machine-Learning/Few-Shot-and-Zero-Shot-Learning/Song2022A.md)
