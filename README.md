@@ -2,7 +2,7 @@
 
 In this document, we survey hundreds of survey papers on Natural Language  Processing (NLP) and Machine Learning (ML). We categorize these papers into popular topics and do simple counting for some interesting problems. In addition, we show the list of the papers with urls (1063 papers). 
 
-:new: We add a NEW category of large language models! [<a href="#large-language-models">Large Language Models</a>]
+:new: A list of LLM surveys is released! [github]([https://arxiv.org/abs/1505.03084](https://github.com/NiuTrans/ABigSurveyOfLLMs))
 
 ## Categorization
 
